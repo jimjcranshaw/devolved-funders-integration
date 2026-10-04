@@ -3,3 +3,8 @@ data/
 *.pem
 __pycache__/
 .pytest_cache/
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key

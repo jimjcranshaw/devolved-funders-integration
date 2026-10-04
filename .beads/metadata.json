@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "Devolved_Funders_Integration",
+  "project_id": "ba6d8482-3a74-4de6-8b36-f32fac158e9f"
+}
