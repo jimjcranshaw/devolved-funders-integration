@@ -1,0 +1,52 @@
+{
+  "sampled": 5,
+  "context_cols": [
+    "description",
+    "website",
+    "oscr_purposes"
+  ],
+  "dry_run": false,
+  "grantmakers": 0,
+  "results": [
+    {
+      "id": 3,
+      "name": "City Of Brechin Civic Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Civic trust likely preserves local heritage, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 5,
+      "name": "Currie Community Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 6,
+      "name": "Stirling Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church, advances religion and runs community services, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 10,
+      "name": "Blairgowrie Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 15,
+      "name": "Live Active Leisure Limited",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Leisure trust providing sports and recreation services, not grants.",
+      "sent": true
+    }
+  ]
+}
