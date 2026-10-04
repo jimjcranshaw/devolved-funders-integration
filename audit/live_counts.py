@@ -39,7 +39,7 @@ def live_counts() -> dict:
     try:
         with conn.cursor() as cur:
             cur.execute("SELECT source_register, COUNT(*) FROM funders GROUP BY source_register ORDER BY 1")
-            by_register = [{"source_register": r[0], "funders": r[1]} for r in cur.fetchall()}
+            by_register = [{"source_register": r[0], "funders": r[1]} for r in cur.fetchall()]
             cur.execute(
                 "SELECT f.source_register, COUNT(*) FROM funders f "
                 "WHERE EXISTS (SELECT 1 FROM funding_opportunities o WHERE o.funder_id = f.id) "
