@@ -1,0 +1,132 @@
+{
+  "sampled": 20,
+  "context_cols": [
+    "description",
+    "website",
+    "oscr_purposes"
+  ],
+  "dry_run": true,
+  "grantmakers": 0,
+  "results": [
+    {
+      "id": 3,
+      "name": "City Of Brechin Civic Trust",
+      "prompt_chars": 428,
+      "sent": false
+    },
+    {
+      "id": 5,
+      "name": "Currie Community Church",
+      "prompt_chars": 385,
+      "sent": false
+    },
+    {
+      "id": 6,
+      "name": "Stirling Baptist Church",
+      "prompt_chars": 687,
+      "sent": false
+    },
+    {
+      "id": 10,
+      "name": "Blairgowrie Evangelical Church",
+      "prompt_chars": 648,
+      "sent": false
+    },
+    {
+      "id": 15,
+      "name": "Live Active Leisure Limited",
+      "prompt_chars": 620,
+      "sent": false
+    },
+    {
+      "id": 20,
+      "name": "Edinburgh Mathematical Society",
+      "prompt_chars": 435,
+      "sent": false
+    },
+    {
+      "id": 21,
+      "name": "East Kilbride West Kirk Church of Scotland",
+      "prompt_chars": 405,
+      "sent": false
+    },
+    {
+      "id": 23,
+      "name": "The Residuary of St John Scotland",
+      "prompt_chars": 589,
+      "sent": false
+    },
+    {
+      "id": 26,
+      "name": "Heriot-Watt University",
+      "prompt_chars": 366,
+      "sent": false
+    },
+    {
+      "id": 31,
+      "name": "Central Gurdwara Singh Sabha - Glasgow",
+      "prompt_chars": 583,
+      "sent": false
+    },
+    {
+      "id": 32,
+      "name": "Pleasance Trust",
+      "prompt_chars": 733,
+      "sent": false
+    },
+    {
+      "id": 33,
+      "name": "Eaglesfield Public Hall",
+      "prompt_chars": 1038,
+      "sent": false
+    },
+    {
+      "id": 34,
+      "name": "Rotary Club Of Forres Charitable Trust Fund",
+      "prompt_chars": 528,
+      "sent": false
+    },
+    {
+      "id": 39,
+      "name": "Augustine United Church",
+      "prompt_chars": 374,
+      "sent": false
+    },
+    {
+      "id": 40,
+      "name": "St Devenick Episcopal Church Bieldside: Aberdeen",
+      "prompt_chars": 511,
+      "sent": false
+    },
+    {
+      "id": 46,
+      "name": "Dunbar Parish Church",
+      "prompt_chars": 377,
+      "sent": false
+    },
+    {
+      "id": 47,
+      "name": "Morrisons Academy",
+      "prompt_chars": 373,
+      "sent": false
+    },
+    {
+      "id": 51,
+      "name": "Youth Scotland",
+      "prompt_chars": 731,
+      "sent": false
+    },
+    {
+      "id": 52,
+      "name": "Cornerstone Christian Fellowship",
+      "prompt_chars": 504,
+      "sent": false
+    },
+    {
+      "id": 60,
+      "name": "Cramond School Parent Staff Association",
+      "prompt_chars": 528,
+      "sent": false
+    }
+  ]
+}
