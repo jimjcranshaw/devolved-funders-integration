@@ -1,0 +1,17 @@
+{
+  "at": "2026-10-04T16:06:03.711003+00:00",
+  "db": "grantseeker_devolved",
+  "by_register": [
+    {
+      "source_register": "northern_ireland",
+      "funders": 519,
+      "with_opps": 294
+    },
+    {
+      "source_register": "scotland",
+      "funders": 5236,
+      "with_opps": 2687
+    }
+  ],
+  "total_opportunities": 3087
+}
