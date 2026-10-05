@@ -1,0 +1,5612 @@
+{
+  "sampled": 700,
+  "context_cols": [
+    "description",
+    "website",
+    "oscr_purposes"
+  ],
+  "dry_run": false,
+  "grantmakers": 106,
+  "results": [
+    {
+      "id": 3,
+      "name": "City Of Brechin Civic Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Civic trust likely preserves local heritage, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 5,
+      "name": "Currie Community Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 6,
+      "name": "Stirling Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church, advances religion and delivers services directly.",
+      "sent": true
+    },
+    {
+      "id": 10,
+      "name": "Blairgowrie Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 15,
+      "name": "Live Active Leisure Limited",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Leisure trust providing sport and recreation facilities, not grants",
+      "sent": true
+    },
+    {
+      "id": 20,
+      "name": "Edinburgh Mathematical Society",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Learned society likely awards grants for mathematical research and education.",
+      "sent": true
+    },
+    {
+      "id": 21,
+      "name": "East Kilbride West Kirk Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church of Scotland congregation, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 23,
+      "name": "The Residuary of St John Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 26,
+      "name": "Heriot-Watt University",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "University advancing education, not primarily giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 31,
+      "name": "Central Gurdwara Singh Sabha - Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Gurdwara is a religious congregation, not a grantmaking foundation.",
+      "sent": true
+    },
+    {
+      "id": 32,
+      "name": "Pleasance Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Purposes suggest direct community services, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 33,
+      "name": "Eaglesfield Public Hall",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Public hall likely provides community services, not grants",
+      "sent": true
+    },
+    {
+      "id": 34,
+      "name": "Rotary Club Of Forres Charitable Trust Fund",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Rotary Club local service charity, not primarily grantmaking",
+      "sent": true
+    },
+    {
+      "id": 39,
+      "name": "Augustine United Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 40,
+      "name": "St Devenick Episcopal Church Bieldside: Aberdeen",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 46,
+      "name": "Dunbar Parish Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 47,
+      "name": "Morrisons Academy",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "School academy advancing education, not grantmaking to organisations",
+      "sent": true
+    },
+    {
+      "id": 51,
+      "name": "Youth Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "National youth work support body, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 52,
+      "name": "Cornerstone Christian Fellowship",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Church advancing religion and relieving need, not giving grants",
+      "sent": true
+    },
+    {
+      "id": 60,
+      "name": "Cramond School Parent Staff Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parent staff association fundraising for one school, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 63,
+      "name": "Door Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Religious/education/community charity, not primarily grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 69,
+      "name": "Campsie Parish Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 71,
+      "name": "Anderson & Woodman Library Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Library trust likely provides library services, not grants to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 75,
+      "name": "Corstorphine Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely heritage/community charity, not primarily grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 78,
+      "name": "Scottish Rock Garden Club",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Membership club for rock garden enthusiasts, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 79,
+      "name": "Edinburgh: Meadowbank and Willowbrae Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church of Scotland congregation, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 87,
+      "name": "Isla Spey Deveron Group of Churches.",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Group of churches advancing religion, not giving grants",
+      "sent": true
+    },
+    {
+      "id": 88,
+      "name": "Deeside Christian Fellowship",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 96,
+      "name": "Rosskeen Free Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Free church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 99,
+      "name": "Dundee Clepington Congregation Of Jehovahs Witnesses",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Jehovah's Witnesses congregation, religious organization not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 100,
+      "name": "Piobaireachd Society",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Promotes piobaireachd music education and culture, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 101,
+      "name": "Yoker Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 104,
+      "name": "212th Glasgow Boys Brigade Company",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Youth organisation, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 105,
+      "name": "Zetland Educational Trust Schemes 1961 to 1965",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Educational trust schemes typically distribute grants to individuals or organisations.",
+      "sent": true
+    },
+    {
+      "id": 106,
+      "name": "Church On The Way",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 107,
+      "name": "Dalkeith Miners' Charitable Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Miners' society likely provides community services, not grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 108,
+      "name": "An Comunn Gaidhealach",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Promotes Gaelic language and culture, not primarily grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 110,
+      "name": "Inch Community Education Centre Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Community education centre providing services, not granting to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 115,
+      "name": "Waldensian Missions Aid Society For Work In Italy With Which Is Incorporated The Italian Evangelization Society",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Missions aid society likely funds work in Italy",
+      "sent": true
+    },
+    {
+      "id": 123,
+      "name": "St Ninian's Episcopal Church:Prestwick",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church, service-delivery religious organisation, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 126,
+      "name": "St Patrick's Missionary Society Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Missionary society advances religion, not primarily grantmaking to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 128,
+      "name": "Friends of Edinburgh University Library",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Friends group supporting university library, not granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 129,
+      "name": "Perth Civic Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Civic trust likely heritage projects, not grantmaking to others",
+      "sent": true
+    },
+    {
+      "id": 134,
+      "name": "Glasgow Society Of Organists",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Membership society for organists, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 136,
+      "name": "Rotary Club Of Fraserburgh Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary club trust funds typically make grants to community causes.",
+      "sent": true
+    },
+    {
+      "id": 141,
+      "name": "Archiestown Village Council",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Village council provides community facilities and activities, not grants.",
+      "sent": true
+    },
+    {
+      "id": 143,
+      "name": "St Thomas Church: Aboyne",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 147,
+      "name": "Scottish Electrical Charitable Training Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Provides electrical training and education, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 148,
+      "name": "RC Diocese Of Dunkeld",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Diocese is a religious body, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 155,
+      "name": "Ayr Fort Players",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Amateur theatre group advancing arts, not giving grants",
+      "sent": true
+    },
+    {
+      "id": 158,
+      "name": "Guild Of Players",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Theatre company advancing arts, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 162,
+      "name": "Grand Lodge Of Scotland Annuity Benevolent & Charity Funds",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Benevolent and charity funds typically distribute grants to individuals or groups.",
+      "sent": true
+    },
+    {
+      "id": 164,
+      "name": "Hammermen Society",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely a society/club, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 167,
+      "name": "Feisean Nan Gaidheal",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Arts development organization, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 169,
+      "name": "Royal Scottish Forestry Society",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Professional membership society for forestry education and advocacy, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 170,
+      "name": "John Muir Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Conservation charity delivering environmental protection, not primarily grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 171,
+      "name": "Rotary Club Of Langholm Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary club trust funds typically make grants to community causes",
+      "sent": true
+    },
+    {
+      "id": 183,
+      "name": "True Jesus Church Of Edinburgh",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 188,
+      "name": "St Marks Scottish Episcopal Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 194,
+      "name": "Operation Heart Start",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity providing emergency life support training",
+      "sent": true
+    },
+    {
+      "id": 195,
+      "name": "Kirkcaldy Congregational Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily giving grants to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 198,
+      "name": "James IV Association Of Surgeons Fund Of The United Kingdom",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Association fund likely provides grants for surgical education and health.",
+      "sent": true
+    },
+    {
+      "id": 201,
+      "name": "St Peters Episcopal Church: Peebles",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Local Episcopal church advancing religion, not granting to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 203,
+      "name": "Franco-Scottish Society Of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely cultural society, not primarily grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 207,
+      "name": "Cartsbridge Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Evangelical church advancing religion, not granting to other organizations",
+      "sent": true
+    },
+    {
+      "id": 216,
+      "name": "Angus Choral Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Choral society, performs music, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 226,
+      "name": "Pantheon Club (Glasgow) Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Theatre company advancing arts, not giving grants",
+      "sent": true
+    },
+    {
+      "id": 228,
+      "name": "St James Episcopal Church: Leith",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to other organizations",
+      "sent": true
+    },
+    {
+      "id": 231,
+      "name": "Portobello Congregation Of Jehovahs Witnesses",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Jehovah's Witnesses congregation; religious worship, not grantmaking to organizations.",
+      "sent": true
+    },
+    {
+      "id": 232,
+      "name": "Loanhead Miners Charitable Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Provides recreational facilities and sports activities, not grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 234,
+      "name": "Liberty Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 239,
+      "name": "Falkirk Arts Network.",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Arts network likely supports members, not primarily grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 241,
+      "name": "University Of Aberdeen Development Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "University development trust fundraising for university, not grantmaking to others",
+      "sent": true
+    },
+    {
+      "id": 247,
+      "name": "St James Episcopal Church: Dollar",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 248,
+      "name": "Paisley & District Scout Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Scout association delivers youth activities, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 250,
+      "name": "Tollcross YMCA",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "YMCA provides recreational and community services, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 254,
+      "name": "Forfar Congregation Of Jehovahs Witnesses",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Jehovah's Witnesses congregation, religious organization not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 257,
+      "name": "Perth and Kinross Heritage Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Heritage conservation charity, likely delivers projects directly, not grants.",
+      "sent": true
+    },
+    {
+      "id": 258,
+      "name": "Kirkcudbright Academy School Fund",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "School fund supporting its own academy, not granting to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 263,
+      "name": "YMPA",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Likely youth music education charity, not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 264,
+      "name": "West Glasgow New Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily giving grants to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 272,
+      "name": "Daviot Parish Church Of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 277,
+      "name": "Legion Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity supporting veterans, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 278,
+      "name": "Bellevue Chapel",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 279,
+      "name": "Radio Clyde Cash for Kids",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Cash for Kids distributes grants to children's charities and causes.",
+      "sent": true
+    },
+    {
+      "id": 281,
+      "name": "The Killearn Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trust with broad charitable purposes likely makes grants",
+      "sent": true
+    },
+    {
+      "id": 288,
+      "name": "Hopeman Community Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Community association providing facilities and activities, not grants",
+      "sent": true
+    },
+    {
+      "id": 291,
+      "name": "St Peters Episcopal Church: Musselburgh",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church, primarily religious worship and community services",
+      "sent": true
+    },
+    {
+      "id": 292,
+      "name": "Friends of the City Art Centre & Museums",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Friends support a specific museum, likely service delivery not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 293,
+      "name": "The Scottish Cot Death Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity supporting families and funding research, not grantmaking to organisations.",
+      "sent": true
+    },
+    {
+      "id": 295,
+      "name": "Lossiemouth Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 296,
+      "name": "Bonnyrigg Parish Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 297,
+      "name": "Downfield Musical Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Musical society likely performs, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 301,
+      "name": "Gate Church International SCIO",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church with religious and community service purposes",
+      "sent": true
+    },
+    {
+      "id": 302,
+      "name": "Free Presbyterian Church Of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily giving grants to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 304,
+      "name": "Scottish Council For Voluntary Organisations",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Membership body for voluntary sector, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 312,
+      "name": "The Kilmacolm and Port Glasgow Agricultural Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Agricultural society running annual show, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 314,
+      "name": "Edinburgh Science Foundation Ltd.",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Runs science festival; delivers educational activities, not grants to others.",
+      "sent": true
+    },
+    {
+      "id": 315,
+      "name": "Cowdenbeath Trinity Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 319,
+      "name": "William Adams Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Purposes suggest religious and relief activities, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 320,
+      "name": "Skye Environmental Centre Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Environmental education centre delivering services, not granting to others",
+      "sent": true
+    },
+    {
+      "id": 323,
+      "name": "Rotary Club Of Leith Benevolent Fund",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Rotary club likely service-delivery, not primarily grantmaking",
+      "sent": true
+    },
+    {
+      "id": 326,
+      "name": "Tayside Christian Fellowship",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Religious fellowship, advances religion; not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 332,
+      "name": "Scottish Shipping Benevolent Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity providing relief to seafarers in need",
+      "sent": true
+    },
+    {
+      "id": 333,
+      "name": "University Of St Andrews After Many Days Club",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Alumni club supporting university, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 334,
+      "name": "Tay Rivers Trust LTD",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Environmental protection charity, likely delivers conservation work directly.",
+      "sent": true
+    },
+    {
+      "id": 335,
+      "name": "Orkney Heritage Society",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Heritage society likely runs own projects, not primarily grantmaking",
+      "sent": true
+    },
+    {
+      "id": 337,
+      "name": "Dundee Christadelphian Ecclesia",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Religious congregation advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 350,
+      "name": "Motherwell Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 351,
+      "name": "Fair Isle Endowment Trust 1986",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Bird observatory charity, likely service delivery not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 353,
+      "name": "University Of Edinburgh Development Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "University development trust, likely fundraising for university not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 354,
+      "name": "The Queen's Own Highlanders Regimental Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Regimental association providing welfare and heritage, not grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 358,
+      "name": "Friends Of The Cruickshank Botanic Garden",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Supports botanic garden; likely service-delivery charity, not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 364,
+      "name": "Gaelic Language Promotion Trust",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Trust likely funds Gaelic language promotion via grants.",
+      "sent": true
+    },
+    {
+      "id": 376,
+      "name": "Royal Highland & Agricultural Society of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Agricultural society; likely runs events and education, not primarily grants.",
+      "sent": true
+    },
+    {
+      "id": 378,
+      "name": "Fraserburgh South Park School Fund",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "School fund supporting its own pupils, not granting to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 379,
+      "name": "Knockbain Free Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 380,
+      "name": "Incorporation Of Gardeners Of Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely a membership society for gardeners, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 381,
+      "name": "The Tall Ship Glenlee Trust",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Operates museum ship; delivers heritage education directly, not grants.",
+      "sent": true
+    },
+    {
+      "id": 382,
+      "name": "The Incorporation Of Coopers Of Glasgow",
+      "is_grantmaker": true,
+      "confidence": 0.6,
+      "reason": "Multiple broad charitable purposes suggest possible grantmaking, but unclear.",
+      "sent": true
+    },
+    {
+      "id": 384,
+      "name": "Eskvalley Model Engineering Society (SCIO)",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Model engineering society providing recreational activities, not grants",
+      "sent": true
+    },
+    {
+      "id": 388,
+      "name": "Clarkston Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 389,
+      "name": "Highland Deaf Childrens Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity supporting deaf children, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 390,
+      "name": "St Columba's Episcopal Church: Largs",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 393,
+      "name": "George Watson's Family Foundation",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "School foundation supporting George Watson's College education",
+      "sent": true
+    },
+    {
+      "id": 399,
+      "name": "Dunfermline United Reformed Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 404,
+      "name": "St Georges Tron Church of Scotland, Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 407,
+      "name": "Meyer Oppenheim Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Trust with broad charitable purposes, likely grantmaking",
+      "sent": true
+    },
+    {
+      "id": 410,
+      "name": "Murrayfield Injured Players Foundation",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Injured players foundation likely provides direct support, not grants",
+      "sent": true
+    },
+    {
+      "id": 411,
+      "name": "Royal British Legion Scotland Edinburgh Central Branch",
+      "is_grantmaker": false,
+      "confidence": 0.85,
+      "reason": "Local branch providing welfare and community services, not grants",
+      "sent": true
+    },
+    {
+      "id": 414,
+      "name": "Wellington School",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "School advancing education, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 415,
+      "name": "Aigas Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely conservation/education charity, not primarily grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 419,
+      "name": "George Macleod Charitable Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trust with broad charitable purposes likely makes grants",
+      "sent": true
+    },
+    {
+      "id": 424,
+      "name": "Kilbarchan General Society",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely local society, not primarily grantmaking to organisations",
+      "sent": true
+    },
+    {
+      "id": 426,
+      "name": "Church Of God Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 431,
+      "name": "Interserve Scotland and Ireland",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Religious mission/service delivery charity, not primarily a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 434,
+      "name": "University Of Edinburgh",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "University delivers education, not primarily grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 437,
+      "name": "Episcopal Diocese Of Argyll And The Isles",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Diocese advancing religion, not primarily giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 438,
+      "name": "Hamilton Hillhouse Parish Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 439,
+      "name": "SHARP",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Health advancement charity likely service delivery, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 440,
+      "name": "Glasgow Tree Lovers Society",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Environmental society likely delivers own projects, not grants to others.",
+      "sent": true
+    },
+    {
+      "id": 449,
+      "name": "Girlguiding East Lothian",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Local Girlguiding unit delivering youth activities, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 451,
+      "name": "All Saints Church Bearsden",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 457,
+      "name": "Airdrie Reformed Presbyterian Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily granting to other organizations",
+      "sent": true
+    },
+    {
+      "id": 464,
+      "name": "Jordanhill School Educational Amenities Trust Fund",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "School educational trust fund, not a grantmaker to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 465,
+      "name": "The Queen's Nursing Institute Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Professional nursing body, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 469,
+      "name": "CALICO - Cancer and Leukaemia In Children Orientated (Grampian Area)",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity supporting children with cancer and leukaemia.",
+      "sent": true
+    },
+    {
+      "id": 472,
+      "name": "The Black Watch Regimental Trust Limited",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Regimental trust likely supports its own regiment, not grants to others",
+      "sent": true
+    },
+    {
+      "id": 474,
+      "name": "Central",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 476,
+      "name": "St Marys Episcopal Church: Hamilton",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 477,
+      "name": "NHS Greater Glasgow And Clyde",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "NHS health board providing healthcare services, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 478,
+      "name": "St Marys Episcopal Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church, advances religion and relief, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 482,
+      "name": "St Michael's Episcopal Church: Elie",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 483,
+      "name": "Royal Air Forces Association - Glasgow Branch",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Branch of membership charity providing welfare support, not grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 485,
+      "name": "Jewish Student Chaplaincy Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Provides chaplaincy and support services, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 486,
+      "name": "Mugdock Childrens Trust - Archibald & Isabella Barr Memorial",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Trust likely provides grants to children's causes",
+      "sent": true
+    },
+    {
+      "id": 487,
+      "name": "Lintel Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Trust likely provides grants for housing and community projects.",
+      "sent": true
+    },
+    {
+      "id": 488,
+      "name": "Glasgow Mathematical Journal Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Trust likely funds mathematical journal and research grants.",
+      "sent": true
+    },
+    {
+      "id": 490,
+      "name": "Castle Rock Edinvar Housing Association Limited",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Housing association providing housing services, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 494,
+      "name": "Glasgow Agricultural Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Agricultural society runs shows; not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 496,
+      "name": "Beatson Institute For Cancer Research",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Research institute conducting cancer research, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 498,
+      "name": "The Vine Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 502,
+      "name": "Perth Gospel Hall",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Gospel Hall is a religious congregation, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 503,
+      "name": "St Peters Episcopal Church: Galashiels",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church, primarily religious worship and community services",
+      "sent": true
+    },
+    {
+      "id": 504,
+      "name": "St Mary's Cathedral, Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Cathedral advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 506,
+      "name": "William J Thomson Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Website is a university; likely supports its own research/education.",
+      "sent": true
+    },
+    {
+      "id": 510,
+      "name": "Edinburgh: Corstorphine St Anne's Parish Church (Church of Scotland)",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 513,
+      "name": "Society of St. Vincent De Paul (Scotland)",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity providing direct poverty relief",
+      "sent": true
+    },
+    {
+      "id": 517,
+      "name": "Argyll & Sutherland Highlanders Regimental Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Regimental association provides welfare support, not grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 519,
+      "name": "Darwin Trust Of Edinburgh",
+      "is_grantmaker": true,
+      "confidence": 0.95,
+      "reason": "Trust funds education and science, likely grants to researchers/organisations.",
+      "sent": true
+    },
+    {
+      "id": 520,
+      "name": "Scottish Youth & The Countryside Education Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Education and environmental charity, not primarily grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 522,
+      "name": "Scottish Schools Football Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Sports association for schools, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 523,
+      "name": "Brookfield Village Council",
+      "is_grantmaker": false,
+      "confidence": 0.85,
+      "reason": "Village council likely runs community activities, not grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 525,
+      "name": "Scottish SPCA",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Animal welfare service-delivery charity, not a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 526,
+      "name": "St Michael & All Angels Church: Helensburgh",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 527,
+      "name": "Society of Friends of Glasgow Cathedral",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Friends support Glasgow Cathedral, a religious site, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 531,
+      "name": "Royal Caledonian Horticultural Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Horticultural society likely delivers own programs, not grants.",
+      "sent": true
+    },
+    {
+      "id": 532,
+      "name": "Friends Of Glasgow University Library",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Friends group supporting university library, not granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 533,
+      "name": "Scottish Homoeopathic Research & Education Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Research and education trust, not primarily grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 534,
+      "name": "Findlay Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 537,
+      "name": "Galloway Association of Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Association likely provides services and activities, not grants",
+      "sent": true
+    },
+    {
+      "id": 538,
+      "name": "South Lochaber Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 539,
+      "name": "Mid Argyll Arts Association",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Arts association likely delivers arts activities, not grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 542,
+      "name": "Chryston Church Of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 544,
+      "name": "The Heralds Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Advancement of religion purpose suggests church or religious charity, not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 548,
+      "name": "FRIENDS OF ABERDEEN ARCHIVES, GALLERY AND MUSEUMS",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Friends support group for museums, not grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 549,
+      "name": "Kintyre Antiquarian & Natural History Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Local history society, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 555,
+      "name": "Fernielea Gospel Hall",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Gospel Hall advances religion, likely a church not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 556,
+      "name": "Link Christian Fellowship",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 559,
+      "name": "Struthers Memorial Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion and education, not granting to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 561,
+      "name": "Glasgow University Students Representative Council",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Student representative council, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 562,
+      "name": "The Jubilo Society SCIO",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Arts/culture charity likely delivers own programs, not grants.",
+      "sent": true
+    },
+    {
+      "id": 563,
+      "name": "Gifford Horticultural Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Horticultural society likely runs activities, not grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 564,
+      "name": "Geological Society Of Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Learned society advancing geology education, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 572,
+      "name": "Comunn Na Gaidhlig",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Promotes Gaelic language and culture, likely service delivery not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 575,
+      "name": "Christ In You Fellowship",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Religious fellowship, likely church, not grantmaking to organisations",
+      "sent": true
+    },
+    {
+      "id": 576,
+      "name": "Harper Memorial Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church advancing religion, not granting to other organizations",
+      "sent": true
+    },
+    {
+      "id": 579,
+      "name": "Findhorn Foundation",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Educational and spiritual community, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 580,
+      "name": "Glasgow Chinese Christian Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 582,
+      "name": "Christadelphian Ecclesia (Glasgow South)",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Christadelphian Ecclesia is a religious congregation, not a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 584,
+      "name": "Texel Sheep Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Breed society, not primarily grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 589,
+      "name": "City Gates Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 590,
+      "name": "NHS Lothian Charity",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "NHS health board charity, primarily service delivery and fundraising",
+      "sent": true
+    },
+    {
+      "id": 597,
+      "name": "St Davids Memorial Park Church of Scotland, Kirkintilloch",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organizations",
+      "sent": true
+    },
+    {
+      "id": 608,
+      "name": "Stirlingshire Educational Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Educational trust likely provides grants for education-related purposes.",
+      "sent": true
+    },
+    {
+      "id": 609,
+      "name": "Mile End PTA & PTA FUNdraising",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "PTA fundraising for its own school, not granting to others",
+      "sent": true
+    },
+    {
+      "id": 613,
+      "name": "Friends Of St Machars Cathedral",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Friends of cathedral likely supports cathedral activities, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 614,
+      "name": "Scottish Unitarian Assoc",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Unitarian association advances religion, not primarily grantmaking",
+      "sent": true
+    },
+    {
+      "id": 615,
+      "name": "M L Macintyre Begonia Trust",
+      "is_grantmaker": false,
+      "confidence": 0.6,
+      "reason": "Likely a trust but purposes suggest direct charitable activities, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 616,
+      "name": "Alloa Ludgate Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 619,
+      "name": "Riverside Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 625,
+      "name": "Deveron District Age Concern",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity for elderly, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 626,
+      "name": "Blairgowrie & District Rotary Benevolent Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary benevolent fund likely makes grants to community causes",
+      "sent": true
+    },
+    {
+      "id": 631,
+      "name": "Rotary Club Of Lochaber Charity Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary club charity fund likely makes grants to community causes.",
+      "sent": true
+    },
+    {
+      "id": 638,
+      "name": "Glasgow Children's Hospital Charity",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Hospital charity providing services and support, not primarily grantmaking to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 640,
+      "name": "Glen Tanar Charitable Trust",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Trust likely provides grants to organisations in its focus areas.",
+      "sent": true
+    },
+    {
+      "id": 642,
+      "name": "Maryhill Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 646,
+      "name": "Incorporation Of Tailors In Glasgow",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trades House incorporation likely distributes funds to related causes",
+      "sent": true
+    },
+    {
+      "id": 649,
+      "name": "Edinburgh Geological Society",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Learned society advancing geology, not primarily grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 650,
+      "name": "Scottish Bowlers Fellowship",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Fellowship for bowlers, likely service-delivery or membership organisation.",
+      "sent": true
+    },
+    {
+      "id": 653,
+      "name": "Interlink",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Service-delivery charity with broad purposes, not primarily grantmaking",
+      "sent": true
+    },
+    {
+      "id": 654,
+      "name": "Guildry Incorporation of Perth",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Incorporation likely distributes grants to local causes",
+      "sent": true
+    },
+    {
+      "id": 659,
+      "name": "Grampian Motor Training Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Motor training trust likely delivers education/training directly, not grants.",
+      "sent": true
+    },
+    {
+      "id": 662,
+      "name": "Hebron Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Evangelical church, not a grantmaking foundation",
+      "sent": true
+    },
+    {
+      "id": 663,
+      "name": "Kirriemuir Free Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 666,
+      "name": "Dalkeith Agricultural Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Agricultural society likely runs shows, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 667,
+      "name": "Providing For People In Paisley",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity addressing poverty and community needs directly.",
+      "sent": true
+    },
+    {
+      "id": 671,
+      "name": "Ebenezer Evangelical Church - Airdrie",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church, advances religion; not primarily a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 674,
+      "name": "Canonmills Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 675,
+      "name": "Una Voce Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Religious advocacy group, not a grantmaker to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 677,
+      "name": "Renfrew Christian Fellowship",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Christian fellowship advancing religion and relieving need, not granting to others",
+      "sent": true
+    },
+    {
+      "id": 678,
+      "name": "Helensburgh Lions Club Charity Trust Fund",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Lions Club is a service-delivery charity, not a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 679,
+      "name": "Theodore Salvesen Memorial Trust",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Trust with generic purposes likely makes grants",
+      "sent": true
+    },
+    {
+      "id": 681,
+      "name": "Danestone Congregational Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Congregational church, not a grantmaking foundation",
+      "sent": true
+    },
+    {
+      "id": 683,
+      "name": "Albyn School Limited",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Independent school delivering education, not granting to others",
+      "sent": true
+    },
+    {
+      "id": 694,
+      "name": "Celt Street Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Evangelical church advancing religion, not giving grants",
+      "sent": true
+    },
+    {
+      "id": 695,
+      "name": "Rotary Club of Broughty Ferry Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Rotary club trust funds typically distribute grants to community organisations.",
+      "sent": true
+    },
+    {
+      "id": 697,
+      "name": "Archdiocese of St Andrews and Edinburgh",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Religious archdiocese, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 698,
+      "name": "Auchtermuchty Theatre Group",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Theatre group delivering arts activities, not granting to others",
+      "sent": true
+    },
+    {
+      "id": 700,
+      "name": "The Columba Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trust with broad charitable purposes likely makes grants.",
+      "sent": true
+    },
+    {
+      "id": 702,
+      "name": "Aberdeen Bach Choir",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Choir is a performing arts group, not a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 703,
+      "name": "Highland Breast Care Association",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Likely service-delivery charity for breast care support",
+      "sent": true
+    },
+    {
+      "id": 706,
+      "name": "Holm Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Evangelical church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 707,
+      "name": "MBA",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Provides recreational facilities and activities, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 714,
+      "name": "North East Mountain Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Environmental protection charity, not primarily a grantmaker to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 724,
+      "name": "Lodge St Ayle No 95 Benevolent Fund",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Masonic lodge benevolent fund, likely direct relief not grants",
+      "sent": true
+    },
+    {
+      "id": 725,
+      "name": "Alexander Moncur Trust",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Trust with broad charitable purposes likely makes grants",
+      "sent": true
+    },
+    {
+      "id": 727,
+      "name": "Merchants House Of Glasgow",
+      "is_grantmaker": true,
+      "confidence": 0.95,
+      "reason": "Charitable trust distributing grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 731,
+      "name": "Church Of The Good Shepherd",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 736,
+      "name": "Friends Of Aberdeen University Library",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Supports university library, not granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 740,
+      "name": "Govan Housing Association Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Housing association provides housing services, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 741,
+      "name": "Scottish Traction Engine Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Society for traction engine enthusiasts, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 744,
+      "name": "Royal Air Forces Association Edinburgh, Lothian & Borders Branch",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Branch of membership charity providing welfare support, not grants",
+      "sent": true
+    },
+    {
+      "id": 746,
+      "name": "Scottish Mountaineering Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Trust likely funds mountaineering-related grants and projects.",
+      "sent": true
+    },
+    {
+      "id": 747,
+      "name": "forthgiving",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Name 'forthgiving' and purposes suggest grantmaking foundation.",
+      "sent": true
+    },
+    {
+      "id": 749,
+      "name": "Dunkeld & District Strathspey & Reel Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Society advances education and arts, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 752,
+      "name": "Scottish International Education Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Trust likely provides grants for educational purposes",
+      "sent": true
+    },
+    {
+      "id": 753,
+      "name": "Barcapel Foundation Limited",
+      "is_grantmaker": true,
+      "confidence": 0.95,
+      "reason": "Foundation with broad charitable purposes, likely grantmaking",
+      "sent": true
+    },
+    {
+      "id": 754,
+      "name": "Edinburgh Old Town Association",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Community association, not primarily grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 755,
+      "name": "Friends Of Roxburghe House Grampian",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Friends of hospital; likely supports patients, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 757,
+      "name": "Episcopal Church Of St Mary The Virgin",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 758,
+      "name": "The Scottish Association of Young Farmers Clubs [SCIO]",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Membership association for young farmers clubs, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 759,
+      "name": "Edinburgh University Sports Union",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Student sports union providing recreational activities, not grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 760,
+      "name": "Middleton Village Hall",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Village hall providing community facilities, not granting to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 761,
+      "name": "Incorporation Of Barbers In Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Trade incorporation likely provides member services, not grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 763,
+      "name": "The Hugh Fraser Foundation",
+      "is_grantmaker": true,
+      "confidence": 0.95,
+      "reason": "Foundation with broad charitable purposes, likely grantmaking",
+      "sent": true
+    },
+    {
+      "id": 766,
+      "name": "Life Church Orkney Limited",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 768,
+      "name": "Leith Industrial School Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trust likely distributes funds for education",
+      "sent": true
+    },
+    {
+      "id": 776,
+      "name": "Irvine Burns Club",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Club advancing education, culture; not primarily grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 779,
+      "name": "Society Of The Sacred Heart",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Religious order, not primarily a grantmaker to other organizations",
+      "sent": true
+    },
+    {
+      "id": 780,
+      "name": "The Corra Foundation",
+      "is_grantmaker": true,
+      "confidence": 0.95,
+      "reason": "Corra Foundation is a known grant-making foundation in Scotland.",
+      "sent": true
+    },
+    {
+      "id": 785,
+      "name": "Campbeltown Community Business Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Operates cinema/arts venue, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 787,
+      "name": "Bonnyrigg & Lasswade Local History Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Local history society, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 788,
+      "name": "Dunoon Congregation Of Jehovahs Witnesses",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Religious congregation, not a grantmaking foundation",
+      "sent": true
+    },
+    {
+      "id": 790,
+      "name": "Scottish Disability Sport (Sds)",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Sports participation charity, not a grantmaker to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 791,
+      "name": "Buccleuch & Greyfriars Free Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 792,
+      "name": "Portobello United Free Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 797,
+      "name": "Musselburgh East Community Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Community association providing services and facilities, not grants",
+      "sent": true
+    },
+    {
+      "id": 799,
+      "name": "Tenovus Scotland",
+      "is_grantmaker": true,
+      "confidence": 0.95,
+      "reason": "Medical research charity funding grants to scientists and clinicians",
+      "sent": true
+    },
+    {
+      "id": 800,
+      "name": "Shetland Cattle Herd Book Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Breed society for Shetland cattle, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 801,
+      "name": "Friends of Insch Hospital and Community SCIO",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Likely service-delivery charity supporting hospital and community.",
+      "sent": true
+    },
+    {
+      "id": 805,
+      "name": "Weavers Society Of Anderston",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely a service-delivery charity, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 807,
+      "name": "Orchardhill Parish Church of Scotland, Giffnock",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 813,
+      "name": "SOC",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Likely service-delivery charity focused on education, arts, environment.",
+      "sent": true
+    },
+    {
+      "id": 815,
+      "name": "Scottish National War Memorial",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "War memorial museum; preserves heritage, does not grant to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 816,
+      "name": "Royal Celtic Society",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Society likely funds educational and cultural grants.",
+      "sent": true
+    },
+    {
+      "id": 817,
+      "name": "Ardvreck School Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Independent school, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 818,
+      "name": "Assembly Of Christians Holburn Hall",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 819,
+      "name": "Bethany Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 821,
+      "name": "Holywood Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Trust with broad charitable purposes typically makes grants",
+      "sent": true
+    },
+    {
+      "id": 822,
+      "name": "Edinburgh Voluntary Organisations Council",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Council supports voluntary organisations, likely distributes grants.",
+      "sent": true
+    },
+    {
+      "id": 823,
+      "name": "Nairn United Reformed Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 825,
+      "name": "Crow Road Free Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 828,
+      "name": "Falkirk Bohemian Amateur Operatic & Dramatic Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Amateur operatic society delivers arts activities, not grants.",
+      "sent": true
+    },
+    {
+      "id": 831,
+      "name": "Scottish Music Therapy Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Likely service-delivery charity providing music therapy, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 834,
+      "name": "Glasgow East Nazarene",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church (Nazarene) with religious and community purposes, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 837,
+      "name": "Age Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity for older people, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 841,
+      "name": "Clincarthill Parish Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 842,
+      "name": "British Association For Lung Research",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely a professional association for lung research, not primarily a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 844,
+      "name": "Assynt, Rosehall and Scourie Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church of Scotland congregation advancing religion, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 845,
+      "name": "Caithness Agricultural Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Agricultural society likely runs shows, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 848,
+      "name": "Breasclete Community Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Community association providing local services and facilities, not grants.",
+      "sent": true
+    },
+    {
+      "id": 852,
+      "name": "Thomas Lyon Bequest",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely church-related charity, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 858,
+      "name": "St John the Evangelist Scottish Episcopal Church, Forres.",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Scottish Episcopal church, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 869,
+      "name": "Society Of Antiquaries Of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Learned society advancing archaeology and heritage, not primarily grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 873,
+      "name": "Church Of God: Elgin",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church providing religious and community services, not grants",
+      "sent": true
+    },
+    {
+      "id": 874,
+      "name": "Aberdeen Endowments Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Endowments trust typically distributes grants for education and arts.",
+      "sent": true
+    },
+    {
+      "id": 880,
+      "name": "RC Diocese Of Galloway",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Diocese is a religious body, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 881,
+      "name": "St Serfs Episcopal Church: Burntisland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 887,
+      "name": "Haddington Parish (Church of Scotland)",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church of Scotland parish, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 888,
+      "name": "Cornerstone Church, Dalgety Bay",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 890,
+      "name": "Officers Association Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Membership association for officers, provides welfare support not grants",
+      "sent": true
+    },
+    {
+      "id": 892,
+      "name": "Voluntary Action Orkney",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Likely a volunteer support organisation, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 895,
+      "name": "Scottish Fiddle Orchestra",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Orchestra performs music, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 897,
+      "name": "Scottish Bible Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Religious charity distributing bibles, not primarily giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 900,
+      "name": "RBLS - Banchory Branch - Benevolent Fund",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Royal British Legion branch providing welfare and community services, not grants",
+      "sent": true
+    },
+    {
+      "id": 901,
+      "name": "David Livingstone International Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely service-delivery charity based on broad relief purposes",
+      "sent": true
+    },
+    {
+      "id": 904,
+      "name": "Planning Exchange Foundation",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Education/arts foundation, likely operates own programmes not grants",
+      "sent": true
+    },
+    {
+      "id": 907,
+      "name": "Life Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 908,
+      "name": "St Ninian's Episcopal Church: Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 911,
+      "name": "RC Diocese Of Motherwell",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Diocese is a religious body, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 912,
+      "name": "Tayside NHS Board Endowment Funds",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "NHS endowment fund, not primarily grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 914,
+      "name": "Scottish Assoc Of Change Ringers Bell Restoration Fund",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Bell restoration fund likely grants to churches for bell repairs",
+      "sent": true
+    },
+    {
+      "id": 917,
+      "name": "Oban Congregational Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organizations",
+      "sent": true
+    },
+    {
+      "id": 920,
+      "name": "Dingwall Free Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 921,
+      "name": "Musselburgh Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 922,
+      "name": "Central Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 923,
+      "name": "Kilmore & Oban Church Of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 925,
+      "name": "The Friends of St Cecilias Hall and Museum",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Friends group supporting a specific hall and museum, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 927,
+      "name": "Religious Society of Friends (Quakers) West Scotland Area Meeting",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Religious meeting, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 931,
+      "name": "CEAS",
+      "is_grantmaker": false,
+      "confidence": 0.85,
+      "reason": "Service-delivery charity focused on education, religion, community, human rights.",
+      "sent": true
+    },
+    {
+      "id": 932,
+      "name": "Leith Benevolent Assoc Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely service-delivery charity for local relief, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 936,
+      "name": "The Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 939,
+      "name": "Ullapool and District Pipe Band",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Pipe band is a performing arts group, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 941,
+      "name": "St Andrew's West Parish Church of Scotland Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 944,
+      "name": "Calvary Christian Fellowship Motherwell",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church fellowship with religious and relief purposes, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 946,
+      "name": "Stornoway Free Church: Stornoway",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church providing religious services and community activities, not grants.",
+      "sent": true
+    },
+    {
+      "id": 947,
+      "name": "Carrubbers Christian Centre",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Christian centre delivering religious and community services, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 948,
+      "name": "Kirkcaldy Gilbert & Sullivan Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Performing arts society, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 954,
+      "name": "Shetland Health Board Endowment Funds",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "NHS endowment fund likely distributes grants to health-related causes.",
+      "sent": true
+    },
+    {
+      "id": 961,
+      "name": "Kinghorn Childrens Gala Comm",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Community gala committee organizing events, not giving grants.",
+      "sent": true
+    },
+    {
+      "id": 964,
+      "name": "Barrhead United Reformed Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 969,
+      "name": "Dunfermline Gillespie Memorial Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church of Scotland congregation, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 970,
+      "name": "Grace Church Bothwell",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 978,
+      "name": "Beatson Oncology Centre Fund",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Funds Beatson cancer centre services and research, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 980,
+      "name": "Bellahouston Bequest Fund",
+      "is_grantmaker": true,
+      "confidence": 0.95,
+      "reason": "Bequest fund with broad charitable purposes, likely grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 981,
+      "name": "Rotary Club Of Kirkcaldy Charitable Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary charitable trust likely funds community grants and projects",
+      "sent": true
+    },
+    {
+      "id": 982,
+      "name": "Friends Of Dundee University Botanic Garden",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Friends support group for university botanic garden, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 987,
+      "name": "Scottish Society For Crop Research",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Research society advancing crop science, not primarily grantmaking to others",
+      "sent": true
+    },
+    {
+      "id": 991,
+      "name": "United Reformed Church Synod Of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Religious synod, not primarily a grantmaker to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 993,
+      "name": "Queens Park Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 995,
+      "name": "St Margarets Episcopal Church Renfrew: Renfrew",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church, primarily religious worship and community services",
+      "sent": true
+    },
+    {
+      "id": 997,
+      "name": "Peedie Kirk United Reformed Church - Kirkwall",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church, not a grantmaker; delivers religious and community services.",
+      "sent": true
+    },
+    {
+      "id": 1007,
+      "name": "Eastwood Rotary Club Benevolent Fund",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Rotary club likely service-delivery, not primarily grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1008,
+      "name": "Inverness Methodist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Methodist church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 1014,
+      "name": "St Andrews Episcopal Church: Callander",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1015,
+      "name": "St Aidans Scottish Episcopal Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1016,
+      "name": "SCIAF",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "International aid agency funding partner organisations overseas",
+      "sent": true
+    },
+    {
+      "id": 1018,
+      "name": "Mission",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Religious charity advancing religion, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1020,
+      "name": "Spittal Village Hall",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Village hall providing community facilities, not granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1022,
+      "name": "St Fillans Church Edinburgh: Edinburgh",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church providing religious services and relief, not grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 1023,
+      "name": "Nethy Bridge Community Centre",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Community centre providing recreational facilities, not granting to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1026,
+      "name": "Gaelic Society Of Inverness",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Cultural society advancing Gaelic education and heritage, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1030,
+      "name": "Glasgow Educational And Marshall Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Trust likely provides educational grants to individuals or organisations.",
+      "sent": true
+    },
+    {
+      "id": 1032,
+      "name": "Scottish Musicians Benevolent Fund",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Benevolent fund providing grants to musicians in need",
+      "sent": true
+    },
+    {
+      "id": 1033,
+      "name": "The Scottish Medievalists",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Likely scholarly society, not grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1035,
+      "name": "Camphill Rudolf Steiner Estates Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service provider for communities with disabilities, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1036,
+      "name": "Bells Brae Primary School Fund",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Primary school fund, not a grantmaker to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1037,
+      "name": "Headwell Gospel Hall Assembly of Christians",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Religious assembly, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1039,
+      "name": "Eastwood Choral Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Choral society, performs music; not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1041,
+      "name": "The R S Macdonald Charitable Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Charitable trust with broad purposes, likely grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1046,
+      "name": "Carnegie UK Trust",
+      "is_grantmaker": true,
+      "confidence": 0.95,
+      "reason": "Trust makes grants to advance education, community, arts, equality.",
+      "sent": true
+    },
+    {
+      "id": 1047,
+      "name": "Catalyst Vineyard Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church with religious and relief purposes, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1053,
+      "name": "Free Church Of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Church denomination, advances religion directly, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1055,
+      "name": "Argyll & Sutherland Highlanders Regimental Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Regimental trust likely supports its own regiment and veterans, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1057,
+      "name": "Rotary Club Of Haddington Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary club trust funds typically make grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1059,
+      "name": "Church Of Scotland Perth North",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 1062,
+      "name": "The Camphill Foundation",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Foundation likely provides grants to Camphill communities.",
+      "sent": true
+    },
+    {
+      "id": 1064,
+      "name": "Loganlea Miners Welfare Charitable Society",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Miners welfare society likely provides community services, not grants.",
+      "sent": true
+    },
+    {
+      "id": 1069,
+      "name": "Alloa Community Enterprises Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Environmental service-delivery social enterprise, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1072,
+      "name": "Hostelling Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Operates hostels; service-delivery charity, not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1074,
+      "name": "Glasgow Central Mosque'",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Mosque provides religious services and community support, not grants.",
+      "sent": true
+    },
+    {
+      "id": 1078,
+      "name": "Hunter Archaeological Trust",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Trust likely funds archaeological research and education grants.",
+      "sent": true
+    },
+    {
+      "id": 1079,
+      "name": "Rotary Club Of Longniddry & District Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary club trust fund likely distributes grants to community causes.",
+      "sent": true
+    },
+    {
+      "id": 1085,
+      "name": "Inchrye Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Trust with broad charitable purposes typically makes grants.",
+      "sent": true
+    },
+    {
+      "id": 1088,
+      "name": "Holy Trinity Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1090,
+      "name": "Rotary Club Of Falkirk Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary club trust funds typically make grants to community causes.",
+      "sent": true
+    },
+    {
+      "id": 1091,
+      "name": "Rotary Club Of Troon Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary club trust funds typically make grants to community causes.",
+      "sent": true
+    },
+    {
+      "id": 1094,
+      "name": "University Of St Andrews",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "University delivers education directly, not primarily grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1095,
+      "name": "Coatdyke Congregational Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1098,
+      "name": "Castlehill Housing Association Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Housing association providing housing services, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1110,
+      "name": "ALVO Rural South Lanarkshire",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity focused on rural community support, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1115,
+      "name": "Volunteer Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "National volunteering development body, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1116,
+      "name": "Trefoil",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Provides recreational facilities and relief services directly, not grants to others.",
+      "sent": true
+    },
+    {
+      "id": 1118,
+      "name": "YMCA Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "YMCA Scotland is a service-delivery charity, not a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 1122,
+      "name": "Rotary Club Of Ayr Benevolent Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary club benevolent fund likely distributes grants to community causes.",
+      "sent": true
+    },
+    {
+      "id": 1124,
+      "name": "Brisbane Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1127,
+      "name": "Arbroath Guildry Incorporation",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Guildry likely distributes funds to local causes",
+      "sent": true
+    },
+    {
+      "id": 1128,
+      "name": "Kirkintilloch Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church, advances religion and community, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1130,
+      "name": "Rotary Club Of Corstorphine Trust Fund",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Rotary club service organization, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1131,
+      "name": "Ramgarhia Association Of Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Religious association advancing religion, not grantmaking to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 1132,
+      "name": "Evangelical Church Hamilton",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Evangelical church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1133,
+      "name": "Echt Skene & Midmar Agricultural Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Agricultural association running a show, not granting to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1134,
+      "name": "INSEAD Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "INSEAD Trust is an educational institution, not a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 1135,
+      "name": "Lodge Airdrie St John No 166 Benevolent Fund",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Masonic lodge benevolent fund providing relief to individuals in need",
+      "sent": true
+    },
+    {
+      "id": 1136,
+      "name": "John Watson's Trust",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Trust likely provides educational grants to individuals or organisations.",
+      "sent": true
+    },
+    {
+      "id": 1139,
+      "name": "Incorporation Of Bakers Of Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Trade incorporation likely provides member services, not grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 1141,
+      "name": "Rotary Club Of Auchterarder & District Trust Fund",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Rotary club service organization, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1143,
+      "name": "Turriff District Agricultural Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Agricultural association runs Turriff Show, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1144,
+      "name": "Avenel Trust- F.K.A. Edinburgh Home For Babies And School Of Mothercraft",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Service-delivery charity for babies and mothers, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1145,
+      "name": "Cowdenbeath Congregation Of Jehovahs Witnesses",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Jehovah's Witnesses congregation, religious worship not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1147,
+      "name": "Vale of Leven Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1148,
+      "name": "Earl Haig Fund (Scotland)",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity supporting veterans, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1150,
+      "name": "Orcome Trust",
+      "is_grantmaker": false,
+      "confidence": 0.6,
+      "reason": "Broad charitable purposes but no evidence of grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1153,
+      "name": "Incorporation Of Hammermen",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Likely grant-making incorporation supporting education, community, arts, and relief purposes.",
+      "sent": true
+    },
+    {
+      "id": 1156,
+      "name": "Saughtonhall United Reformed Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1157,
+      "name": "Newcraigs Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Evangelical church advancing religion, not grantmaking to other organizations",
+      "sent": true
+    },
+    {
+      "id": 1158,
+      "name": "Order Of The Eastern Star Supreme Grand Chapter Annuity Fund",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Fraternal society annuity fund, likely member benefits not grants",
+      "sent": true
+    },
+    {
+      "id": 1162,
+      "name": "Guildry Of Stirling Charitable Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Charitable trust likely distributes grants for education and heritage.",
+      "sent": true
+    },
+    {
+      "id": 1165,
+      "name": "Mactaggart Third Fund",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Name 'Fund' and broad charitable purposes suggest grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1168,
+      "name": "Glasgow Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1171,
+      "name": "Wigtown Agricultural Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Agricultural society runs shows/events, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1172,
+      "name": "First Church Of Christ, Scientist, Edinburgh",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organizations",
+      "sent": true
+    },
+    {
+      "id": 1176,
+      "name": "LVCECA",
+      "is_grantmaker": false,
+      "confidence": 0.85,
+      "reason": "Community education and recreation provider, not a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 1181,
+      "name": "The Provincial Grand Lodge of Glasgow Benevolent and Annuity and Charity Funds",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Benevolent and charity funds likely distribute grants to individuals or groups",
+      "sent": true
+    },
+    {
+      "id": 1182,
+      "name": "Friends Of The Edington Hospital North Berwick",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Friends support a specific hospital, likely fundraising not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1183,
+      "name": "Urr Parish Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1187,
+      "name": "East Kilbride United Reformed Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1188,
+      "name": "Presbytery Of Perth",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Presbytery is a religious governing body, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1189,
+      "name": "Glasgow: Maryhill Ruchill Parish Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1190,
+      "name": "Gilfillan Memorial Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church, not a grantmaker; delivers religious and community services.",
+      "sent": true
+    },
+    {
+      "id": 1191,
+      "name": "Scottish Tramway & Transport Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Membership society focused on tramway heritage, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1192,
+      "name": "Inverness Field Club",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Field club for educational activities, not grantmaking to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 1193,
+      "name": "The Church of Scotland General Trustees",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church trustee body, not primarily a grantmaker to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1194,
+      "name": "Arran Society Of Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely membership society providing educational and cultural activities, not grants.",
+      "sent": true
+    },
+    {
+      "id": 1195,
+      "name": "Lodge St Paul No 204 Benevolent Fund",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Masonic lodge benevolent fund likely provides direct relief, not grants",
+      "sent": true
+    },
+    {
+      "id": 1196,
+      "name": "Springbank Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Evangelical church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 1198,
+      "name": "Glencairn & Moniaive Parish Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1202,
+      "name": "St Ninians Episcopal Church: Glenurquhart",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1207,
+      "name": "Glasgow Dean Of Guild Court Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trust likely distributes grants for heritage/arts purposes.",
+      "sent": true
+    },
+    {
+      "id": 1208,
+      "name": "Missio Scotland",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Supports overseas missions through grants to partner churches and projects.",
+      "sent": true
+    },
+    {
+      "id": 1211,
+      "name": "Port Of Menteith Village Hall",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Village hall providing community facilities, not granting to others",
+      "sent": true
+    },
+    {
+      "id": 1213,
+      "name": "G & H Roberts Community Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Community trust with broad charitable purposes likely grants to others",
+      "sent": true
+    },
+    {
+      "id": 1216,
+      "name": "Paisley Philharmonic Choir",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Choir advancing arts, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1217,
+      "name": "Dornoch Free Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church providing religious services, not grantmaking to other organizations",
+      "sent": true
+    },
+    {
+      "id": 1219,
+      "name": "Ecas",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity for disabled people, not a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 1221,
+      "name": "Christ Church Lanark",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1222,
+      "name": "Glasgow Islay Association Benevolent Fund",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Benevolent fund likely provides direct aid, not grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 1226,
+      "name": "East Kilbride & District Engineering Group Training Assoc Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Engineering training association, likely delivers training not grants",
+      "sent": true
+    },
+    {
+      "id": 1227,
+      "name": "James Clerk Maxwell Foundation",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Foundation advancing physics education/science, likely grants to researchers/students",
+      "sent": true
+    },
+    {
+      "id": 1230,
+      "name": "Troon Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1234,
+      "name": "St Lukes Episcopal Church: Dundee",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church, service delivery not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1236,
+      "name": "King\u2019s Church, Aberdeen",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily giving grants to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 1240,
+      "name": "Inverness Choral Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Choral society performing arts group, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1242,
+      "name": "Bonnybridge St Helen's Parish Church Of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not granting to other organizations",
+      "sent": true
+    },
+    {
+      "id": 1243,
+      "name": "St Barnabas Episcopal Church: Edinburgh",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church, delivers religious and community services directly",
+      "sent": true
+    },
+    {
+      "id": 1248,
+      "name": "Clan Carmichael Charitable Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Charity runs Carmichael Estate visitor attraction, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1250,
+      "name": "1st Monifieth Company Boys Brigade",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Local Boys Brigade youth organisation, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1251,
+      "name": "Portsoy Congregation Of Jehovahs Witnesses",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Jehovah's Witnesses congregation, religious worship not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1255,
+      "name": "Green Action Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Environmental service-delivery charity, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1257,
+      "name": "Bute Agricultural Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Agricultural society likely runs shows and events, not grants",
+      "sent": true
+    },
+    {
+      "id": 1260,
+      "name": "Friends Of Loch Lomond & The Trossachs",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Environmental protection charity, not primarily grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1261,
+      "name": "Peterhead Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1266,
+      "name": "The National Youth Orchestras Of Scotland Limited",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Provides music education and performance opportunities, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1268,
+      "name": "Motherwell Kirk at the Cross (Church of Scotland)",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church of Scotland congregation, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1269,
+      "name": "Royal Philosophical Society of Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Learned society advancing education, arts, heritage, culture, science; not primarily grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1271,
+      "name": "Camphill Rudolf Steiner Schools Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "It is a school providing education, not granting to others.",
+      "sent": true
+    },
+    {
+      "id": 1272,
+      "name": "Museums Galleries Scotland",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "National development body distributing grants to Scottish museums.",
+      "sent": true
+    },
+    {
+      "id": 1273,
+      "name": "The Royal Scottish Geographical Society",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Learned society advancing geography education, not primarily grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1274,
+      "name": "Carnegie Trust For Universities Of Scotland",
+      "is_grantmaker": true,
+      "confidence": 0.95,
+      "reason": "Trust provides grants to Scottish universities for education.",
+      "sent": true
+    },
+    {
+      "id": 1275,
+      "name": "Voluntary Action Barra & Vatersay",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely community development charity, not primarily grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1276,
+      "name": "Lossiemouth United Free Church Of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1277,
+      "name": "The Glasgow Academicals War Memorial Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "School trust supporting education, not granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1286,
+      "name": "Elderslie and Linwood Parish Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church of Scotland congregation, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1287,
+      "name": "Carnegie Dunfermline Trust",
+      "is_grantmaker": true,
+      "confidence": 0.95,
+      "reason": "Trust named after Carnegie, likely grantmaking foundation",
+      "sent": true
+    },
+    {
+      "id": 1288,
+      "name": "Hamilton Operatic & Dramatic Club",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Operatic and dramatic club, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1291,
+      "name": "Inverness Fiddlers Society",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Society promotes fiddle music education and performance, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1292,
+      "name": "Church Of The Holy Cross, Davidsons Mains",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church, advances religion and relief, not grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1295,
+      "name": "Mount Florida Congregation Of Jehovahs Witnesses",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Jehovah's Witnesses congregation, religious worship not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1296,
+      "name": "Edinburgh University Students' Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Students' association provides services and activities, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1298,
+      "name": "Angus Educational Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Educational trust providing grants, website lists grants and benefits",
+      "sent": true
+    },
+    {
+      "id": 1300,
+      "name": "Erskine Church Of The Nazarene",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church, not a grantmaker; delivers religious and community services.",
+      "sent": true
+    },
+    {
+      "id": 1301,
+      "name": "Glasgow Philharmonic Male Voice Choir",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Choir is an arts organization, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1306,
+      "name": "General Synod Of The Scottish Episcopal Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Religious governing body, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1308,
+      "name": "Princess Royal Trust For Carers",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity supporting carers directly, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1317,
+      "name": "Elgin Free Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily granting to other organizations",
+      "sent": true
+    },
+    {
+      "id": 1319,
+      "name": "RSCDS",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Royal Scottish Country Dance Society is a membership arts organisation, not a grantmaker.",
+      "sent": true
+    },
+    {
+      "id": 1322,
+      "name": "Ebenezer Evangelical Church - Motherwell",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1331,
+      "name": "Renfrew Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church, advances religion, not grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1333,
+      "name": "Bellshill: St Andrews United Free Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1336,
+      "name": "St Margarets School For Girls",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "School advancing education, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1337,
+      "name": "Mathew Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trust with education purpose likely provides grants",
+      "sent": true
+    },
+    {
+      "id": 1338,
+      "name": "Camphill Wellbeing Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity providing health and education services",
+      "sent": true
+    },
+    {
+      "id": 1340,
+      "name": "Newtonhill And District Village Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Community development association, likely service-delivery not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1341,
+      "name": "BAVS",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely service-delivery charity, not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1343,
+      "name": "Rotary Club Of Leven Charitable Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary club charitable trust likely makes grants to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 1345,
+      "name": "Kirkwall Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily giving grants to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 1347,
+      "name": "Torridon District Community Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Community association providing facilities and activities, not grants",
+      "sent": true
+    },
+    {
+      "id": 1349,
+      "name": "Holy Trinity Episcopal Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1350,
+      "name": "Glasgow Unitarians",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Unitarian congregation advancing religion, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1353,
+      "name": "The Adamson Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trust likely provides grants for recreational facilities and relief of need.",
+      "sent": true
+    },
+    {
+      "id": 1355,
+      "name": "The Murdoch Forrest Charitable Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Trust with broad charitable purposes typically makes grants.",
+      "sent": true
+    },
+    {
+      "id": 1356,
+      "name": "Baird Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Trust with broad advancement purposes typically makes grants",
+      "sent": true
+    },
+    {
+      "id": 1357,
+      "name": "St Columba\u2019s Free Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1360,
+      "name": "Adventure Sailing Trust",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Provides sailing activities and facilities, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1363,
+      "name": "Robert Gordon University Student Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Student association providing services, not grants to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 1366,
+      "name": "Bishops Conference of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Religious conference body, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1367,
+      "name": "Kings Covenant Fellowship",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Fellowship with religious and charitable purposes, likely service-delivery",
+      "sent": true
+    },
+    {
+      "id": 1368,
+      "name": "Lady Haig Poppy Factory",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Operates factory employing disabled veterans, not grantmaking to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 1373,
+      "name": "APOS",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Ayrshire Philharmonic is an orchestra, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1376,
+      "name": "Newtongrange Childrens Gala Day Committee",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Community event committee, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1378,
+      "name": "Presbytery of Clyde Church of Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church presbytery, advances religion, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1380,
+      "name": "St Johns Episcopal Church: Jedburgh",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1381,
+      "name": "Thistle Foundation",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity providing health and community support directly.",
+      "sent": true
+    },
+    {
+      "id": 1382,
+      "name": "The East of Scotland Methodist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Methodist church, religious organisation not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1384,
+      "name": "Barns-Graham Charitable Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Charitable trust advancing arts likely provides grants to artists/organisations.",
+      "sent": true
+    },
+    {
+      "id": 1386,
+      "name": "Border Union Agricultural Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Agricultural society likely runs events and education, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1388,
+      "name": "McSence Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Service-delivery charity focused on poverty relief and education.",
+      "sent": true
+    },
+    {
+      "id": 1390,
+      "name": "The Dementia Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely service-delivery charity for dementia support, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1391,
+      "name": "The Grampian Hospitals Art Trust",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Arts trust runs hospital art programmes, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1392,
+      "name": "Orkney Health Board Endowment Funds",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "NHS endowment fund, not primarily grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1393,
+      "name": "Edinburgh Hebrew Congregation (EHC) SCIO",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Religious congregation, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1401,
+      "name": "COALBURN AND LESMAHAGOW PARISH CHURCH (CHURCH OF SCOTLAND)",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Parish church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1403,
+      "name": "EPS",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Likely arts/culture society, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1405,
+      "name": "Church of Scotland Presbytery of Edinburgh and West Lothian",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Presbytery of Church of Scotland, religious governing body not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1408,
+      "name": "Right There",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity providing direct support, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1414,
+      "name": "Knightswood Congregational Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1415,
+      "name": "Royal Blind",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity for blind and visually impaired people",
+      "sent": true
+    },
+    {
+      "id": 1417,
+      "name": "Grampian Kidney Patients Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Patient association likely provides support, not grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 1418,
+      "name": "Bell's Nautical Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely educational trust, not primarily grantmaking to organisations",
+      "sent": true
+    },
+    {
+      "id": 1420,
+      "name": "Strathaven Agricultural Exposition",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Agricultural show society, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1426,
+      "name": "Queensberry House Trust",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Purposes suggest direct service delivery, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1428,
+      "name": "Christ Church, Falkirk",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church with religious and community purposes, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1432,
+      "name": "West Highland Housing Association Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Housing association providing housing services, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1437,
+      "name": "Vine Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity running projects, not primarily giving grants.",
+      "sent": true
+    },
+    {
+      "id": 1438,
+      "name": "Old Saint Paul's Episcopal Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not granting to other organizations",
+      "sent": true
+    },
+    {
+      "id": 1440,
+      "name": "The William Heughan Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trust likely distributes grants for education",
+      "sent": true
+    },
+    {
+      "id": 1442,
+      "name": "Gordon Cook Foundation",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Foundation likely provides grants for education and community development.",
+      "sent": true
+    },
+    {
+      "id": 1443,
+      "name": "Courant Fund For Children",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Fund for children likely provides grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 1447,
+      "name": "The Scottish Council Of Law Reporting",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Publishes law reports; educational service, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1448,
+      "name": "United Reformed Church Shawlands",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 1450,
+      "name": "Shetland Amenity Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Heritage/environmental charity delivering services, not primarily grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1451,
+      "name": "Scouts Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Youth organisation delivering scouting activities, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1463,
+      "name": "Sealgair Trust",
+      "is_grantmaker": false,
+      "confidence": 0.6,
+      "reason": "Broad charitable purposes suggest service delivery, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1470,
+      "name": "Friends Of Kirkcaldy Galleries",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Friends group supporting galleries, not giving grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 1472,
+      "name": "BCT",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Community development charity, not grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1474,
+      "name": "SSERC Limited",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Provides educational and scientific services, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1475,
+      "name": "Scottish Library And Information Council",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Council likely distributes grants to libraries and information services.",
+      "sent": true
+    },
+    {
+      "id": 1477,
+      "name": "Destiny Church Trust",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church with religious and charitable purposes, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1479,
+      "name": "Dr William Guilds Managers",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trust distributing funds to individuals or organisations for charitable purposes.",
+      "sent": true
+    },
+    {
+      "id": 1481,
+      "name": "North Scotland Area Quaker Meeting",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Religious Quaker meeting, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1482,
+      "name": "Showcase Society",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Arts education charity, likely delivers programmes not grants",
+      "sent": true
+    },
+    {
+      "id": 1485,
+      "name": "The Stafford Trust",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Broad charitable purposes and 'Trust' name suggest grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1486,
+      "name": "St Mungo's Episcopal Church: Balerno",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1488,
+      "name": "RC Archdiocese Of Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Religious archdiocese, not primarily a grantmaker to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1495,
+      "name": "South Lanarkshire Guide Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Local Girlguiding unit delivering youth activities, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1498,
+      "name": "Friends Of Bishop's House Iona",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely support group for Bishop's House Iona, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1501,
+      "name": "S2C2",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Professional society advancing education, not primarily grantmaking to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 1505,
+      "name": "Carnoustie Theatre Club",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Theatre club advancing arts and sport, not giving grants.",
+      "sent": true
+    },
+    {
+      "id": 1506,
+      "name": "The Royal Edinburgh Military Tattoo (Charities) Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Runs military tattoo event; arts organisation, not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1508,
+      "name": "Friends Of Chalmers Hospital",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Hospital friends group likely supports hospital, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1510,
+      "name": "Engage Renfrewshire",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Supports community groups; likely intermediary grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1511,
+      "name": "Irvine Burns Club Museum",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Museum club advancing heritage, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1512,
+      "name": "Woodhill Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Evangelical church, not a grantmaking foundation",
+      "sent": true
+    },
+    {
+      "id": 1517,
+      "name": "Craighalbert Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1520,
+      "name": "Seagate Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Evangelical church advancing religion, not granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1523,
+      "name": "Chest Heart & Stroke Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity for health and relief of need.",
+      "sent": true
+    },
+    {
+      "id": 1524,
+      "name": "Waugh & Wharrie Bequest",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Bequest likely distributes funds to relieve poverty",
+      "sent": true
+    },
+    {
+      "id": 1527,
+      "name": "Friends Of Turriff Community Hospital",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Friends of hospital likely raises funds for hospital, not grants",
+      "sent": true
+    },
+    {
+      "id": 1529,
+      "name": "St Serfs Players",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Amateur theatre group advancing arts, not giving grants.",
+      "sent": true
+    },
+    {
+      "id": 1531,
+      "name": "Wick Players",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Theatre group advancing arts, not giving grants",
+      "sent": true
+    },
+    {
+      "id": 1532,
+      "name": "Castlehill Trust",
+      "is_grantmaker": false,
+      "confidence": 0.6,
+      "reason": "Local council trust, likely service provider not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1533,
+      "name": "Grant Park Trust",
+      "is_grantmaker": false,
+      "confidence": 0.6,
+      "reason": "Council website suggests public body, not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1534,
+      "name": "George Boyd Anderson Bequest",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Council-administered bequest fund, likely for individuals not organisations",
+      "sent": true
+    },
+    {
+      "id": 1537,
+      "name": "Religious Society of Friends Quakers  South East Scotland Area Meeting",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Religious Society of Friends area meeting, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1538,
+      "name": "Forgewood Holdings Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Holding company likely manages assets, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1539,
+      "name": "Forth Environment Link",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Environmental service-delivery charity, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1541,
+      "name": "Michael Beveridge Bequest",
+      "is_grantmaker": true,
+      "confidence": 0.6,
+      "reason": "Bequest fund likely distributes grants to community organisations.",
+      "sent": true
+    },
+    {
+      "id": 1542,
+      "name": "Alexander A Wilkie Trust",
+      "is_grantmaker": false,
+      "confidence": 0.6,
+      "reason": "Likely service-delivery charity; no evidence of grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1543,
+      "name": "Miss Frances L Lawson Executry For Upkeep Of Star Hall",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely maintains Star Hall, not granting to other organizations",
+      "sent": true
+    },
+    {
+      "id": 1548,
+      "name": "Queensferry History Group",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "History group advancing education, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1550,
+      "name": "Stranraer Baptist Church: Stranraer",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church advancing religion, not giving grants",
+      "sent": true
+    },
+    {
+      "id": 1555,
+      "name": "British Combinatorial Committee",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Academic committee likely organizes events, not grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1556,
+      "name": "Clan Room At Farr",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Heritage society advancing culture, not granting to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1558,
+      "name": "New Cumnock Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1560,
+      "name": "East Fife Male Voice Choir",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Male voice choir, not a grantmaking organisation",
+      "sent": true
+    },
+    {
+      "id": 1565,
+      "name": "St Andrews University Student's Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Student union provides services and activities, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1568,
+      "name": "Dwelling Place Glasgow Ltd",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity providing housing and support, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1572,
+      "name": "North Queensferry Heritage Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Heritage trust likely runs its own projects, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1578,
+      "name": "Mill Cottage SCIO",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Provides a hut for mountaineering, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1580,
+      "name": "St Columba's Episcopal Church: Portree",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1581,
+      "name": "Hillview Community Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1584,
+      "name": "Destiny Ministries",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Religious ministry likely delivers services directly, not grants.",
+      "sent": true
+    },
+    {
+      "id": 1597,
+      "name": "Prayer Chain Ministry",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Prayer ministry likely delivers religious services, not grants",
+      "sent": true
+    },
+    {
+      "id": 1601,
+      "name": "St Andrews Clinics For Children",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity providing clinics for children, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1603,
+      "name": "Oasis Christian Fellowship",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1604,
+      "name": "SPIFOX",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Provides recreational facilities and relief; likely grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1611,
+      "name": "Chamber Music Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely arts development charity, not primarily grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1616,
+      "name": "Edinburgh Children's Hospital Charity",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity supporting children's hospital, not grantmaking to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 1620,
+      "name": "McGlashan Charitable Trust",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Trust with broad charitable purposes likely grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1622,
+      "name": "Scottish Cardiac Society",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Professional medical society, likely not primarily grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1624,
+      "name": "New Cumnock Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church, service-delivery religious organisation, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1626,
+      "name": "Musselburgh Miners Charitable Society",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Provides recreational facilities/activities, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1627,
+      "name": "Scottish Covenanter Memorials Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Preserves memorials; no evidence of giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1632,
+      "name": "Miss Annie Smith Mair Newmilns Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Trust fund listed under council grants and bequests",
+      "sent": true
+    },
+    {
+      "id": 1642,
+      "name": "Dunrossness Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church advancing religion, not giving grants",
+      "sent": true
+    },
+    {
+      "id": 1643,
+      "name": "Calderwood Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1644,
+      "name": "Harestanes Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1645,
+      "name": "Kings Park Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church advancing religion, not giving grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 1646,
+      "name": "Lerwick Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 1648,
+      "name": "Mosspark Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1649,
+      "name": "Dumfries Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1650,
+      "name": "Novum Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trust with broad education/religion purposes likely makes grants",
+      "sent": true
+    },
+    {
+      "id": 1654,
+      "name": "Wigtown Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1658,
+      "name": "Scottish Community Drama Association Edinburgh District",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Arts education charity, likely delivers drama activities not grants",
+      "sent": true
+    },
+    {
+      "id": 1661,
+      "name": "Mamie Martin Fund",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Funds education projects in Malawi, likely grants to partners.",
+      "sent": true
+    },
+    {
+      "id": 1663,
+      "name": "Antonine Sports Centre",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Sports centre provides facilities, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1671,
+      "name": "Freedom City Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily granting to other organizations",
+      "sent": true
+    },
+    {
+      "id": 1672,
+      "name": "Tunnell Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Supports young musicians through awards, not grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 1676,
+      "name": "Trust In Fife",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity focused on poverty, health, and disadvantage relief.",
+      "sent": true
+    },
+    {
+      "id": 1677,
+      "name": "Galloway Conservation Society",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Conservation society likely delivers heritage activities, not grants",
+      "sent": true
+    },
+    {
+      "id": 1678,
+      "name": "Blythswood Care 1993",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity running care projects, not primarily grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1696,
+      "name": "Scottish Relief",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Purposes suggest direct service delivery, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1702,
+      "name": "Friends Of Highland Music",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Likely supports music education/arts directly, not grantmaking to other organizations.",
+      "sent": true
+    },
+    {
+      "id": 1703,
+      "name": "Southview Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Evangelical church, advances religion, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1705,
+      "name": "The WASPS Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Arts studio charity providing workspace, not granting to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1706,
+      "name": "Mary's Meals",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity providing school meals directly",
+      "sent": true
+    },
+    {
+      "id": 1709,
+      "name": "University of the Highlands and Islands",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "University providing education, not primarily granting to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1711,
+      "name": "Rotary Club Of Banchory-Ternan Charitable Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary charitable trust likely makes grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1712,
+      "name": "South Asia Voluntary Enterprise",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Likely service-delivery charity based on purposes and name",
+      "sent": true
+    },
+    {
+      "id": 1720,
+      "name": "Alzheimer Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity for dementia support, not primarily a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1722,
+      "name": "Nairn Camera Club",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Camera club for members, not grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1723,
+      "name": "Equestrian Order Of The Holy Sepulchre Of Jerusalem Lieutenancy Of Scotland",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Religious order likely supports Holy Land charities via grants.",
+      "sent": true
+    },
+    {
+      "id": 1726,
+      "name": "The Leprosy Mission Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity focused on leprosy relief, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1728,
+      "name": "Glasgow & West of Scotland Branch - The Parachute Regimental Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Regimental association branch providing relief to members, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1729,
+      "name": "With Kids",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity providing support and activities, not grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 1731,
+      "name": "St James Endowment",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Church endowment fund, not a grantmaker to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1733,
+      "name": "ILM (Highland)",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Likely service-delivery charity based on purposes and name",
+      "sent": true
+    },
+    {
+      "id": 1734,
+      "name": "Moredun Foundation",
+      "is_grantmaker": false,
+      "confidence": 0.85,
+      "reason": "Research institute focused on animal health, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1736,
+      "name": "St Abbs Community Trust SCIO",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Provides education and recreational facilities, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1738,
+      "name": "Fresh Water Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not primarily giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1739,
+      "name": "Cistercian Monastery Nunraw",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Cistercian monastery, religious order, not grantmaking to other organizations",
+      "sent": true
+    },
+    {
+      "id": 1745,
+      "name": "Perth City Club Charitable Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Sports participation charity, not grantmaking to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1748,
+      "name": "Stornoway & Harris Associated Presbyterian Churches: Stornoway",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations",
+      "sent": true
+    },
+    {
+      "id": 1750,
+      "name": "Tireragan Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Environmental protection charity, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1751,
+      "name": "Glasgow Caledonian University Students' Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Students' association provides services and activities, not grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 1752,
+      "name": "Foundation Scotland",
+      "is_grantmaker": true,
+      "confidence": 1.0,
+      "reason": "Foundation Scotland is a grant-making charity funding other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1753,
+      "name": "Worldwide Cancer Research",
+      "is_grantmaker": true,
+      "confidence": 0.95,
+      "reason": "Funds cancer research grants to other organisations worldwide.",
+      "sent": true
+    },
+    {
+      "id": 1760,
+      "name": "Bighearted Scotland",
+      "is_grantmaker": false,
+      "confidence": 0.6,
+      "reason": "No evidence of grantmaking; likely service-delivery charity.",
+      "sent": true
+    },
+    {
+      "id": 1765,
+      "name": "St Pauls Scottish Episcopal Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1769,
+      "name": "Clydesdale Counselling And Human Development Project",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Counselling service provider, not a grantmaker to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1770,
+      "name": "Brownlee Old Town Trust",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Trust with broad charitable purposes likely makes grants",
+      "sent": true
+    },
+    {
+      "id": 1773,
+      "name": "The Maple Trust",
+      "is_grantmaker": false,
+      "confidence": 0.6,
+      "reason": "No evidence of grantmaking; likely service-delivery or analogous purpose",
+      "sent": true
+    },
+    {
+      "id": 1774,
+      "name": "Friends of the Beatson",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Fundraising charity supporting Beatson cancer centre, not grantmaking to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1775,
+      "name": "Black Isle Need To Play Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity for play activities, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1776,
+      "name": "St Marys Episcopal Church: Aberfoyle",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants to organizations",
+      "sent": true
+    },
+    {
+      "id": 1779,
+      "name": "St Columba Episcopal Church: Gruline",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Episcopal church advancing religion, not giving grants",
+      "sent": true
+    },
+    {
+      "id": 1781,
+      "name": "Scottish Association For Sleep Apnoea",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Service-delivery charity for sleep apnoea support and education",
+      "sent": true
+    },
+    {
+      "id": 1783,
+      "name": "Monklands Light Opera",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Light opera club advancing arts, not giving grants",
+      "sent": true
+    },
+    {
+      "id": 1785,
+      "name": "Cousland Village Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Village association likely runs community activities, not grants",
+      "sent": true
+    },
+    {
+      "id": 1787,
+      "name": "House For An Art Lover",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Arts venue and education charity, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1788,
+      "name": "Friends Of Innerpeffray Library-Foil",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Friends group supporting a library, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1789,
+      "name": "Feedback Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity operating projects in Madagascar, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1791,
+      "name": "Roslin Foundation",
+      "is_grantmaker": false,
+      "confidence": 0.7,
+      "reason": "Foundation likely operates own education, arts, animal welfare programs, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1795,
+      "name": "Caledonia Charitable Trust",
+      "is_grantmaker": false,
+      "confidence": 0.6,
+      "reason": "No evidence of grantmaking; likely service-delivery charity.",
+      "sent": true
+    },
+    {
+      "id": 1801,
+      "name": "Govan Workspace Limited",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Provides workspace and support services, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1804,
+      "name": "Edinburgh Association Of Spiritualists",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Spiritualist church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 1805,
+      "name": "Kilmarnock Spiritualist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Spiritualist church, not a grantmaking foundation",
+      "sent": true
+    },
+    {
+      "id": 1807,
+      "name": "Perth Spiritualist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Spiritualist church advancing religion, not giving grants",
+      "sent": true
+    },
+    {
+      "id": 1808,
+      "name": "Progressive Spiritualist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1809,
+      "name": "Friends Of The Centre For Integrative Care, Glasgow",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Friends support group for a care centre, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1814,
+      "name": "Macaulay Development Trust",
+      "is_grantmaker": true,
+      "confidence": 0.8,
+      "reason": "Trust likely provides grants for education and environment.",
+      "sent": true
+    },
+    {
+      "id": 1815,
+      "name": "St Margaret\u2019s Chapel Guild",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Religious guild, likely supports chapel directly, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1817,
+      "name": "Dingwall Evangelical Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church advancing religion, not giving grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1822,
+      "name": "Killin Drama Club",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Drama club delivers arts activities, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1829,
+      "name": "West Lothian 50+ Network",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Provides recreational activities and support for older people, not grants.",
+      "sent": true
+    },
+    {
+      "id": 1834,
+      "name": "Penicuik Baptist Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Baptist church advancing religion, not giving grants to organisations",
+      "sent": true
+    },
+    {
+      "id": 1836,
+      "name": "Coigach Community Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Community trust runs hall and local services, not primarily grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1837,
+      "name": "Tayside Symphony Orchestra",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Orchestra is an arts organization, not a grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1839,
+      "name": "Forth Valley Disability Sports Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Provides sports activities directly, not grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1843,
+      "name": "The Scottish & North Irish Yeomanry Trust",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Regimental trust supporting soldiers and veterans, not grantmaking to organisations.",
+      "sent": true
+    },
+    {
+      "id": 1846,
+      "name": "Royal Scottish Country Dance Society Perth & Perthshire Branch",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Dance society branch, delivers recreational activities, not grants.",
+      "sent": true
+    },
+    {
+      "id": 1851,
+      "name": "St Ninians Community Church",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Church with religious and community purposes, not grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1855,
+      "name": "Dean Park Primary School Parent Teacher Association",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "School parent-teacher association; supports one school, not grantmaking.",
+      "sent": true
+    },
+    {
+      "id": 1858,
+      "name": "Crichton Foundation",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Foundation likely provides grants for education and community causes.",
+      "sent": true
+    },
+    {
+      "id": 1860,
+      "name": "Air Training Corps No 2311 Leslie & Glenrothes Squadron Non Public Sports & Welfare Funds",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Local Air Training Corps squadron, service-delivery youth organisation, not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1862,
+      "name": "Helensburgh Heritage Trust",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Heritage preservation charity, not primarily a grantmaker to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1863,
+      "name": "Air Training Corps No 1145 Dunfermline Squadron Non - Public Sports & Welfare Funds",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Air Training Corps squadron, youth organisation not grantmaker",
+      "sent": true
+    },
+    {
+      "id": 1864,
+      "name": "R S E Scotland Foundation",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Foundation advancing education/science, likely funds research and grants",
+      "sent": true
+    },
+    {
+      "id": 1865,
+      "name": "Celtic FC Foundation",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Service-delivery charity running community programmes, not primarily grantmaking",
+      "sent": true
+    },
+    {
+      "id": 1867,
+      "name": "New Deer Agricultural Association",
+      "is_grantmaker": false,
+      "confidence": 0.9,
+      "reason": "Agricultural association likely runs shows/events, not grants to organisations.",
+      "sent": true
+    },
+    {
+      "id": 1875,
+      "name": "Dufftown 2000 Limited",
+      "is_grantmaker": false,
+      "confidence": 0.8,
+      "reason": "Community development charity, not primarily a grantmaker to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1886,
+      "name": "Rotary Club Of Perth St Johns Charitable Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary club charitable trust typically makes grants to other organisations.",
+      "sent": true
+    },
+    {
+      "id": 1890,
+      "name": "Comhairle nan Leabhraichean The Gaelic Books Council",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Council supports Gaelic publishing via grants to authors and publishers.",
+      "sent": true
+    },
+    {
+      "id": 1891,
+      "name": "Rotary Club Of North Fife Charitable Trust Fund",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Rotary club charitable trust likely makes grants to community causes.",
+      "sent": true
+    },
+    {
+      "id": 1893,
+      "name": "City Of Edinburgh Council Charitable Funds",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Council charitable trust likely distributes grants to local organisations.",
+      "sent": true
+    },
+    {
+      "id": 1894,
+      "name": "West Dunbartonshire Council Charitable Trusts",
+      "is_grantmaker": true,
+      "confidence": 0.7,
+      "reason": "Council charitable trusts typically distribute grants to local organisations.",
+      "sent": true
+    },
+    {
+      "id": 1896,
+      "name": "North Ayrshire Council Charitable Trusts",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Council charitable trusts typically distribute grants to local organisations.",
+      "sent": true
+    },
+    {
+      "id": 1897,
+      "name": "South Lanarkshire Council Charitable Trusts",
+      "is_grantmaker": true,
+      "confidence": 0.9,
+      "reason": "Council charitable trusts typically distribute grants to local organisations.",
+      "sent": true
+    },
+    {
+      "id": 1900,
+      "name": "Gordon Advanced Motorists",
+      "is_grantmaker": false,
+      "confidence": 0.95,
+      "reason": "Local advanced motorists group; service delivery, not grantmaking",
+      "sent": true
+    }
+  ]
+}
