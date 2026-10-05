@@ -1,0 +1,14 @@
+{
+  "sampled": 1,
+  "skipped_register_profiles": 0,
+  "dry_run": false,
+  "funders": [
+    {
+      "id": 256,
+      "name": "The Gannochy Trust",
+      "pages": 0,
+      "opps_found": 1,
+      "stored": 1
+    }
+  ]
+}

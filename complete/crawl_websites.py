@@ -79,6 +79,12 @@ def main() -> int:
                             "website": t.get("website", ""), "crawled": False})
             continue
         pages = asyncio.run(crawl_foundation(t["website"], t["name"]))
+        if not pages:
+            # Never analyse zero pages: the model backfills from training
+            # data and the row would be unfaithful (seen live on Gannochy).
+            summary.append({"id": t["id"], "name": t["name"], "pages": 0,
+                            "opps_found": 0, "stored": 0, "note": "no pages, skipped"})
+            continue
         analysis = asyncio.run(analyze_foundation_content(pages, t["name"]))
         opps = analysis.get("opportunities", [])
         rows = [map_to_row(o, t["id"]) for o in opps if isinstance(o, dict)]
