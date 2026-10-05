@@ -47,6 +47,14 @@ def is_own_website(url: str) -> bool:
     return not any(h in low for h in REGISTER_PROFILE_HOSTS)
 
 
+def normalize_url(url: str) -> str:
+    """Ensure a scheme: the DB stores bare domains, crawl4ai requires one."""
+    url = (url or "").strip()
+    if url and not url.lower().startswith(("http://", "https://")):
+        url = "https://" + url
+    return url
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--from", dest="from_file", required=True)
@@ -78,7 +86,7 @@ def main() -> int:
             summary.append({"id": t["id"], "name": t["name"],
                             "website": t.get("website", ""), "crawled": False})
             continue
-        pages = asyncio.run(crawl_foundation(t["website"], t["name"]))
+        pages = asyncio.run(crawl_foundation(normalize_url(t["website"]), t["name"]))
         if not pages:
             # Never analyse zero pages: the model backfills from training
             # data and the row would be unfaithful (seen live on Gannochy).
