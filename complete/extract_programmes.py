@@ -147,9 +147,14 @@ def main() -> int:
     ap.add_argument("--from", dest="from_file", required=True)
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--max-funders", type=int, default=3)
+    ap.add_argument("--ids", default="",
+                    help="Comma-separated funder ids to run (subset of file), e.g. --ids 246,256")
     ap.add_argument("--out", default="")
     args = ap.parse_args()
     targets = load_targets(args.from_file, args.max_funders)
+    if args.ids:
+        want = {int(x) for x in args.ids.split(",") if x.strip().isdigit()}
+        targets = [t for t in targets if t["id"] in want]
     try:
         enrich_from_db(targets)
     except Exception as e:
