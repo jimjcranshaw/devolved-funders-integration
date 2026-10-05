@@ -1,9 +1,11 @@
 """Website crawl for devolved grantmakers (Issue #5) — reuses the E&W crawler.
 
-Reuses v3 `regular_website_pipeline.crawl_foundation` (sitemap + filtered
-subpages, crawl4ai) and `analyze_foundation_content` (DeepSeek). Stores via
-our `extract_programmes.map_to_row/store_rows`, so the new E&W columns are
-covered and NO embeddings/OpenAI are touched.
+Reuses v3 `regular_website_pipeline` pieces: URL filter/depth helpers,
+crawl4ai patterns, and `analyze_foundation_content` (DeepSeek). The page loop
+lives here as `crawl_site` because v3 `crawl_foundation` has an `import re`-
+in-branch scoping bug that raises UnboundLocalError on every non-CC URL
+(filed upstream). Stores via our `extract_programmes.map_to_row/store_rows`,
+so the new E&W columns are covered and NO embeddings/OpenAI are touched.
 
 Targets: classified grantmakers WITH their own websites. Register-profile
 URLs (oscr.org.uk, charitycommission) are skipped here — they belong to the
@@ -55,6 +57,60 @@ def normalize_url(url: str) -> str:
     return url
 
 
+FUNDING_PATH_HINTS = ("grant", "fund", "appl", "eligib", "criteria", "giving")
+
+
+def prioritize(urls: list[str]) -> list[str]:
+    """Funding-ish paths first, stable otherwise. Pure (tested)."""
+    def score(u: str) -> tuple[int, str]:
+        low = u.lower()
+        hit = 0 if any(h in low for h in FUNDING_PATH_HINTS) else 1
+        return (hit, u)
+    return sorted(urls, key=score)
+
+
+async def crawl_site(url: str, name: str, max_pages: int = 8) -> list[dict]:
+    """Homepage + funding-priority subpages via crawl4ai.
+
+    Same filter/depth logic as v3 crawl_foundation (reusing its helpers),
+    but without its `import re`-in-branch scoping bug (filed upstream:
+    any non-CC URL raises UnboundLocalError there). Embeddings untouched.
+    """
+    from urllib.parse import urlparse
+
+    from crawl4ai import AsyncWebCrawler
+    from crawl4ai.async_configs import BrowserConfig, CrawlerRunConfig
+    from regular_website_pipeline import filter_url as _f
+    from regular_website_pipeline import get_url_depth as _d
+
+    pages: list[dict] = []
+    browser_config = BrowserConfig(headless=True, verbose=False)
+    run_config = CrawlerRunConfig(wait_until="domcontentloaded", page_timeout=30000,
+                                 cache_mode="bypass")
+    async with AsyncWebCrawler(config=browser_config) as crawler:
+        result = await crawler.arun(url=url, config=run_config)
+        if not (result.success and result.markdown):
+            return pages
+        pages.append({"url": url, "title": (result.metadata or {}).get("title", ""),
+                      "content": result.markdown[:50000]})
+        base_domain = urlparse(url).netloc
+        internal = [l.get("href", "") for l in (result.links or {}).get("internal", [])
+                    if l.get("href")]
+        candidates = []
+        for href in internal:
+            if href != url and _f(href, base_domain) and _d(href, url) <= 2:
+                candidates.append(href)
+        for link in prioritize(candidates)[: max_pages - 1]:
+            try:
+                pr = await crawler.arun(url=link, config=run_config)
+            except Exception:
+                continue
+            if pr.success and pr.markdown:
+                pages.append({"url": link, "title": (pr.metadata or {}).get("title", ""),
+                              "content": pr.markdown[:50000]})
+    return pages
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--from", dest="from_file", required=True)
@@ -65,7 +121,11 @@ def main() -> int:
     args = ap.parse_args()
 
     from complete.extract_programmes import enrich_from_db, map_to_row, store_rows
-    from regular_website_pipeline import analyze_foundation_content, crawl_foundation
+    from regular_website_pipeline import (
+        analyze_foundation_content,
+        filter_url,
+        get_url_depth,
+    )
 
     data = json.loads(Path(args.from_file).read_text())
     grantmakers = [r for r in data.get("results", []) if r.get("is_grantmaker")]
@@ -86,7 +146,7 @@ def main() -> int:
             summary.append({"id": t["id"], "name": t["name"],
                             "website": t.get("website", ""), "crawled": False})
             continue
-        pages = asyncio.run(crawl_foundation(normalize_url(t["website"]), t["name"]))
+        pages = asyncio.run(crawl_site(normalize_url(t["website"]), t["name"]))
         if not pages:
             # Never analyse zero pages: the model backfills from training
             # data and the row would be unfaithful (seen live on Gannochy).
