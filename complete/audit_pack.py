@@ -31,18 +31,30 @@ def draw_sample(results: list[dict], n_each: int = AUDIT_N_EACH,
             rng.sample(rejects, min(n_each, len(rejects))))
 
 
+EVIDENCE_FIELDS = (("oscr_purposes", "OSCR purposes"),
+                   ("objects", "Objects"), ("activities", "Activities"),
+                   ("constitutional_form", "Constitutional form"),
+                   ("ukcat_codes", "UKCAT codes"),
+                   ("initial_classification", "Import classification"))
+
+
 def audit_card(funder: dict) -> str:
-    """One human-review markdown card. Pure."""
+    """One human-review markdown card, showing the model's evidence. Pure."""
     verdict = "GRANTMAKER" if funder.get("is_grantmaker") else "NOT grantmaker"
-    return (
-        f"# {funder.get('name', '')} (id {funder.get('id', '')})\n\n"
-        f"Charity number: {funder.get('charity_number', '')}\n"
-        f"Website: {funder.get('website', '')}\n"
-        f"Description: {(funder.get('description', '') or '')[:600]}\n\n"
-        f"## Model says: {verdict} (confidence {funder.get('confidence', '?')})\n"
-        f"Reason: {funder.get('reason', '')}\n\n"
-        f"## Human verdict (fill in): GRANTMAKER / NOT — notes:\n"
-    )
+    lines = [f"# {funder.get('name', '')} (id {funder.get('id', '')})", "",
+             f"Charity number: {funder.get('charity_number', '')}",
+             f"Website: {funder.get('website', '')}",
+             f"Description: {(funder.get('description', '') or '')[:800]}", "",
+             "## Evidence the model saw"]
+    for key, label in EVIDENCE_FIELDS:
+        val = funder.get(key)
+        if val:
+            lines.append(f"- **{label}**: {str(val)[:800]}")
+    lines += ["",
+              f"## Model says: {verdict} (confidence {funder.get('confidence', '?')})",
+              f"Reason: {funder.get('reason', '')}", "",
+              "## Human verdict (fill in): GRANTMAKER / NOT — notes:", ""]
+    return "\n".join(lines)
 
 
 def build_index(accepts: list[dict], rejects: list[dict]) -> str:

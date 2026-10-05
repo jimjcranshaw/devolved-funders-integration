@@ -24,7 +24,9 @@ def test_draw_sample_caps_at_pool_size():
 
 def test_card_and_index_contents():
     f = _mk(5, True)
+    f["oscr_purposes"] = "advancement of education"
     card = audit_card(f)
     assert "GRANTMAKER" in card and "Human verdict" in card
+    assert "advancement of education" in card and "Evidence the model saw" in card
     idx = build_index([f], [_mk(6, False)])
     assert "Model accepts" in idx and "Model rejects" in idx and "F5" in idx

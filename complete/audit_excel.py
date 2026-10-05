@@ -27,9 +27,23 @@ from openpyxl.worksheet.properties import PageSetupProperties
 from complete.audit_pack import AUDIT_N_EACH, draw_sample
 
 COLUMNS = ["ID", "Name", "Charity number", "Website", "Description",
+           "OSCR purposes", "Objects / Activities", "Form / UKCAT",
            "Model verdict", "Confidence", "Model reason", "Human", "Notes"]
-WIDTHS = [8, 38, 14, 30, 60, 14, 11, 40, 12, 30]
-WRAP_COLS = {"Description", "Model reason", "Notes"}
+WIDTHS = [8, 34, 14, 26, 50, 36, 36, 20, 14, 11, 34, 12, 26]
+WRAP_COLS = {"Description", "OSCR purposes", "Objects / Activities", "Model reason", "Notes"}
+
+
+def _row_values(f: dict) -> list:
+    desc = (f.get("description") or "")[:2000]
+    purposes = str(f.get("oscr_purposes") or f.get("purposes") or "")[:1200]
+    objects = " / ".join(s for s in [str(f.get("objects") or "")[:800],
+                                     str(f.get("activities") or "")[:800]] if s)
+    form = " / ".join(s for s in [str(f.get("constitutional_form") or ""),
+                                  str(f.get("ukcat_codes") or "")] if s)
+    verdict = "GRANTMAKER" if f.get("is_grantmaker") else "NOT grantmaker"
+    return [f.get("id"), f.get("name"), f.get("charity_number"), f.get("website"),
+            desc, purposes, objects, form, verdict,
+            f.get("confidence"), f.get("reason"), "", ""]
 
 HEADER_FILL = PatternFill("solid", fgColor="1F4E78")
 HEADER_FONT = Font(bold=True, color="FFFFFF", size=11)
@@ -54,10 +68,7 @@ def style_sheet(ws, title: str, rows: list[dict], band: PatternFill) -> None:
     dv.prompt = "AGREE or OVERTURN?"
     ws.add_data_validation(dv)
     for ri, f in enumerate(rows, start=3):
-        verdict = "GRANTMAKER" if f.get("is_grantmaker") else "NOT grantmaker"
-        values = [f.get("id"), f.get("name"), f.get("charity_number"), f.get("website"),
-                  (f.get("description") or "")[:2000], verdict,
-                  f.get("confidence"), f.get("reason"), "", ""]
+        values = _row_values(f)
         for ci, val in enumerate(values, start=1):
             cell = ws.cell(row=ri, column=ci, value=val)
             cell.border = THIN_BORDER

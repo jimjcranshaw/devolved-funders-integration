@@ -114,8 +114,13 @@ def load_targets(path: str, max_funders: int) -> list[dict]:
     return grantmakers[:max_funders]
 
 
+EVIDENCE_COLUMNS = ("website", "description", "charity_number", "oscr_purposes",
+                    "purposes", "activities", "objects", "constitutional_form",
+                    "ukcat_codes", "initial_classification")
+
+
 def enrich_from_db(targets: list[dict]) -> None:
-    """Fill in website/description from funders (sweep files drop them). In place."""
+    """Fill in website/description/evidence from funders (sweep files drop them). In place."""
     import psycopg2
     import psycopg2.extras
 
@@ -132,15 +137,17 @@ def enrich_from_db(targets: list[dict]) -> None:
     )
     try:
         with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
-            cur.execute("SELECT id, website, description, charity_number FROM funders WHERE id = ANY(%s)", (ids,))
+            cur.execute("SELECT column_name FROM information_schema.columns WHERE table_name='funders'")
+            have = {r["column_name"] for r in cur.fetchall()}
+            cols = ["id"] + [c for c in EVIDENCE_COLUMNS if c in have]
+            cur.execute(f"SELECT {', '.join(cols)} FROM funders WHERE id = ANY(%s)", (ids,))
             by_id = {r["id"]: r for r in cur.fetchall()}
     finally:
         conn.close()
     for t in targets:
         row = by_id.get(t["id"], {})
-        t.setdefault("website", row.get("website", ""))
-        t.setdefault("description", row.get("description", ""))
-        t.setdefault("charity_number", row.get("charity_number", ""))
+        for c in EVIDENCE_COLUMNS:
+            t.setdefault(c, row.get(c, ""))
 
 
 def main() -> int:
