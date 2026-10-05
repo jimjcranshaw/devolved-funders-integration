@@ -1,0 +1,20 @@
+{
+  "sampled": 2,
+  "dry_run": false,
+  "funders": [
+    {
+      "id": 246,
+      "name": "Robertson Trust",
+      "fetched_chars": 2891,
+      "opps_found": 1,
+      "stored": 1
+    },
+    {
+      "id": 256,
+      "name": "The Gannochy Trust",
+      "fetched_chars": 2434,
+      "opps_found": 0,
+      "stored": 0
+    }
+  ]
+}
