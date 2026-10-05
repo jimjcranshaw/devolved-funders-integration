@@ -1,0 +1,14 @@
+{
+  "sampled": 1,
+  "dry_run": false,
+  "funders": [
+    {
+      "id": 218,
+      "name": "Claremont Trust",
+      "pages": 1,
+      "sources": "website",
+      "opps_found": 1,
+      "stored": 1
+    }
+  ]
+}

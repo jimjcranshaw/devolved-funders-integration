@@ -132,7 +132,7 @@ def enrich_from_db(targets: list[dict]) -> None:
     )
     try:
         with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
-            cur.execute("SELECT id, website, description FROM funders WHERE id = ANY(%s)", (ids,))
+            cur.execute("SELECT id, website, description, charity_number FROM funders WHERE id = ANY(%s)", (ids,))
             by_id = {r["id"]: r for r in cur.fetchall()}
     finally:
         conn.close()
@@ -140,6 +140,7 @@ def enrich_from_db(targets: list[dict]) -> None:
         row = by_id.get(t["id"], {})
         t.setdefault("website", row.get("website", ""))
         t.setdefault("description", row.get("description", ""))
+        t.setdefault("charity_number", row.get("charity_number", ""))
 
 
 def main() -> int:
