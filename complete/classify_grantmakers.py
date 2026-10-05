@@ -58,7 +58,7 @@ def parse_verdict(text: str) -> dict:
     }
 
 
-def live_no_opp_funders(limit: int) -> tuple[list[dict], list[str]]:
+def live_no_opp_funders(limit: int, offset: int = 0) -> tuple[list[dict], list[str]]:
     import psycopg2
     import psycopg2.extras
 
@@ -80,23 +80,56 @@ def live_no_opp_funders(limit: int) -> tuple[list[dict], list[str]]:
                 f"SELECT f.id, f.name, f.charity_number, f.source_register{extra} "
                 f"FROM funders f WHERE NOT EXISTS "
                 f"(SELECT 1 FROM funding_opportunities o WHERE o.funder_id = f.id) "
-                f"ORDER BY f.id ASC LIMIT {int(limit)}"
+                f"ORDER BY f.id ASC LIMIT {int(limit)} OFFSET {int(offset)}",
             )
             return [dict(r) for r in cur.fetchall()], ctx
     finally:
         conn.close()
 
 
+def merge_sweeps(parts: list[dict]) -> dict:
+    """Combine per-chunk sweep files into one full sweep. Pure (tested)."""
+    results: list[dict] = []
+    ctx: set[str] = set()
+    for p in parts:
+        results.extend(p.get("results", []))
+        ctx.update(p.get("context_cols", []))
+    seen, deduped = set(), []
+    for r in sorted(results, key=lambda x: x.get("id", 0)):
+        if r.get("id") in seen:
+            continue
+        seen.add(r.get("id"))
+        deduped.append(r)
+    return {"sampled": len(deduped), "context_cols": sorted(ctx),
+            "dry_run": all(p.get("dry_run", False) for p in parts),
+            "grantmakers": sum(1 for r in deduped if r.get("is_grantmaker")),
+            "results": deduped}
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--max-funders", type=int, default=20)
+    ap.add_argument("--offset", type=int, default=0)
+    ap.add_argument("--merge", nargs="*", default=None,
+                    help="Merge chunk files: --merge c0.json c1.json --out full.json")
     ap.add_argument("--out", default="")
     args = ap.parse_args()
+    if args.merge is not None:
+        parts = [json.loads(Path(p).read_text()) for p in args.merge]
+        merged = merge_sweeps(parts)
+        text = json.dumps(merged, indent=2)
+        if args.out:
+            Path(args.out).write_text(text)
+            print(f"Merged {len(parts)} chunks: {merged['sampled']} funders, "
+                  f"{merged['grantmakers']} grantmakers -> {args.out}")
+        else:
+            print(text)
+        return 0
     if not os.getenv("DB_PASSWORD"):
         print("Missing DB_PASSWORD in .env.")
         return 2
-    funders, ctx = live_no_opp_funders(args.max_funders)
+    funders, ctx = live_no_opp_funders(args.max_funders, args.offset)
     results = []
     for f in funders:
         prompt = build_prompt(f)

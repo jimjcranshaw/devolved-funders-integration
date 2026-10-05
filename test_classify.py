@@ -1,6 +1,6 @@
 """Tests for complete/classify_grantmakers.py pure helpers (no DB, no API)."""
 
-from complete.classify_grantmakers import build_prompt, parse_verdict
+from complete.classify_grantmakers import build_prompt, merge_sweeps, parse_verdict
 
 
 def test_build_prompt_contains_identity_and_json_contract():
@@ -22,3 +22,14 @@ def test_parse_verdict_prose_wrapped():
 
 def test_parse_verdict_garbage():
     assert parse_verdict("no json here")["reason"] == "unparseable"
+
+
+def test_merge_dedupes_and_counts():
+    a = {"results": [{"id": 1, "is_grantmaker": True}, {"id": 2, "is_grantmaker": False}],
+         "context_cols": ["website"], "dry_run": False}
+    b = {"results": [{"id": 2, "is_grantmaker": False}, {"id": 3, "is_grantmaker": True}],
+         "context_cols": ["description"], "dry_run": False}
+    m = merge_sweeps([a, b])
+    assert m["sampled"] == 3 and m["grantmakers"] == 2
+    assert [r["id"] for r in m["results"]] == [1, 2, 3]
+    assert m["context_cols"] == ["description", "website"]
