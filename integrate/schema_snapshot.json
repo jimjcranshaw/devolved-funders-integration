@@ -1,0 +1,75 @@
+{
+  "tables": {
+    "funders": [
+      "id",
+      "name",
+      "website",
+      "description",
+      "charity_number",
+      "is_active",
+      "is_grantmaking_charity",
+      "funder_type_reason",
+      "etag",
+      "last_modified",
+      "content_hash",
+      "last_checked",
+      "classification_type",
+      "assessment_notes",
+      "requires_manual_review",
+      "ukcat_codes",
+      "monthly_import_id",
+      "initial_classification",
+      "manual_review_classification",
+      "review_notes",
+      "reviewer_name",
+      "review_date",
+      "import_batch_id",
+      "source_register",
+      "oscr_purposes",
+      "constitutional_form",
+      "cross_border_registered",
+      "created_at",
+      "updated_at"
+    ],
+    "funding_opportunities": [
+      "id",
+      "funder_id",
+      "scrape_session_id",
+      "opportunity_title",
+      "description",
+      "eligibility_inclusion",
+      "eligibility_exclusion",
+      "funding_focus",
+      "funding_amounts",
+      "deadlines",
+      "application_process",
+      "application_requirements",
+      "evaluation_criteria",
+      "contact_info",
+      "application_form_url",
+      "application_form_type",
+      "application_questions",
+      "guidance_url",
+      "guidance_text",
+      "objectives_goals",
+      "important_urls",
+      "embedding",
+      "opportunity_source",
+      "is_default_assessment",
+      "ukcat_codes",
+      "created_at",
+      "updated_at"
+    ]
+  },
+  "gaps": {
+    "funders_missing_source_register": false,
+    "funders_missing_oscr_purposes": false,
+    "opp_amount_cols_present": [
+      "funding_amounts"
+    ],
+    "opp_deadline_cols_present": [
+      "deadlines"
+    ],
+    "has_pages_table": false
+  }
+}
