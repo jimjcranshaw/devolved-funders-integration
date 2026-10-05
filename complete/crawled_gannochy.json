@@ -7,8 +7,9 @@
       "id": 256,
       "name": "The Gannochy Trust",
       "pages": 0,
-      "opps_found": 1,
-      "stored": 1
+      "opps_found": 0,
+      "stored": 0,
+      "note": "no pages, skipped"
     }
   ]
 }
