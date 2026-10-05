@@ -58,16 +58,28 @@
       "is_default_assessment",
       "ukcat_codes",
       "created_at",
-      "updated_at"
+      "updated_at",
+      "min_amount",
+      "max_amount",
+      "deadline",
+      "eligibility_criteria",
+      "beneficiary_groups",
+      "excludes_individuals",
+      "excludes_for_profit",
+      "excludes_religious",
+      "excludes_political"
     ]
   },
   "gaps": {
     "funders_missing_source_register": false,
     "funders_missing_oscr_purposes": false,
     "opp_amount_cols_present": [
-      "funding_amounts"
+      "funding_amounts",
+      "max_amount",
+      "min_amount"
     ],
     "opp_deadline_cols_present": [
+      "deadline",
       "deadlines"
     ],
     "has_pages_table": false
