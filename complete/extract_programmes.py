@@ -114,6 +114,34 @@ def load_targets(path: str, max_funders: int) -> list[dict]:
     return grantmakers[:max_funders]
 
 
+def enrich_from_db(targets: list[dict]) -> None:
+    """Fill in website/description from funders (sweep files drop them). In place."""
+    import psycopg2
+    import psycopg2.extras
+
+    ids = [t["id"] for t in targets]
+    if not ids:
+        return
+    conn = psycopg2.connect(
+        host=os.getenv("DB_HOST", "psql-grantsai-db.postgres.database.azure.com"),
+        user=os.getenv("DB_USER", "grantsadmin"),
+        password=os.getenv("DB_PASSWORD", ""),
+        database=os.getenv("DEVOLVED_DB_NAME", "grantseeker_devolved"),
+        port=int(os.getenv("DB_PORT", "5432")),
+        sslmode="require",
+    )
+    try:
+        with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+            cur.execute("SELECT id, website, description FROM funders WHERE id = ANY(%s)", (ids,))
+            by_id = {r["id"]: r for r in cur.fetchall()}
+    finally:
+        conn.close()
+    for t in targets:
+        row = by_id.get(t["id"], {})
+        t.setdefault("website", row.get("website", ""))
+        t.setdefault("description", row.get("description", ""))
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--from", dest="from_file", required=True)
@@ -122,6 +150,10 @@ def main() -> int:
     ap.add_argument("--out", default="")
     args = ap.parse_args()
     targets = load_targets(args.from_file, args.max_funders)
+    try:
+        enrich_from_db(targets)
+    except Exception as e:
+        print(f"Warning: DB enrich failed ({e}), continuing without websites.")
     summary: list[dict] = []
     for t in targets:
         page = "" if args.dry_run else fetch_homepage(t.get("website", "") or "")

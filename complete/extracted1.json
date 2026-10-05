@@ -1,0 +1,13 @@
+{
+  "sampled": 1,
+  "dry_run": false,
+  "funders": [
+    {
+      "id": 20,
+      "name": "Edinburgh Mathematical Society",
+      "fetched_chars": 0,
+      "opps_found": 0,
+      "stored": 0
+    }
+  ]
+}
