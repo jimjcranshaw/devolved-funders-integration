@@ -1,0 +1,419 @@
+{
+  "sampled": 46,
+  "dry_run": false,
+  "funders": [
+    {
+      "id": 1355,
+      "name": "The Murdoch Forrest Charitable Trust",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1356,
+      "name": "Baird Trust",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1384,
+      "name": "Barns-Graham Charitable Trust",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 2,
+      "replaced": 0,
+      "stored": 2
+    },
+    {
+      "id": 1388,
+      "name": "McSence Ltd",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1390,
+      "name": "The Dementia Trust",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 3,
+      "replaced": 0,
+      "stored": 3
+    },
+    {
+      "id": 1418,
+      "name": "Bell's Nautical Trust",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1426,
+      "name": "Queensberry House Trust",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 2,
+      "replaced": 0,
+      "stored": 2
+    },
+    {
+      "id": 1440,
+      "name": "The William Heughan Trust",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 2,
+      "replaced": 0,
+      "stored": 2
+    },
+    {
+      "id": 1442,
+      "name": "Gordon Cook Foundation",
+      "pages": 4,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1443,
+      "name": "Courant Fund For Children",
+      "pages": 8,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1475,
+      "name": "Scottish Library And Information Council",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 3,
+      "replaced": 0,
+      "stored": 3
+    },
+    {
+      "id": 1479,
+      "name": "Dr William Guilds Managers",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1485,
+      "name": "The Stafford Trust",
+      "pages": 4,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1510,
+      "name": "Engage Renfrewshire",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 0,
+      "replaced": 0,
+      "stored": 0
+    },
+    {
+      "id": 1524,
+      "name": "Waugh & Wharrie Bequest",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1541,
+      "name": "Michael Beveridge Bequest",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 0,
+      "replaced": 0,
+      "stored": 0
+    },
+    {
+      "id": 1555,
+      "name": "British Combinatorial Committee",
+      "pages": 7,
+      "sources": "register+website",
+      "opps_found": 2,
+      "replaced": 0,
+      "stored": 2
+    },
+    {
+      "id": 1604,
+      "name": "SPIFOX",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1611,
+      "name": "Chamber Music Scotland",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 5,
+      "replaced": 0,
+      "stored": 5
+    },
+    {
+      "id": 1620,
+      "name": "McGlashan Charitable Trust",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 2,
+      "replaced": 0,
+      "stored": 2
+    },
+    {
+      "id": 1622,
+      "name": "Scottish Cardiac Society",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1632,
+      "name": "Miss Annie Smith Mair Newmilns Trust Fund",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1650,
+      "name": "Novum Trust",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1661,
+      "name": "Mamie Martin Fund",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 0,
+      "replaced": 0,
+      "stored": 0
+    },
+    {
+      "id": 1672,
+      "name": "Tunnell Trust",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1702,
+      "name": "Friends Of Highland Music",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1711,
+      "name": "Rotary Club Of Banchory-Ternan Charitable Trust Fund",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1712,
+      "name": "South Asia Voluntary Enterprise",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 0,
+      "replaced": 0,
+      "stored": 0
+    },
+    {
+      "id": 1723,
+      "name": "Equestrian Order Of The Holy Sepulchre Of Jerusalem Lieutenancy Of Scotland",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 0,
+      "replaced": 0,
+      "stored": 0
+    },
+    {
+      "id": 1752,
+      "name": "Foundation Scotland",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1753,
+      "name": "Worldwide Cancer Research",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 2,
+      "replaced": 0,
+      "stored": 2
+    },
+    {
+      "id": 1770,
+      "name": "Brownlee Old Town Trust",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1773,
+      "name": "The Maple Trust",
+      "pages": 5,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1791,
+      "name": "Roslin Foundation",
+      "pages": 2,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1814,
+      "name": "Macaulay Development Trust",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1858,
+      "name": "Crichton Foundation",
+      "pages": 6,
+      "sources": "register+website",
+      "opps_found": 2,
+      "replaced": 0,
+      "stored": 2
+    },
+    {
+      "id": 1864,
+      "name": "R S E Scotland Foundation",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 3,
+      "replaced": 0,
+      "stored": 3
+    },
+    {
+      "id": 1886,
+      "name": "Rotary Club Of Perth St Johns Charitable Trust Fund",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1890,
+      "name": "Comhairle nan Leabhraichean The Gaelic Books Council",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1891,
+      "name": "Rotary Club Of North Fife Charitable Trust Fund",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 1,
+      "replaced": 0,
+      "stored": 1
+    },
+    {
+      "id": 1893,
+      "name": "City Of Edinburgh Council Charitable Funds",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 0,
+      "replaced": 0,
+      "stored": 0
+    },
+    {
+      "id": 1894,
+      "name": "West Dunbartonshire Council Charitable Trusts",
+      "pages": 0,
+      "opps_found": 0,
+      "stored": 0,
+      "note": "no source reachable"
+    },
+    {
+      "id": 1896,
+      "name": "North Ayrshire Council Charitable Trusts",
+      "pages": 8,
+      "sources": "website",
+      "opps_found": 0,
+      "replaced": 0,
+      "stored": 0
+    },
+    {
+      "id": 1897,
+      "name": "South Lanarkshire Council Charitable Trusts",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 0,
+      "replaced": 0,
+      "stored": 0
+    },
+    {
+      "id": 1904,
+      "name": "Rotary Club Of South Queensferry Trust Fund",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 0,
+      "replaced": 0,
+      "stored": 0
+    },
+    {
+      "id": 1923,
+      "name": "The Global Concerns Trust",
+      "pages": 9,
+      "sources": "register+website",
+      "opps_found": 0,
+      "replaced": 0,
+      "stored": 0
+    }
+  ]
+}
