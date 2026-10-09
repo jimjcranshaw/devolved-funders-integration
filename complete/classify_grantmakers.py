@@ -26,7 +26,7 @@ load_dotenv()
 CONTEXT_CANDIDATES = ("description", "website", "oscr_purposes", "purposes", "activities", "objects")
 
 
-def build_prompt(funder: dict) -> str:
+def build_prompt(funder: dict, page_text: str = "") -> str:
     bits = [
         f"Name: {funder.get('name', '')}",
         f"Charity number: {funder.get('charity_number', '')} ({funder.get('source_register', '')})",
@@ -34,6 +34,8 @@ def build_prompt(funder: dict) -> str:
     for col in CONTEXT_CANDIDATES:
         if funder.get(col):
             bits.append(f"{col}: {str(funder[col])[:1500]}")
+    if page_text:
+        bits.append(f"website homepage text: {page_text[:4000]}")
     return (
         "Decide if this charity is a GRANTMAKER (gives grants to other organisations) "
         "or not (church, school, service-delivery charity, club). "

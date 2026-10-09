@@ -24,6 +24,12 @@ def test_parse_verdict_garbage():
     assert parse_verdict("no json here")["reason"] == "unparseable"
 
 
+def test_build_prompt_with_page_text():
+    from complete.classify_grantmakers import build_prompt
+    p = build_prompt({"name": "X"}, "we give grants yearly")
+    assert "we give grants yearly" in p
+
+
 def test_merge_dedupes_and_counts():
     a = {"results": [{"id": 1, "is_grantmaker": True}, {"id": 2, "is_grantmaker": False}],
          "context_cols": ["website"], "dry_run": False}
