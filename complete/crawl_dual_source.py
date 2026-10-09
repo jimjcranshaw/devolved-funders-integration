@@ -63,6 +63,34 @@ async def fetch_register_page(url: str) -> dict | None:
             "content": result.markdown[:50000], "source": "register"}
 
 
+MACHINE_SOURCES = ("devolved-crawl", "single-website", "single-register",
+                   "dual-website+register", "dual-register+website")
+
+
+def replace_machine_rows(funder_id: int) -> int:
+    """Delete prior machine-extracted rows so recrawls never duplicate. Returns count."""
+    import psycopg2
+
+    conn = psycopg2.connect(
+        host=os.getenv("DB_HOST", "psql-grantsai-db.postgres.database.azure.com"),
+        user=os.getenv("DB_USER", "grantsadmin"),
+        password=os.getenv("DB_PASSWORD", ""),
+        database=os.getenv("DEVOLVED_DB_NAME", "grantseeker_devolved"),
+        port=int(os.getenv("DB_PORT", "5432")),
+        sslmode="require",
+    )
+    try:
+        with conn.cursor() as cur:
+            cur.execute("DELETE FROM funding_opportunities WHERE funder_id = %s "
+                        "AND opportunity_source = ANY(%s)",
+                        (funder_id, list(MACHINE_SOURCES)))
+            n = cur.rowcount
+        conn.commit()
+        return n
+    finally:
+        conn.close()
+
+
 def build_review_pack(funder: dict, pages: list[dict], opps: list[dict],
                       sources: str) -> str:
     """Human review markdown: what was read, what was extracted. Pure."""
@@ -89,6 +117,7 @@ def main() -> int:
     ap.add_argument("--from", dest="from_file", required=True)
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--max-funders", type=int, default=3)
+    ap.add_argument("--offset", type=int, default=0)
     ap.add_argument("--ids", default="")
     ap.add_argument("--out", default="")
     ap.add_argument("--review-dir", default="review")
@@ -103,7 +132,7 @@ def main() -> int:
     if args.ids:
         want = {int(x) for x in args.ids.split(",") if x.strip().isdigit()}
         grantmakers = [g for g in grantmakers if g["id"] in want]
-    grantmakers = grantmakers[: args.max_funders]
+    grantmakers = grantmakers[args.offset: args.offset + args.max_funders]
     try:
         enrich_from_db(grantmakers)
     except Exception as e:
@@ -111,7 +140,8 @@ def main() -> int:
 
     review_dir = Path(args.review_dir)
     summary: list[dict] = []
-    for t in grantmakers:
+    total = len(grantmakers)
+    for n, t in enumerate(grantmakers, start=1):
         reg, reg_url = register_url(t.get("charity_number", ""))
         own = is_own_website(t.get("website", ""))
         if args.dry_run:
@@ -131,6 +161,7 @@ def main() -> int:
         if not pages:
             summary.append({"id": t["id"], "name": t["name"], "pages": 0,
                             "opps_found": 0, "stored": 0, "note": "no source reachable"})
+            print(f"[{n}/{total}] id {t['id']} no-source", flush=True)
             continue
         used = sorted({p.get("source", "website") for p in pages})
         sources = "+".join(used)
@@ -139,11 +170,15 @@ def main() -> int:
         rows = [map_to_row(o, t["id"]) for o in opps if o.get("opportunity_title")]
         for r in rows:
             r["opportunity_source"] = f"dual-{sources}" if len(used) > 1 else f"single-{sources}"
+        replaced = replace_machine_rows(t["id"]) if rows else 0
         stored = store_rows(rows) if rows else 0
         review_dir.mkdir(exist_ok=True)
         (review_dir / f"{t['id']}.md").write_text(build_review_pack(t, pages, opps, sources))
         summary.append({"id": t["id"], "name": t["name"], "pages": len(pages),
-                        "sources": sources, "opps_found": len(opps), "stored": stored})
+                        "sources": sources, "opps_found": len(opps),
+                        "replaced": replaced, "stored": stored})
+        print(f"[{n}/{total}] id {t['id']} pages={len(pages)} src={sources} "
+              f"opps={len(opps)} stored={stored} replaced={replaced}", flush=True)
     out = {"sampled": len(grantmakers), "dry_run": args.dry_run, "funders": summary}
     text = json.dumps(out, indent=2)
     if args.out:

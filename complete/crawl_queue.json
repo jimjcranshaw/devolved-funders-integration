@@ -1,0 +1,4524 @@
+{
+ "results": [
+  {
+   "id": 20,
+   "name": "Edinburgh Mathematical Society",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Learned society likely awards grants for mathematical research and education.",
+   "sent": true
+  },
+  {
+   "id": 32,
+   "name": "Pleasance Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Trust states it is a grant giving body to voluntary organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 34,
+   "name": "Rotary Club Of Forres Charitable Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Runs charitable funding application and disburses grants to charities",
+   "via": "recheck"
+  },
+  {
+   "id": 51,
+   "name": "Youth Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Provides small grants and funding to youth groups",
+   "via": "recheck"
+  },
+  {
+   "id": 100,
+   "name": "Piobaireachd Society",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Website has GRANTS menu, indicating grantmaking to others",
+   "via": "recheck"
+  },
+  {
+   "id": 105,
+   "name": "Zetland Educational Trust Schemes 1961 to 1965",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Educational trust schemes typically distribute grants to individuals or organisations.",
+   "sent": true
+  },
+  {
+   "id": 115,
+   "name": "Waldensian Missions Aid Society For Work In Italy With Which Is Incorporated The Italian Evangelization Society",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Missions aid society likely funds work in Italy",
+   "sent": true
+  },
+  {
+   "id": 136,
+   "name": "Rotary Club Of Fraserburgh Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust funds typically make grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 162,
+   "name": "Grand Lodge Of Scotland Annuity Benevolent & Charity Funds",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Benevolent and charity funds typically distribute grants to individuals or groups.",
+   "sent": true
+  },
+  {
+   "id": 164,
+   "name": "Hammermen Society",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Donates funds to community projects like Men's Shed",
+   "via": "recheck"
+  },
+  {
+   "id": 169,
+   "name": "Royal Scottish Forestry Society",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Offers funding and grants to promote forestry learning and activities",
+   "via": "recheck"
+  },
+  {
+   "id": 171,
+   "name": "Rotary Club Of Langholm Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust funds typically make grants to community causes",
+   "sent": true
+  },
+  {
+   "id": 198,
+   "name": "James IV Association Of Surgeons Fund Of The United Kingdom",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Association fund likely provides grants for surgical education and health.",
+   "sent": true
+  },
+  {
+   "id": 257,
+   "name": "Perth and Kinross Heritage Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Administers grants including Community Heritage Grants and Perth City Heritage Fund",
+   "via": "recheck"
+  },
+  {
+   "id": 279,
+   "name": "Radio Clyde Cash for Kids",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Cash for Kids distributes grants to children's charities and causes.",
+   "sent": true
+  },
+  {
+   "id": 281,
+   "name": "The Killearn Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 364,
+   "name": "Gaelic Language Promotion Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely funds Gaelic language promotion via grants.",
+   "sent": true
+  },
+  {
+   "id": 376,
+   "name": "Royal Highland & Agricultural Society of Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Provides funding awards, placements, and partnerships to rural projects.",
+   "via": "recheck"
+  },
+  {
+   "id": 382,
+   "name": "The Incorporation Of Coopers Of Glasgow",
+   "is_grantmaker": true,
+   "confidence": 0.6,
+   "reason": "Multiple broad charitable purposes suggest possible grantmaking, but unclear.",
+   "sent": true
+  },
+  {
+   "id": 407,
+   "name": "Meyer Oppenheim Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust with broad charitable purposes, likely grantmaking",
+   "sent": true
+  },
+  {
+   "id": 410,
+   "name": "Murrayfield Injured Players Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides assistance to injured rugby players, akin to grants",
+   "via": "recheck"
+  },
+  {
+   "id": 419,
+   "name": "George Macleod Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 440,
+   "name": "Glasgow Tree Lovers Society",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Website states grants made available for tree-related projects.",
+   "via": "recheck"
+  },
+  {
+   "id": 486,
+   "name": "Mugdock Childrens Trust - Archibald & Isabella Barr Memorial",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely provides grants to children's causes",
+   "sent": true
+  },
+  {
+   "id": 487,
+   "name": "Lintel Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust likely provides grants for housing and community projects.",
+   "sent": true
+  },
+  {
+   "id": 488,
+   "name": "Glasgow Mathematical Journal Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust likely funds mathematical journal and research grants.",
+   "sent": true
+  },
+  {
+   "id": 519,
+   "name": "Darwin Trust Of Edinburgh",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust funds education and science, likely grants to researchers/organisations.",
+   "sent": true
+  },
+  {
+   "id": 533,
+   "name": "Scottish Homoeopathic Research & Education Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Offers funding, bursaries, and grants to students and practitioners.",
+   "via": "recheck"
+  },
+  {
+   "id": 537,
+   "name": "Galloway Association of Glasgow",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website has Get Funding and Funding Guidelines sections.",
+   "via": "recheck"
+  },
+  {
+   "id": 608,
+   "name": "Stirlingshire Educational Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Educational trust likely provides grants for education-related purposes.",
+   "sent": true
+  },
+  {
+   "id": 626,
+   "name": "Blairgowrie & District Rotary Benevolent Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary benevolent fund likely makes grants to community causes",
+   "sent": true
+  },
+  {
+   "id": 631,
+   "name": "Rotary Club Of Lochaber Charity Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club charity fund likely makes grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 640,
+   "name": "Glen Tanar Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely provides grants to organisations in its focus areas.",
+   "sent": true
+  },
+  {
+   "id": 646,
+   "name": "Incorporation Of Tailors In Glasgow",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trades House incorporation likely distributes funds to related causes",
+   "sent": true
+  },
+  {
+   "id": 649,
+   "name": "Edinburgh Geological Society",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Awards grants to projects and fieldwork.",
+   "via": "recheck"
+  },
+  {
+   "id": 654,
+   "name": "Guildry Incorporation of Perth",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Incorporation likely distributes grants to local causes",
+   "sent": true
+  },
+  {
+   "id": 659,
+   "name": "Grampian Motor Training Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides funding for training to organisations and individuals",
+   "via": "recheck"
+  },
+  {
+   "id": 679,
+   "name": "Theodore Salvesen Memorial Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust with generic purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 695,
+   "name": "Rotary Club of Broughty Ferry Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Rotary club trust funds typically distribute grants to community organisations.",
+   "sent": true
+  },
+  {
+   "id": 700,
+   "name": "The Columba Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants.",
+   "sent": true
+  },
+  {
+   "id": 725,
+   "name": "Alexander Moncur Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 727,
+   "name": "Merchants House Of Glasgow",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Charitable trust distributing grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 746,
+   "name": "Scottish Mountaineering Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust likely funds mountaineering-related grants and projects.",
+   "sent": true
+  },
+  {
+   "id": 747,
+   "name": "forthgiving",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Name 'forthgiving' and purposes suggest grantmaking foundation.",
+   "sent": true
+  },
+  {
+   "id": 752,
+   "name": "Scottish International Education Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust likely provides grants for educational purposes",
+   "sent": true
+  },
+  {
+   "id": 753,
+   "name": "Barcapel Foundation Limited",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation with broad charitable purposes, likely grantmaking",
+   "sent": true
+  },
+  {
+   "id": 761,
+   "name": "Incorporation Of Barbers In Glasgow",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Distributes charitable funds and awards grants annually to causes.",
+   "via": "recheck"
+  },
+  {
+   "id": 763,
+   "name": "The Hugh Fraser Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation with broad charitable purposes, likely grantmaking",
+   "sent": true
+  },
+  {
+   "id": 768,
+   "name": "Leith Industrial School Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely distributes funds for education",
+   "sent": true
+  },
+  {
+   "id": 780,
+   "name": "The Corra Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Corra Foundation is a known grant-making foundation in Scotland.",
+   "sent": true
+  },
+  {
+   "id": 799,
+   "name": "Tenovus Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Medical research charity funding grants to scientists and clinicians",
+   "sent": true
+  },
+  {
+   "id": 813,
+   "name": "SOC",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Website lists grants and research/survey grants for bird recording.",
+   "via": "recheck"
+  },
+  {
+   "id": 816,
+   "name": "Royal Celtic Society",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Society likely funds educational and cultural grants.",
+   "sent": true
+  },
+  {
+   "id": 821,
+   "name": "Holywood Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust with broad charitable purposes typically makes grants",
+   "sent": true
+  },
+  {
+   "id": 822,
+   "name": "Edinburgh Voluntary Organisations Council",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Council supports voluntary organisations, likely distributes grants.",
+   "sent": true
+  },
+  {
+   "id": 842,
+   "name": "British Association For Lung Research",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Provides studentships, awards, and prizes to support researchers",
+   "via": "recheck"
+  },
+  {
+   "id": 852,
+   "name": "Thomas Lyon Bequest",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Parent charity makes grants; bequest likely grantmaking fund",
+   "via": "recheck"
+  },
+  {
+   "id": 874,
+   "name": "Aberdeen Endowments Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Endowments trust typically distributes grants for education and arts.",
+   "sent": true
+  },
+  {
+   "id": 914,
+   "name": "Scottish Assoc Of Change Ringers Bell Restoration Fund",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Bell restoration fund likely grants to churches for bell repairs",
+   "sent": true
+  },
+  {
+   "id": 932,
+   "name": "Leith Benevolent Assoc Ltd",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Provides funding to projects and groups in Leith",
+   "via": "recheck"
+  },
+  {
+   "id": 954,
+   "name": "Shetland Health Board Endowment Funds",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "NHS endowment fund likely distributes grants to health-related causes.",
+   "sent": true
+  },
+  {
+   "id": 980,
+   "name": "Bellahouston Bequest Fund",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Bequest fund with broad charitable purposes, likely grants to organisations",
+   "sent": true
+  },
+  {
+   "id": 981,
+   "name": "Rotary Club Of Kirkcaldy Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary charitable trust likely funds community grants and projects",
+   "sent": true
+  },
+  {
+   "id": 987,
+   "name": "Scottish Society For Crop Research",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds research at institutions and supports innovation centres",
+   "via": "recheck"
+  },
+  {
+   "id": 1016,
+   "name": "SCIAF",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "International aid agency funding partner organisations overseas",
+   "sent": true
+  },
+  {
+   "id": 1030,
+   "name": "Glasgow Educational And Marshall Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust likely provides educational grants to individuals or organisations.",
+   "sent": true
+  },
+  {
+   "id": 1032,
+   "name": "Scottish Musicians Benevolent Fund",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Benevolent fund providing grants to musicians in need",
+   "sent": true
+  },
+  {
+   "id": 1033,
+   "name": "The Scottish Medievalists",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Has funding page with Anderson-Dunlop Barrow Award grants",
+   "via": "recheck"
+  },
+  {
+   "id": 1041,
+   "name": "The R S Macdonald Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Charitable trust with broad purposes, likely grantmaking",
+   "sent": true
+  },
+  {
+   "id": 1046,
+   "name": "Carnegie UK Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust makes grants to advance education, community, arts, equality.",
+   "sent": true
+  },
+  {
+   "id": 1057,
+   "name": "Rotary Club Of Haddington Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust funds typically make grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 1062,
+   "name": "The Camphill Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation likely provides grants to Camphill communities.",
+   "sent": true
+  },
+  {
+   "id": 1078,
+   "name": "Hunter Archaeological Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely funds archaeological research and education grants.",
+   "sent": true
+  },
+  {
+   "id": 1079,
+   "name": "Rotary Club Of Longniddry & District Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust fund likely distributes grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 1085,
+   "name": "Inchrye Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust with broad charitable purposes typically makes grants.",
+   "sent": true
+  },
+  {
+   "id": 1090,
+   "name": "Rotary Club Of Falkirk Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust funds typically make grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 1091,
+   "name": "Rotary Club Of Troon Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust funds typically make grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 1122,
+   "name": "Rotary Club Of Ayr Benevolent Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club benevolent fund likely distributes grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 1127,
+   "name": "Arbroath Guildry Incorporation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Guildry likely distributes funds to local causes",
+   "sent": true
+  },
+  {
+   "id": 1136,
+   "name": "John Watson's Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely provides educational grants to individuals or organisations.",
+   "sent": true
+  },
+  {
+   "id": 1139,
+   "name": "Incorporation Of Bakers Of Glasgow",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Distributes charitable funds and awards grants annually to causes.",
+   "via": "recheck"
+  },
+  {
+   "id": 1150,
+   "name": "Orcome Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Supports charitable projects and community groups via application process",
+   "via": "recheck"
+  },
+  {
+   "id": 1153,
+   "name": "Incorporation Of Hammermen",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Likely grant-making incorporation supporting education, community, arts, and relief purposes.",
+   "sent": true
+  },
+  {
+   "id": 1162,
+   "name": "Guildry Of Stirling Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Charitable trust likely distributes grants for education and heritage.",
+   "sent": true
+  },
+  {
+   "id": 1165,
+   "name": "Mactaggart Third Fund",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Name 'Fund' and broad charitable purposes suggest grantmaking",
+   "sent": true
+  },
+  {
+   "id": 1181,
+   "name": "The Provincial Grand Lodge of Glasgow Benevolent and Annuity and Charity Funds",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Benevolent and charity funds likely distribute grants to individuals or groups",
+   "sent": true
+  },
+  {
+   "id": 1194,
+   "name": "Arran Society Of Glasgow",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Makes financial awards to community groups and individuals",
+   "via": "recheck"
+  },
+  {
+   "id": 1207,
+   "name": "Glasgow Dean Of Guild Court Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely distributes grants for heritage/arts purposes.",
+   "sent": true
+  },
+  {
+   "id": 1208,
+   "name": "Missio Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Supports overseas missions through grants to partner churches and projects.",
+   "sent": true
+  },
+  {
+   "id": 1213,
+   "name": "G & H Roberts Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Community trust with broad charitable purposes likely grants to others",
+   "sent": true
+  },
+  {
+   "id": 1227,
+   "name": "James Clerk Maxwell Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Foundation advancing physics education/science, likely grants to researchers/students",
+   "sent": true
+  },
+  {
+   "id": 1272,
+   "name": "Museums Galleries Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "National development body distributing grants to Scottish museums.",
+   "sent": true
+  },
+  {
+   "id": 1274,
+   "name": "Carnegie Trust For Universities Of Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust provides grants to Scottish universities for education.",
+   "sent": true
+  },
+  {
+   "id": 1287,
+   "name": "Carnegie Dunfermline Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust named after Carnegie, likely grantmaking foundation",
+   "sent": true
+  },
+  {
+   "id": 1298,
+   "name": "Angus Educational Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Educational trust providing grants, website lists grants and benefits",
+   "sent": true
+  },
+  {
+   "id": 1337,
+   "name": "Mathew Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with education purpose likely provides grants",
+   "sent": true
+  },
+  {
+   "id": 1341,
+   "name": "BAVS",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Administers BCCF funding awards to community groups",
+   "via": "recheck"
+  },
+  {
+   "id": 1343,
+   "name": "Rotary Club Of Leven Charitable Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club charitable trust likely makes grants to other organizations.",
+   "sent": true
+  },
+  {
+   "id": 1353,
+   "name": "The Adamson Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely provides grants for recreational facilities and relief of need.",
+   "sent": true
+  },
+  {
+   "id": 1355,
+   "name": "The Murdoch Forrest Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust with broad charitable purposes typically makes grants.",
+   "sent": true
+  },
+  {
+   "id": 1356,
+   "name": "Baird Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust with broad advancement purposes typically makes grants",
+   "sent": true
+  },
+  {
+   "id": 1384,
+   "name": "Barns-Graham Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Charitable trust advancing arts likely provides grants to artists/organisations.",
+   "sent": true
+  },
+  {
+   "id": 1388,
+   "name": "McSence Ltd",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Acts as holding company distributing funds via small grants",
+   "via": "recheck"
+  },
+  {
+   "id": 1390,
+   "name": "The Dementia Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Offers Murdoch Grant and Disruption Awards to others",
+   "via": "recheck"
+  },
+  {
+   "id": 1418,
+   "name": "Bell's Nautical Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Explicitly states it is a grant giving charity funding other organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 1426,
+   "name": "Queensberry House Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Website invites applications for grants to other organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 1440,
+   "name": "The William Heughan Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely distributes grants for education",
+   "sent": true
+  },
+  {
+   "id": 1442,
+   "name": "Gordon Cook Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation likely provides grants for education and community development.",
+   "sent": true
+  },
+  {
+   "id": 1443,
+   "name": "Courant Fund For Children",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Fund for children likely provides grants to organisations.",
+   "sent": true
+  },
+  {
+   "id": 1475,
+   "name": "Scottish Library And Information Council",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Council likely distributes grants to libraries and information services.",
+   "sent": true
+  },
+  {
+   "id": 1479,
+   "name": "Dr William Guilds Managers",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust distributing funds to individuals or organisations for charitable purposes.",
+   "sent": true
+  },
+  {
+   "id": 1485,
+   "name": "The Stafford Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Broad charitable purposes and 'Trust' name suggest grantmaking.",
+   "sent": true
+  },
+  {
+   "id": 1510,
+   "name": "Engage Renfrewshire",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Supports community groups; likely intermediary grantmaker",
+   "sent": true
+  },
+  {
+   "id": 1524,
+   "name": "Waugh & Wharrie Bequest",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Bequest likely distributes funds to relieve poverty",
+   "sent": true
+  },
+  {
+   "id": 1541,
+   "name": "Michael Beveridge Bequest",
+   "is_grantmaker": true,
+   "confidence": 0.6,
+   "reason": "Bequest fund likely distributes grants to community organisations.",
+   "sent": true
+  },
+  {
+   "id": 1555,
+   "name": "British Combinatorial Committee",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Provides financial support for conferences in combinatorics",
+   "via": "recheck"
+  },
+  {
+   "id": 1604,
+   "name": "SPIFOX",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Provides recreational facilities and relief; likely grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 1611,
+   "name": "Chamber Music Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Runs Small Venues Touring Fund and Concert Series Fund for others",
+   "via": "recheck"
+  },
+  {
+   "id": 1620,
+   "name": "McGlashan Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust with broad charitable purposes likely grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 1622,
+   "name": "Scottish Cardiac Society",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Website has Grants section, indicating grantmaking activity.",
+   "via": "recheck"
+  },
+  {
+   "id": 1632,
+   "name": "Miss Annie Smith Mair Newmilns Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust fund listed under council grants and bequests",
+   "sent": true
+  },
+  {
+   "id": 1650,
+   "name": "Novum Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad education/religion purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 1661,
+   "name": "Mamie Martin Fund",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds education projects in Malawi, likely grants to partners.",
+   "sent": true
+  },
+  {
+   "id": 1672,
+   "name": "Tunnell Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Runs awards scheme giving grants to young musicians",
+   "via": "recheck"
+  },
+  {
+   "id": 1702,
+   "name": "Friends Of Highland Music",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Awards grants to individuals and groups for traditional music.",
+   "via": "recheck"
+  },
+  {
+   "id": 1711,
+   "name": "Rotary Club Of Banchory-Ternan Charitable Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary charitable trust likely makes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 1712,
+   "name": "South Asia Voluntary Enterprise",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Funds grassroots projects via local NGO partners, not direct delivery",
+   "via": "recheck"
+  },
+  {
+   "id": 1723,
+   "name": "Equestrian Order Of The Holy Sepulchre Of Jerusalem Lieutenancy Of Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Religious order likely supports Holy Land charities via grants.",
+   "sent": true
+  },
+  {
+   "id": 1752,
+   "name": "Foundation Scotland",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Foundation Scotland is a grant-making charity funding other organisations.",
+   "sent": true
+  },
+  {
+   "id": 1753,
+   "name": "Worldwide Cancer Research",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Funds cancer research grants to other organisations worldwide.",
+   "sent": true
+  },
+  {
+   "id": 1770,
+   "name": "Brownlee Old Town Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 1773,
+   "name": "The Maple Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Website states it is a grant making trust providing financial support to charities.",
+   "via": "recheck"
+  },
+  {
+   "id": 1791,
+   "name": "Roslin Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Funds research grants, PhD studentships, and strategic investments",
+   "via": "recheck"
+  },
+  {
+   "id": 1814,
+   "name": "Macaulay Development Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely provides grants for education and environment.",
+   "sent": true
+  },
+  {
+   "id": 1858,
+   "name": "Crichton Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation likely provides grants for education and community causes.",
+   "sent": true
+  },
+  {
+   "id": 1864,
+   "name": "R S E Scotland Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation advancing education/science, likely funds research and grants",
+   "sent": true
+  },
+  {
+   "id": 1886,
+   "name": "Rotary Club Of Perth St Johns Charitable Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club charitable trust typically makes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 1890,
+   "name": "Comhairle nan Leabhraichean The Gaelic Books Council",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Council supports Gaelic publishing via grants to authors and publishers.",
+   "sent": true
+  },
+  {
+   "id": 1891,
+   "name": "Rotary Club Of North Fife Charitable Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club charitable trust likely makes grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 1893,
+   "name": "City Of Edinburgh Council Charitable Funds",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Council charitable trust likely distributes grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 1894,
+   "name": "West Dunbartonshire Council Charitable Trusts",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Council charitable trusts typically distribute grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 1896,
+   "name": "North Ayrshire Council Charitable Trusts",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Council charitable trusts typically distribute grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 1897,
+   "name": "South Lanarkshire Council Charitable Trusts",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Council charitable trusts typically distribute grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 1904,
+   "name": "Rotary Club Of South Queensferry Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust funds typically make grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 1923,
+   "name": "The Global Concerns Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Partners with organisations to implement projects, likely funds them",
+   "via": "recheck"
+  },
+  {
+   "id": 1939,
+   "name": "Borders Childrens Charity",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Provides grants to children in need, not direct services",
+   "sent": true
+  },
+  {
+   "id": 1943,
+   "name": "Levenseat Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely distributes grants for education and environmental causes.",
+   "sent": true
+  },
+  {
+   "id": 1945,
+   "name": "Rotary Club Of Burntisland And Kinghorn Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust funds typically make grants to community causes",
+   "sent": true
+  },
+  {
+   "id": 1959,
+   "name": "Highland Cross",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Distributes funds to local charities from event proceeds.",
+   "sent": true
+  },
+  {
+   "id": 1975,
+   "name": "Rotary Club of Nairn Charitable Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust funds typically make grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 1977,
+   "name": "Shetland Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Charitable trust with broad purposes, typically distributes grants",
+   "sent": true
+  },
+  {
+   "id": 1995,
+   "name": "Hydro-Electric Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Community trust likely distributes grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 2007,
+   "name": "The Hunter Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation makes grants to advance education and community development.",
+   "sent": true
+  },
+  {
+   "id": 2020,
+   "name": "Rotary Club Of Currie - Balerno Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust fund likely distributes grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 2040,
+   "name": "Fife Environment Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Environmental trust likely distributes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 2048,
+   "name": "North Lanarkshire Council Educational Endowments",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Educational endowments typically distribute grants to students or schools.",
+   "sent": true
+  },
+  {
+   "id": 2050,
+   "name": "Clerk Maxwell Cancer Research Fund",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Cancer research fund likely grants to research organisations.",
+   "sent": true
+  },
+  {
+   "id": 2063,
+   "name": "Scottish Cancer Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation likely funds cancer research grants",
+   "sent": true
+  },
+  {
+   "id": 2072,
+   "name": "Kincardineshire Educational Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Educational trust likely provides grants for education",
+   "sent": true
+  },
+  {
+   "id": 2073,
+   "name": "Aberdeenshire Educational Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Educational trust likely provides grants for education",
+   "sent": true
+  },
+  {
+   "id": 2074,
+   "name": "Scottish Goldsmith Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely funds educational and cultural activities through grants.",
+   "sent": true
+  },
+  {
+   "id": 2082,
+   "name": "Martin Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 2099,
+   "name": "A E B Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust with broad charitable purposes, likely grantmaking",
+   "sent": true
+  },
+  {
+   "id": 2102,
+   "name": "Strathmartine Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust with education/arts purposes typically makes grants",
+   "sent": true
+  },
+  {
+   "id": 2132,
+   "name": "Friends Of The Institut Francais D'ecosse",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Generates funds for Institut fran\u00e7ais, supporting its activities",
+   "via": "recheck"
+  },
+  {
+   "id": 2133,
+   "name": "Brown Forbes Memorial Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Memorial fund likely distributes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 2136,
+   "name": "Scottish Society Of Physicians",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Website has Grants/Fellowships section, indicating grantmaking activity.",
+   "via": "recheck"
+  },
+  {
+   "id": 2137,
+   "name": "Westray Development Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Runs community grant and loan schemes for local groups",
+   "via": "recheck"
+  },
+  {
+   "id": 2153,
+   "name": "Scottish Fishermen's Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Awards grants exceeding \u00a31.3m to projects and training.",
+   "via": "recheck"
+  },
+  {
+   "id": 2177,
+   "name": "Souter Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust named 'Charitable Trust' typically makes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 2183,
+   "name": "The Acorn Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Provides funds for educational purposes; has awards and application process",
+   "via": "recheck"
+  },
+  {
+   "id": 2221,
+   "name": "Stevenston Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely distributes grants.",
+   "sent": true
+  },
+  {
+   "id": 2237,
+   "name": "Volant Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust named 'Charitable Trust' with grantmaking purposes",
+   "sent": true
+  },
+  {
+   "id": 2244,
+   "name": "Doyle Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation with poverty and education purposes likely grants to organizations.",
+   "sent": true
+  },
+  {
+   "id": 2284,
+   "name": "Marr Area Partnership",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Community development partnership likely distributes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 2308,
+   "name": "Charitable Trust Of The Society Of High Constables Of Edinburgh",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Charitable trust with broad relief purposes likely grants to others",
+   "sent": true
+  },
+  {
+   "id": 2340,
+   "name": "Rotary Club Of Inverkeithing & Dalgety Bay Charitable Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust likely funds community grants",
+   "sent": true
+  },
+  {
+   "id": 2352,
+   "name": "Rotary Club Of Peebles Benevolent Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club benevolent fund likely distributes grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 2364,
+   "name": "Rotary Club Of West Fife Charitable Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club charitable trust likely distributes grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 2373,
+   "name": "Bank of Scotland Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation gives grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 2394,
+   "name": "Christine Witcutt Memorial Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Memorial fund likely provides grants for education and human rights.",
+   "sent": true
+  },
+  {
+   "id": 2411,
+   "name": "Edina Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 2445,
+   "name": "The Cruach Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Broad charitable purposes and trust name suggest grantmaking",
+   "sent": true
+  },
+  {
+   "id": 2446,
+   "name": "Sports Charity Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website describes responsible grant-making and funding guidance for organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 2454,
+   "name": "Greenspace Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Runs Parks4Life Community Fund granting to projects",
+   "via": "recheck"
+  },
+  {
+   "id": 2460,
+   "name": "S J Noble Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with poverty relief and community development purposes likely grants.",
+   "sent": true
+  },
+  {
+   "id": 2464,
+   "name": "Onecity Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust with broad charitable purposes likely provides grants",
+   "sent": true
+  },
+  {
+   "id": 2479,
+   "name": "Rotary Club Of Perth Charitable Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Charitable trust fund likely distributes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 2501,
+   "name": "ICAS Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation provides grants to accounting students",
+   "sent": true
+  },
+  {
+   "id": 2513,
+   "name": "Impact Funding Partners Limited",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Name and purposes indicate grantmaking to other organisations",
+   "sent": true
+  },
+  {
+   "id": 2515,
+   "name": "ESCA",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Offers financial grants to charities and fundraising support",
+   "via": "recheck"
+  },
+  {
+   "id": 2526,
+   "name": "Rotary Club Of Stonehaven Charitable Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club charitable trust typically makes grants to community causes",
+   "sent": true
+  },
+  {
+   "id": 2543,
+   "name": "The Soko Fund SCIO",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Fund name and education purpose suggest grants to students",
+   "sent": true
+  },
+  {
+   "id": 2547,
+   "name": "Rotary Club Of Penicuik Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust funds typically make grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 2568,
+   "name": "Alice Mccosh Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust with educational and environmental purposes likely provides grants.",
+   "sent": true
+  },
+  {
+   "id": 2571,
+   "name": "Forth Valley Giving",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Name and JustGiving page suggest grantmaking to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 2597,
+   "name": "Dundee Historic Environment Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely funds heritage projects, grantmaking based on purposes",
+   "sent": true
+  },
+  {
+   "id": 2616,
+   "name": "Aberdeen City Heritage Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Heritage trust likely provides grants for heritage projects.",
+   "sent": true
+  },
+  {
+   "id": 2623,
+   "name": "Strathard Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Administers community benefit funds and has community impact grants.",
+   "via": "recheck"
+  },
+  {
+   "id": 2624,
+   "name": "Inverness City Heritage Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Heritage trust likely provides grants for building conservation.",
+   "sent": true
+  },
+  {
+   "id": 2643,
+   "name": "Robina Goodlad Memorial Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Memorial trust likely provides grants to organisations.",
+   "sent": true
+  },
+  {
+   "id": 2652,
+   "name": "Philip David Gray Memorial Trust For Vietnam",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Memorial trust likely provides grants for education and community development.",
+   "sent": true
+  },
+  {
+   "id": 2655,
+   "name": "Strathnairn Community Benefit Fund Limited",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Community benefit fund likely distributes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 2660,
+   "name": "Social Investment Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides social investment and grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 2672,
+   "name": "Stella Moffat Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.6,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 2684,
+   "name": "Strathdearn Community Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Community trust likely provides grants to local groups",
+   "sent": true
+  },
+  {
+   "id": 2698,
+   "name": "Japan Society Of Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Offers grants for individuals and organisations to promote Japanese culture.",
+   "via": "recheck"
+  },
+  {
+   "id": 2699,
+   "name": "St Andrews Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Charitable trust typically makes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 2712,
+   "name": "The Victor Murphy Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad advancement purposes likely provides grants",
+   "sent": true
+  },
+  {
+   "id": 2720,
+   "name": "Rhynie Charitable Trust- RCT",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Plans to manage and distribute funding to local groups and projects",
+   "via": "recheck"
+  },
+  {
+   "id": 2741,
+   "name": "The Maitri Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust with broad charitable purposes likely provides grants to organisations.",
+   "sent": true
+  },
+  {
+   "id": 2755,
+   "name": "Renfrewshire Environmental Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Acts as grant holder and distributes landfill tax funds.",
+   "via": "recheck"
+  },
+  {
+   "id": 2758,
+   "name": "Fife Charities Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely distributes funds to charities in Fife",
+   "sent": true
+  },
+  {
+   "id": 2763,
+   "name": "British Council",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides grants and funding for international educational and cultural exchange programs.",
+   "sent": true
+  },
+  {
+   "id": 2789,
+   "name": "Stirling City Heritage Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Heritage trust likely provides grants for conservation and heritage projects.",
+   "sent": true
+  },
+  {
+   "id": 2801,
+   "name": "The Wood Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation name and education/community purposes suggest grantmaking.",
+   "sent": true
+  },
+  {
+   "id": 2808,
+   "name": "The Scottish Schools Pipes and Drums Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust funds school pipe bands, likely grants to schools",
+   "sent": true
+  },
+  {
+   "id": 2811,
+   "name": "REAP",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Administers community benefit funds and gives grants to local organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 2816,
+   "name": "Mains Of Loirston Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website describes grant applications and grants given to others.",
+   "via": "recheck"
+  },
+  {
+   "id": 2819,
+   "name": "The Turtleton Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust with broad purposes, likely distributes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 2823,
+   "name": "Marchig Animal Welfare Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust likely provides grants for animal welfare projects.",
+   "sent": true
+  },
+  {
+   "id": 2826,
+   "name": "The Royal Air Force Benevolent Fund",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Benevolent fund providing grants to RAF personnel and families",
+   "sent": true
+  },
+  {
+   "id": 2870,
+   "name": "The Seafarers\u2019 Charity",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "National grant-making charity funding seafarer welfare organisations.",
+   "sent": true
+  },
+  {
+   "id": 2875,
+   "name": "ERGCFC",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Name and website suggest grantmaking to good causes",
+   "sent": true
+  },
+  {
+   "id": 2881,
+   "name": "The Graham Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Website states it is a grant making trust supporting charities",
+   "via": "recheck"
+  },
+  {
+   "id": 2892,
+   "name": "Economic History Society",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Society advances education by awarding research grants to historians.",
+   "sent": true
+  },
+  {
+   "id": 2897,
+   "name": "The Art Fund",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "National art charity providing grants to museums and galleries.",
+   "sent": true
+  },
+  {
+   "id": 2899,
+   "name": "The Gordon Duncan Memorial Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Memorial trust advancing education and arts, likely grants to others",
+   "sent": true
+  },
+  {
+   "id": 2916,
+   "name": "Glens Of Foudland Wind Farm Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Community trust likely distributes wind farm funds as grants",
+   "sent": true
+  },
+  {
+   "id": 2918,
+   "name": "Bairdwatson Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Charitable trust with broad purposes likely grants to organizations",
+   "sent": true
+  },
+  {
+   "id": 2922,
+   "name": "The Genetics Society",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Scientific society likely awards research grants to organisations",
+   "sent": true
+  },
+  {
+   "id": 2924,
+   "name": "Variety, the Children's Charity",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Children's charity providing grants to individuals and organizations",
+   "sent": true
+  },
+  {
+   "id": 2926,
+   "name": "Fort Augustus & Glenmoriston Community Company",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website states grants awarded to local groups and individuals.",
+   "via": "recheck"
+  },
+  {
+   "id": 2933,
+   "name": "Kalos Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Fund name and arts purpose suggest grantmaking to organisations",
+   "sent": true
+  },
+  {
+   "id": 2936,
+   "name": "Fisheries Legacy Trust Company FLTC",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Supports projects preserving UK fisheries, likely grants to organisations",
+   "via": "recheck"
+  },
+  {
+   "id": 2939,
+   "name": "Glasgow City Heritage Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Heritage trust likely provides grants for building conservation.",
+   "sent": true
+  },
+  {
+   "id": 2940,
+   "name": "Andy Jackson Fund For Access",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Fund for access likely provides grants for outdoor access projects.",
+   "sent": true
+  },
+  {
+   "id": 2981,
+   "name": "Auchterarder And District Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Community trust likely distributes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 2992,
+   "name": "Women for Mission",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Raises funds and gives financial support to mission projects and volunteers",
+   "via": "recheck"
+  },
+  {
+   "id": 2999,
+   "name": "ACFA",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Offers grants and bursaries to Army Cadets and volunteers",
+   "via": "recheck"
+  },
+  {
+   "id": 3016,
+   "name": "UJIA",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "UJIA funds educational and welfare projects in Israel and UK.",
+   "sent": true
+  },
+  {
+   "id": 3018,
+   "name": "Army Benevolent Fund",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides grants to individuals and organizations for benevolent support.",
+   "sent": true
+  },
+  {
+   "id": 3032,
+   "name": "NADFAS",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website mentions grants programme for artists and arts organisations",
+   "via": "recheck"
+  },
+  {
+   "id": 3033,
+   "name": "Kidney Research UK",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Medical research charity funding kidney research grants.",
+   "sent": true
+  },
+  {
+   "id": 3034,
+   "name": "Wooden Spoon",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds and grants to other organisations for children's projects",
+   "sent": true
+  },
+  {
+   "id": 3035,
+   "name": "Microbiology Society",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Scientific society likely funds research grants.",
+   "sent": true
+  },
+  {
+   "id": 3038,
+   "name": "The Anchor Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation name and purposes suggest grantmaking to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 3043,
+   "name": "The Coalfields Regeneration Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Regeneration trust likely funds community projects and organisations.",
+   "sent": true
+  },
+  {
+   "id": 3045,
+   "name": "Action Medical Research",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Medical research charity funding research grants to institutions",
+   "sent": true
+  },
+  {
+   "id": 3049,
+   "name": "Bre Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely funds education research and grants",
+   "sent": true
+  },
+  {
+   "id": 3055,
+   "name": "Yusef Abubaker Memorial Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Provides funding to charities and causes, not direct services",
+   "via": "recheck"
+  },
+  {
+   "id": 3061,
+   "name": "British Heart Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Major medical research funder; awards grants to universities and researchers.",
+   "sent": true
+  },
+  {
+   "id": 3063,
+   "name": "Valley Renewables Group",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Runs community benefit grant programmes for local residents",
+   "via": "recheck"
+  },
+  {
+   "id": 3064,
+   "name": "Muscular Dystrophy UK",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Charity funds research and supports individuals, likely grants to organisations.",
+   "sent": true
+  },
+  {
+   "id": 3071,
+   "name": "Andrew Raven Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely provides grants for education, community, environment.",
+   "sent": true
+  },
+  {
+   "id": 3080,
+   "name": "AFES",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides student funding and university donations",
+   "via": "recheck"
+  },
+  {
+   "id": 3081,
+   "name": "CISWO",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Provides grants to miners' welfare charities and individuals",
+   "via": "recheck"
+  },
+  {
+   "id": 3084,
+   "name": "Children in Need",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "BBC charity distributes grants to organisations supporting disadvantaged children.",
+   "sent": true
+  },
+  {
+   "id": 3094,
+   "name": "Inspiring Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Venture philanthropy intermediary providing grants and funding to Scottish charities.",
+   "sent": true
+  },
+  {
+   "id": 3099,
+   "name": "EDFAS",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Surplus funds used for charitable donations to arts education causes",
+   "via": "recheck"
+  },
+  {
+   "id": 3105,
+   "name": "Merchant Navy Welfare Board",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Welfare board likely distributes grants to merchant navy charities.",
+   "sent": true
+  },
+  {
+   "id": 3118,
+   "name": "Comic Relief",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Comic Relief funds other charities via grants.",
+   "sent": true
+  },
+  {
+   "id": 3126,
+   "name": "Exceed Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Supports 30+ charities, donates funds to other organisations",
+   "via": "recheck"
+  },
+  {
+   "id": 3137,
+   "name": "People's Health Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust distributes grants to improve health in disadvantaged communities.",
+   "sent": true
+  },
+  {
+   "id": 3139,
+   "name": "Regional Screen Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Provides grants to regional screen organisations for cinema development.",
+   "sent": true
+  },
+  {
+   "id": 3141,
+   "name": "IIED",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Research institute that funds and partners with other organizations.",
+   "sent": true
+  },
+  {
+   "id": 3144,
+   "name": "Simpson Scholarship Fund",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Scholarship fund provides grants to individuals for education",
+   "sent": true
+  },
+  {
+   "id": 3156,
+   "name": "Urban Studies Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation awarding grants for urban studies research and education",
+   "sent": true
+  },
+  {
+   "id": 3186,
+   "name": "Breakthrough T1D",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds type 1 diabetes research through grants to institutions",
+   "sent": true
+  },
+  {
+   "id": 3204,
+   "name": "Kingussie Community Development Company",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Hydro surplus funds charitable grants to local organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 3206,
+   "name": "Ardrishaig Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Runs grant fund for community grants",
+   "via": "recheck"
+  },
+  {
+   "id": 3207,
+   "name": "Edinbane and Communities Company",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Manages community benefit funds and awards grants to local projects.",
+   "via": "recheck"
+  },
+  {
+   "id": 3218,
+   "name": "People's Postcode Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Postcode Trust distributes grants to community organisations.",
+   "sent": true
+  },
+  {
+   "id": 3221,
+   "name": "The Galashan Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 3229,
+   "name": "The Honey Bee Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Mentions direct donations and education, poverty, religion purposes",
+   "via": "recheck"
+  },
+  {
+   "id": 3236,
+   "name": "Scots Philosophical Association",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides grants to philosophy departments for seminars and travel",
+   "via": "recheck"
+  },
+  {
+   "id": 3238,
+   "name": "The Trades House of Glasgow",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trades House of Glasgow distributes grants to charitable organisations.",
+   "sent": true
+  },
+  {
+   "id": 3241,
+   "name": "The Wood Foundation Africa",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation likely provides grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 3242,
+   "name": "Rotary Devorgilla Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary charitable trust likely makes grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 3247,
+   "name": "Kimie Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Supports organisations advancing classical music in Scotland",
+   "via": "recheck"
+  },
+  {
+   "id": 3276,
+   "name": "Aid To The Church In Need (United Kingdom)",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Supports persecuted Christians worldwide through grants to local churches.",
+   "sent": true
+  },
+  {
+   "id": 3284,
+   "name": "The Mary Leishman Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation likely provides grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 3286,
+   "name": "The Rotary Club of Melrose- Charities Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club charities fund often make grants to community groups.",
+   "sent": true
+  },
+  {
+   "id": 3288,
+   "name": "Lesmahagow Development Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Offers community grants and funds, indicating grantmaking activities.",
+   "via": "recheck"
+  },
+  {
+   "id": 3291,
+   "name": "Aberdeen Group Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website describes funding opportunities and grants to partner organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 3297,
+   "name": "The Bonar Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Provides funding to gospel workers and partners",
+   "via": "recheck"
+  },
+  {
+   "id": 3298,
+   "name": "The John McAslan Family Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Family trust with broad advancement purposes likely grants to organisations.",
+   "sent": true
+  },
+  {
+   "id": 3307,
+   "name": "Point and Sandwick Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Community trust likely distributes grants from wind farm revenues.",
+   "sent": true
+  },
+  {
+   "id": 3312,
+   "name": "Horshader Community Development",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Runs community fund granting to projects",
+   "via": "recheck"
+  },
+  {
+   "id": 3327,
+   "name": "The Reid Law Endowment Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Endowment fund likely provides grants for education",
+   "sent": true
+  },
+  {
+   "id": 3332,
+   "name": "The Bill McLaren Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation likely provides grants for rugby and community projects.",
+   "sent": true
+  },
+  {
+   "id": 3348,
+   "name": "Soirbheas",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Community development charity likely distributes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 3361,
+   "name": "Bauer Radio's Cash for Kids Charities (Scotland)",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Grants to local children's charities and individuals in need.",
+   "sent": true
+  },
+  {
+   "id": 3368,
+   "name": "Global Charities",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Funds and supports other UK charities through grants and partnerships.",
+   "via": "recheck"
+  },
+  {
+   "id": 3385,
+   "name": "British Wireless  For The Blind Fund",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Fund likely provides grants for blind people's wireless equipment.",
+   "sent": true
+  },
+  {
+   "id": 3392,
+   "name": "Muaitheabhal Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.98,
+   "reason": "Provides small and large grants to community organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 3399,
+   "name": "Cancer Research UK",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds cancer research through grants to researchers and institutions.",
+   "sent": true
+  },
+  {
+   "id": 3427,
+   "name": "The Linda Norgrove Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation gives grants to support education, health, and poverty relief.",
+   "sent": true
+  },
+  {
+   "id": 3438,
+   "name": "The Royal Navy and Royal Marines Charity",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "National charity providing grants to Royal Navy community.",
+   "sent": true
+  },
+  {
+   "id": 3449,
+   "name": "The Jo Walters Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely provides grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 3458,
+   "name": "Scotia Education Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely provides grants",
+   "sent": true
+  },
+  {
+   "id": 3482,
+   "name": "North Highland Initiative",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website has 'Apply for Funding' and awards community grants.",
+   "via": "recheck"
+  },
+  {
+   "id": 3492,
+   "name": "The Rowan Boland Memorial Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Memorial trust likely provides grants for sports participation.",
+   "sent": true
+  },
+  {
+   "id": 3522,
+   "name": "The City of Dundee Burgess Charity",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Charity likely provides grants to individuals or organizations in Dundee.",
+   "sent": true
+  },
+  {
+   "id": 3529,
+   "name": "The Dr David McNeil Summers Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Charitable trust with education/arts purposes likely grants to organisations",
+   "sent": true
+  },
+  {
+   "id": 3531,
+   "name": "Mustardseed Trust",
+   "is_grantmaker": true,
+   "confidence": 0.6,
+   "reason": "Trust with broad charitable purposes likely funds other organisations",
+   "sent": true
+  },
+  {
+   "id": 3532,
+   "name": "The Arran Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely distributes grants for environmental causes.",
+   "sent": true
+  },
+  {
+   "id": 3551,
+   "name": "Alfred Dunhill Links Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation likely provides grants for community development.",
+   "sent": true
+  },
+  {
+   "id": 3553,
+   "name": "STV Appeal",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Appeal fund distributing grants to Scottish children's charities.",
+   "sent": true
+  },
+  {
+   "id": 3559,
+   "name": "Alzheimer's Research UK",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds dementia research grants to universities and research institutions.",
+   "sent": true
+  },
+  {
+   "id": 3560,
+   "name": "Glenkens & District Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Community trust likely distributes grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 3565,
+   "name": "Emma Cameron Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides support to organisations and charities that supported Emma",
+   "via": "recheck"
+  },
+  {
+   "id": 3569,
+   "name": "Postcode Green Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely funds environmental projects, name suggests grantmaking.",
+   "sent": true
+  },
+  {
+   "id": 3573,
+   "name": "The Kiltwalk",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Runs walks and distributes funds to Scottish children's charities.",
+   "sent": true
+  },
+  {
+   "id": 3579,
+   "name": "Aberdeen Group Charitable Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Corporate foundation making charitable grants to other organisations",
+   "sent": true
+  },
+  {
+   "id": 3581,
+   "name": "Tree of Hope",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Provides grants to families for medical treatment",
+   "sent": true
+  },
+  {
+   "id": 3588,
+   "name": "Culture & Business Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Offers Culture & Business Scotland Fund investments to organisations",
+   "via": "recheck"
+  },
+  {
+   "id": 3592,
+   "name": "Postcode Care Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Awards funds to charities and good causes",
+   "via": "recheck"
+  },
+  {
+   "id": 3595,
+   "name": "Buttercup Children's Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Gives grants to families for equipment and support",
+   "via": "recheck"
+  },
+  {
+   "id": 3618,
+   "name": "Humanos Aid International",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Website mentions Micro Grant and School Fund Award",
+   "via": "recheck"
+  },
+  {
+   "id": 3621,
+   "name": "The Kirsten Scott Memorial Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Memorial trust likely provides grants for education and poverty relief.",
+   "sent": true
+  },
+  {
+   "id": 3625,
+   "name": "Nesta",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Nesta is an innovation foundation that funds and invests in other organisations.",
+   "sent": true
+  },
+  {
+   "id": 3628,
+   "name": "The Fishmongers' Company's Fisheries Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Charitable trust likely funds fisheries and education grants.",
+   "sent": true
+  },
+  {
+   "id": 3631,
+   "name": "Wellbeing Of Women",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds medical research grants to other organisations",
+   "sent": true
+  },
+  {
+   "id": 3637,
+   "name": "Caledonian Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation name and community development purpose suggest grantmaking.",
+   "sent": true
+  },
+  {
+   "id": 3643,
+   "name": "Moulsdale Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation with broad charitable purposes likely grants to other organisations",
+   "sent": true
+  },
+  {
+   "id": 3647,
+   "name": "The Peterkins Charitable Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.6,
+   "reason": "Foundation with broad purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 3652,
+   "name": "TSI Moray",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "TSI Moray supports community groups, likely distributes grants.",
+   "sent": true
+  },
+  {
+   "id": 3657,
+   "name": "St Andrews Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Community trust with broad charitable purposes likely grants to others",
+   "sent": true
+  },
+  {
+   "id": 3676,
+   "name": "Scotland's Churches Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust likely gives grants for church building preservation and heritage.",
+   "sent": true
+  },
+  {
+   "id": 3685,
+   "name": "The Edwin Morgan Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust likely awards grants for education and arts.",
+   "sent": true
+  },
+  {
+   "id": 3690,
+   "name": "Sported Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides grants and support to community sport groups.",
+   "sent": true
+  },
+  {
+   "id": 3698,
+   "name": "The Weir Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Charitable trust providing grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 3701,
+   "name": "McConnell International Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Foundation with broad charitable purposes likely grants to other organisations",
+   "sent": true
+  },
+  {
+   "id": 3704,
+   "name": "The Benzies Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides scholarships and funding to individuals and communities",
+   "via": "recheck"
+  },
+  {
+   "id": 3707,
+   "name": "Postcode Culture Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely distributes funds for arts and culture",
+   "sent": true
+  },
+  {
+   "id": 3725,
+   "name": "HPDF",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Grants awards to individuals/groups for procurement development",
+   "via": "recheck"
+  },
+  {
+   "id": 3726,
+   "name": "Balerno Village Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Community Chest funds local people; aims include funding others",
+   "via": "recheck"
+  },
+  {
+   "id": 3732,
+   "name": "The North Ayrshire Council (Kilwinning) Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Council charitable trust likely distributes grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 3735,
+   "name": "The Hub DG",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website states developing a small grants scheme",
+   "via": "recheck"
+  },
+  {
+   "id": 3742,
+   "name": "The Costa Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation gives grants to build schools in coffee-growing communities.",
+   "sent": true
+  },
+  {
+   "id": 3751,
+   "name": "North Ayrshire Council (Largs) Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Council charitable trust likely distributes grants to local groups",
+   "sent": true
+  },
+  {
+   "id": 3753,
+   "name": "Future Woodlands Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Likely funds woodland projects, not direct service delivery.",
+   "sent": true
+  },
+  {
+   "id": 3756,
+   "name": "Highland Third Sector Interface",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Administers and awards multiple grant funds to community organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 3757,
+   "name": "SafeDeposits Scotland Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Charitable trust with broad purposes, likely funds other organisations.",
+   "sent": true
+  },
+  {
+   "id": 3765,
+   "name": "The Chaffinch Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely provides grants",
+   "sent": true
+  },
+  {
+   "id": 3772,
+   "name": "The North Ayrshire Council (Kilbirnie & Glengarnock) Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Council charitable trust likely distributes grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 3773,
+   "name": "WATIF",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Offers grants and funding to local community projects.",
+   "via": "recheck"
+  },
+  {
+   "id": 3776,
+   "name": "North Ayrshire Council (Dalry) Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Charitable trust likely distributes grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 3779,
+   "name": "RCN Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation awards grants to nurses and healthcare projects.",
+   "sent": true
+  },
+  {
+   "id": 3789,
+   "name": "Carrick Futures",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Name and broad purposes indicate community grantmaking foundation.",
+   "sent": true
+  },
+  {
+   "id": 3797,
+   "name": "Postcode Justice Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Awards funds to charities and good causes via grants",
+   "via": "recheck"
+  },
+  {
+   "id": 3814,
+   "name": "The Ferguson Bequest Fund",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Bequest fund with broad purposes, likely distributes grants",
+   "sent": true
+  },
+  {
+   "id": 3815,
+   "name": "AHF",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Delivers funding programmes and investment to heritage projects",
+   "via": "recheck"
+  },
+  {
+   "id": 3818,
+   "name": "Scottish Power Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation gives grants to other organisations across listed purposes.",
+   "sent": true
+  },
+  {
+   "id": 3824,
+   "name": "Scottish Borders Council Charitable Trusts",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Council charitable trusts typically distribute grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 3827,
+   "name": "Sea-Changers",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides grants to marine conservation projects and organizations.",
+   "sent": true
+  },
+  {
+   "id": 3845,
+   "name": "The TC Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Supports education/research through funding, likely grants to centre",
+   "via": "recheck"
+  },
+  {
+   "id": 3846,
+   "name": "Postcode Global Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely funds other organisations via grants.",
+   "sent": true
+  },
+  {
+   "id": 3876,
+   "name": "Scottish Golf Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Awards grants to clubs, individuals, and charities",
+   "via": "recheck"
+  },
+  {
+   "id": 3893,
+   "name": "The Royal Air Force Central Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Provides grants to RAF personnel and families",
+   "sent": true
+  },
+  {
+   "id": 3894,
+   "name": "Hart Knowe Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants.",
+   "sent": true
+  },
+  {
+   "id": 3896,
+   "name": "Carsphairn Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Runs extra-curricular grant scheme for school-aged children",
+   "via": "recheck"
+  },
+  {
+   "id": 3917,
+   "name": "The Rotary Club of Dunfermline Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust fund likely makes grants to community causes",
+   "sent": true
+  },
+  {
+   "id": 3921,
+   "name": "Emma Cameron Memorial Trust",
+   "is_grantmaker": true,
+   "confidence": 0.98,
+   "reason": "Awards grants to charities like Nordoff Robbins and hospice",
+   "via": "recheck"
+  },
+  {
+   "id": 3929,
+   "name": "The Cookie Jar",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Provides community and niche funding to individuals and groups",
+   "via": "recheck"
+  },
+  {
+   "id": 3933,
+   "name": "The Pebble Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust likely provides grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 3949,
+   "name": "Luminate",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Luminate Scotland funds creative aging projects and grants.",
+   "sent": true
+  },
+  {
+   "id": 3951,
+   "name": "Dumfries and Galloway Chamber of the Arts (DGU)",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Offers funding and commission opportunities to members",
+   "via": "recheck"
+  },
+  {
+   "id": 3959,
+   "name": "Angus Council Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Council charitable trust likely distributes grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 3961,
+   "name": "Highland Charities Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes, likely distributes grants",
+   "sent": true
+  },
+  {
+   "id": 3966,
+   "name": "The Saltire Society Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely funds arts/education grants via Saltire Society.",
+   "sent": true
+  },
+  {
+   "id": 3973,
+   "name": "SBC Community Enhancement Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Community enhancement trust likely distributes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 3977,
+   "name": "Postcode Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Name and broad purposes indicate grantmaking trust.",
+   "sent": true
+  },
+  {
+   "id": 3978,
+   "name": "Postcode Children Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Awards grant funding to charities and good causes",
+   "via": "recheck"
+  },
+  {
+   "id": 3986,
+   "name": "Postcode International Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely funds international projects, not direct service delivery",
+   "sent": true
+  },
+  {
+   "id": 3989,
+   "name": "Postcode Planet Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust likely funds environmental projects via grants.",
+   "sent": true
+  },
+  {
+   "id": 3997,
+   "name": "The Scottish Football Partnership Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely funds football-related community projects and organisations.",
+   "sent": true
+  },
+  {
+   "id": 3998,
+   "name": "CITB",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Industry training board; funds construction training and grants",
+   "sent": true
+  },
+  {
+   "id": 4005,
+   "name": "Postcode Society Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust likely distributes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 4011,
+   "name": "Lochluichart Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Community trust likely distributes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 4012,
+   "name": "Preston Lodge Learning Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Provides funding to support education at local high school",
+   "via": "recheck"
+  },
+  {
+   "id": 4014,
+   "name": "Strathglass Community Fund (SCIO)",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Community fund likely distributes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 4023,
+   "name": "The Pathological Society of Great Britain and Ireland",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Professional society funding pathology research grants and education.",
+   "sent": true
+  },
+  {
+   "id": 4033,
+   "name": "The Cumbrae Forum",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Website states it funds other organisations' activities on the island.",
+   "via": "recheck"
+  },
+  {
+   "id": 4039,
+   "name": "The National Funding Scheme",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Name and purpose suggest funding other organisations",
+   "sent": true
+  },
+  {
+   "id": 4063,
+   "name": "The Scottish Historical Review Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely funds historical research and publications through grants.",
+   "sent": true
+  },
+  {
+   "id": 4064,
+   "name": "Agnes H. N. Wallace's Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 4069,
+   "name": "The John Maurice Aitken Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 4071,
+   "name": "Waterfall Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Broad charitable purposes and 'Fund' name suggest grantmaking",
+   "sent": true
+  },
+  {
+   "id": 4073,
+   "name": "The Hamish McHamish Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Donates funds to other charities and community projects",
+   "via": "recheck"
+  },
+  {
+   "id": 4087,
+   "name": "The Basil Death Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 4090,
+   "name": "Postcode Local Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust distributes grants to community projects from Postcode Lottery funding.",
+   "sent": true
+  },
+  {
+   "id": 4108,
+   "name": "The Welch Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 4112,
+   "name": "The Morrisons Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Corporate foundation giving grants to UK charities",
+   "sent": true
+  },
+  {
+   "id": 4123,
+   "name": "UCVO",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Administers mental health fund and supports third sector groups.",
+   "via": "recheck"
+  },
+  {
+   "id": 4126,
+   "name": "Postcode Earth Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Awards grants to charities and good causes",
+   "via": "recheck"
+  },
+  {
+   "id": 4147,
+   "name": "Postcode Support Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Awards grant funding to charities and good causes",
+   "via": "recheck"
+  },
+  {
+   "id": 4155,
+   "name": "Bridie Club",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides financial support and donations to local causes and breakfast clubs",
+   "via": "recheck"
+  },
+  {
+   "id": 4157,
+   "name": "Postcode Education Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Awards grants to charities and good causes",
+   "via": "recheck"
+  },
+  {
+   "id": 4158,
+   "name": "Historic Environment Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "National heritage body distributing grants to external organisations.",
+   "sent": true
+  },
+  {
+   "id": 4160,
+   "name": "Plunkett Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Supports community businesses, often via grants and funding programs.",
+   "sent": true
+  },
+  {
+   "id": 4163,
+   "name": "North Carrick Community Benefit",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Community benefit fund likely distributes grants to local groups",
+   "sent": true
+  },
+  {
+   "id": 4180,
+   "name": "The Steve Sinnott Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation likely provides grants for education and poverty relief projects.",
+   "sent": true
+  },
+  {
+   "id": 4181,
+   "name": "KCWF",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Provides grants to community projects from wind farm funds",
+   "via": "recheck"
+  },
+  {
+   "id": 4188,
+   "name": "MQ: Transforming Mental Health",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds mental health research through grants to universities and researchers",
+   "sent": true
+  },
+  {
+   "id": 4190,
+   "name": "The Neil Mackenzie Trust",
+   "is_grantmaker": true,
+   "confidence": 0.98,
+   "reason": "Provides grants for outdoor skills training and expeditions",
+   "via": "recheck"
+  },
+  {
+   "id": 4196,
+   "name": "Rotary Club of North Berwick Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust funds typically make grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 4207,
+   "name": "Scottish Children\u2019s Lottery Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Lottery trust distributes grants to children's charities.",
+   "sent": true
+  },
+  {
+   "id": 4221,
+   "name": "The Bowie Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Website states it provides grants to local organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 4233,
+   "name": "Sports Council For Glasgow",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Sports council likely distributes grants to local sports clubs.",
+   "sent": true
+  },
+  {
+   "id": 4245,
+   "name": "AABIE",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Facilitates donations and grants to charities via applications",
+   "via": "recheck"
+  },
+  {
+   "id": 4255,
+   "name": "Wester Hailes Community Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Community trust likely makes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 4257,
+   "name": "The Cairngorms Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Community development trust likely distributes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 4258,
+   "name": "Postcode Innovation Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust distributes grants to other organisations across multiple causes.",
+   "sent": true
+  },
+  {
+   "id": 4267,
+   "name": "The Veterans' Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Name and purpose suggest grantmaking to veterans' organisations.",
+   "sent": true
+  },
+  {
+   "id": 4271,
+   "name": "Feed the Minds",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "International development charity funding education projects via local partners.",
+   "sent": true
+  },
+  {
+   "id": 4272,
+   "name": "The Wheatley Foundation Limited",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Foundation with broad charitable purposes, likely grants to community groups",
+   "sent": true
+  },
+  {
+   "id": 4279,
+   "name": "The South African Children's Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Supports partner organisations through grants and funding.",
+   "via": "recheck"
+  },
+  {
+   "id": 4291,
+   "name": "Lybster & Tannach",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website mentions applications, guidance notes, and deadlines for funding.",
+   "via": "recheck"
+  },
+  {
+   "id": 4298,
+   "name": "Rotary Club of Perth Kinnoull Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust likely makes grants to community causes",
+   "sent": true
+  },
+  {
+   "id": 4300,
+   "name": "The Moray Council Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Council charitable trust likely distributes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 4320,
+   "name": "The Brewgooder Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation likely funds water projects via grants, not direct delivery.",
+   "sent": true
+  },
+  {
+   "id": 4327,
+   "name": "The Hymans Robertson Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation with broad charitable purposes likely grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 4329,
+   "name": "The Good Works Company",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Provides donor advised fund and charitable giving services to philanthropists",
+   "via": "recheck"
+  },
+  {
+   "id": 4349,
+   "name": "The Cavaliers Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Funds education and research projects with partners",
+   "via": "recheck"
+  },
+  {
+   "id": 4373,
+   "name": "The Richard and Siobhan Coward Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Foundation with broad charitable purposes likely grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 4376,
+   "name": "Digital Xtra",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds digital skills projects for young people via grants.",
+   "sent": true
+  },
+  {
+   "id": 4388,
+   "name": "The British Society for Immunology",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Offers grants and prizes to members and researchers",
+   "via": "recheck"
+  },
+  {
+   "id": 4392,
+   "name": "Localgiving",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Online platform providing grants to local charities",
+   "sent": true
+  },
+  {
+   "id": 4397,
+   "name": "The Kirkhouse Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust likely funds research/education grants, not direct services.",
+   "sent": true
+  },
+  {
+   "id": 4405,
+   "name": "IICF UK",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Insurance industry foundation likely grants to charities",
+   "sent": true
+  },
+  {
+   "id": 4420,
+   "name": "Dumfriesshire East Community Benefit Group SCIO",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Community benefit group likely distributes grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 4422,
+   "name": "KPE4 Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Provides grants to core charities and other organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 4424,
+   "name": "Alyth Development Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Runs community projects fund, likely grants to local groups",
+   "via": "recheck"
+  },
+  {
+   "id": 4429,
+   "name": "Little Sherpa (Scotland)",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Provides grants and bursaries for education.",
+   "via": "recheck"
+  },
+  {
+   "id": 4430,
+   "name": "The Cameron Fund",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Fund providing grants to individuals in need",
+   "sent": true
+  },
+  {
+   "id": 4448,
+   "name": "The Cinnamon Network",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Network supports and funds community projects through grants.",
+   "sent": true
+  },
+  {
+   "id": 4459,
+   "name": "My Name'5 Doddie Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds MND research through grants to institutions",
+   "sent": true
+  },
+  {
+   "id": 4460,
+   "name": "The St Andrews Pilgrim Foundation SCIO",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Funds projects to conserve St Andrews' historic character",
+   "via": "recheck"
+  },
+  {
+   "id": 4474,
+   "name": "Dunlossit and Islay CommunityTrust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Community trust likely distributes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 4475,
+   "name": "Alec Russell Educational Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Educational trust likely provides grants for education",
+   "sent": true
+  },
+  {
+   "id": 4489,
+   "name": "The Care Workers Charity",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides grants to care workers in need",
+   "sent": true
+  },
+  {
+   "id": 4491,
+   "name": "The Royal Countryside Fund",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Fund provides grants to rural community organisations and projects.",
+   "sent": true
+  },
+  {
+   "id": 4496,
+   "name": "Co-operative Community Investment Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation name and purposes indicate grantmaking to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 4502,
+   "name": "Lockton Charity",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Mission is to raise funds for donation to registered charities and projects.",
+   "via": "recheck"
+  },
+  {
+   "id": 4505,
+   "name": "Neilston Windfarm Legacy SCIO",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Windfarm legacy SCIO likely distributes community benefit funds as grants",
+   "sent": true
+  },
+  {
+   "id": 4537,
+   "name": "Lady Margaret Skiffington Trust SCIO",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely distributes grants to beneficiaries in need",
+   "sent": true
+  },
+  {
+   "id": 4545,
+   "name": "The North Berwick Trust Ltd",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with community purposes likely distributes grants",
+   "sent": true
+  },
+  {
+   "id": 4563,
+   "name": "The Access to Justice Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation gives grants to advice agencies for access to justice.",
+   "sent": true
+  },
+  {
+   "id": 4565,
+   "name": "The Mary Brown Memorial Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 4580,
+   "name": "Cawdor and West Nairnshire Community Benefit Organisation (SCIO)",
+   "is_grantmaker": true,
+   "confidence": 0.98,
+   "reason": "Distributes grants to local groups and projects.",
+   "via": "recheck"
+  },
+  {
+   "id": 4604,
+   "name": "RSM UK Foundation",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Provides grants to charities and community groups.",
+   "via": "recheck"
+  },
+  {
+   "id": 4606,
+   "name": "INSPIRE",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds research projects at other institutions",
+   "via": "recheck"
+  },
+  {
+   "id": 4628,
+   "name": "Humanimal Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Funds research projects, awards, studentships, fellowships in One Medicine.",
+   "via": "recheck"
+  },
+  {
+   "id": 4629,
+   "name": "Rotary Club of Livingston Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Rotary club supports local charities and causes through grants.",
+   "via": "recheck"
+  },
+  {
+   "id": 4633,
+   "name": "The Hugo Burge Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation likely supports arts via grants to makers.",
+   "sent": true
+  },
+  {
+   "id": 4639,
+   "name": "Inspiring Life: Evie Douglas Memorial Fund",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Awards funding to groups and individuals via application form",
+   "via": "recheck"
+  },
+  {
+   "id": 4661,
+   "name": "Alistair Findlater Aberdeen & Aberdeenshire Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely distributes grants to local organisations.",
+   "sent": true
+  },
+  {
+   "id": 4662,
+   "name": "R.A.M Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Funds DIPG research, likely via grants to research institutions",
+   "via": "recheck"
+  },
+  {
+   "id": 4663,
+   "name": "Edinburgh and Lothian Trust Fund SCIO",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust fund providing grants to individuals and organisations in need",
+   "sent": true
+  },
+  {
+   "id": 4671,
+   "name": "The Kirk Murdoch Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.6,
+   "reason": "Charitable trust with broad purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 4674,
+   "name": "Women's Fund for Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Women's Fund Scotland provides grants to organisations supporting women and girls.",
+   "sent": true
+  },
+  {
+   "id": 4697,
+   "name": "CTCLF",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website explicitly offers grants and funds other organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 4720,
+   "name": "Homeopathy UK",
+   "is_grantmaker": true,
+   "confidence": 0.6,
+   "reason": "Website has Grants section, suggesting grantmaking activity.",
+   "via": "recheck"
+  },
+  {
+   "id": 4721,
+   "name": "The IFoA Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation likely provides grants for education and research.",
+   "sent": true
+  },
+  {
+   "id": 4731,
+   "name": "FRP",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Offers funding schemes and advice to supported groups",
+   "via": "recheck"
+  },
+  {
+   "id": 4734,
+   "name": "The William Syson Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation name and arts funding purpose indicate grantmaking",
+   "sent": true
+  },
+  {
+   "id": 4735,
+   "name": "Anna Burnett Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Provides funds to Scottish secondary schools for creative activities",
+   "via": "recheck"
+  },
+  {
+   "id": 4746,
+   "name": "The MacRobert Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust with broad advancement purposes typically awards grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 4755,
+   "name": "Cattanach",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Broad charitable purposes and name suggest grantmaking foundation",
+   "sent": true
+  },
+  {
+   "id": 4759,
+   "name": "UK National Parks Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Connects donors with funding opportunities; enables strategic funding programmes",
+   "via": "recheck"
+  },
+  {
+   "id": 4765,
+   "name": "Nairn Family Trust",
+   "is_grantmaker": true,
+   "confidence": 0.98,
+   "reason": "Website says 'Who we fund?' and 'Supporting charities'",
+   "via": "recheck"
+  },
+  {
+   "id": 4787,
+   "name": "Athletics Trust Scotland",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust likely provides grants to athletics organizations and individuals",
+   "sent": true
+  },
+  {
+   "id": 4792,
+   "name": "Deaf Scots Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Mission states providing grants to deaf people and groups",
+   "via": "recheck"
+  },
+  {
+   "id": 4804,
+   "name": "The Liam Colgan Music Fund",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Fund likely provides grants for music-related causes.",
+   "sent": true
+  },
+  {
+   "id": 4806,
+   "name": "The Virgin Money Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation gives grants to community organisations.",
+   "sent": true
+  },
+  {
+   "id": 4815,
+   "name": "TBF Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Forwards donations to churches and ministries for projects",
+   "via": "recheck"
+  },
+  {
+   "id": 4828,
+   "name": "The Bill and Hilda Robertson Family Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Family charitable trust likely makes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 4833,
+   "name": "Essentia Foundation SCIO",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Explicitly states grant-giving charity distributing grants to other charities",
+   "via": "recheck"
+  },
+  {
+   "id": 4835,
+   "name": "DPDT",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Website shows funding and grant application sections",
+   "via": "recheck"
+  },
+  {
+   "id": 4837,
+   "name": "NHS Charities Together",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Umbrella body distributing grants to NHS charities",
+   "sent": true
+  },
+  {
+   "id": 4844,
+   "name": "Agnes Hunter Trust SCIO",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust likely provides grants to organisations based on name and purposes",
+   "sent": true
+  },
+  {
+   "id": 4845,
+   "name": "Paristamen",
+   "is_grantmaker": true,
+   "confidence": 0.6,
+   "reason": "Broad charitable purposes suggest potential grantmaking, but unclear",
+   "sent": true
+  },
+  {
+   "id": 4849,
+   "name": "Tigh Sgoile Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust supports community development projects in Latin America, Africa, Asia",
+   "via": "recheck"
+  },
+  {
+   "id": 4875,
+   "name": "Rotary Club of Kinross & District Charitable Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust funds typically make grants to other organizations.",
+   "sent": true
+  },
+  {
+   "id": 4883,
+   "name": "Inverclyde Community Fund",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Name and broad purposes indicate it provides grants to community groups.",
+   "sent": true
+  },
+  {
+   "id": 4898,
+   "name": "The ROB Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website states it supports and promotes charities and good causes.",
+   "via": "recheck"
+  },
+  {
+   "id": 4903,
+   "name": "The Royal Company of Merchants of the City of Edinburgh Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Charitable trust likely distributes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 4920,
+   "name": "The Northern Meeting Charity",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Website states it makes grants to charitable organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 4941,
+   "name": "Poundland Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation gives grants to community organisations and charities.",
+   "sent": true
+  },
+  {
+   "id": 4943,
+   "name": "TMF",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation with broad charitable purposes likely grants to other organisations",
+   "sent": true
+  },
+  {
+   "id": 4957,
+   "name": "Buddhist Support Fund",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Fund name and purposes suggest grantmaking to Buddhist causes.",
+   "sent": true
+  },
+  {
+   "id": 4982,
+   "name": "The John Preston Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Explicitly states it is a grant-giving charity providing grants.",
+   "via": "recheck"
+  },
+  {
+   "id": 4985,
+   "name": "Dunvegan Community Trust SCIO",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Community trust likely distributes grants to local groups.",
+   "sent": true
+  },
+  {
+   "id": 4992,
+   "name": "LandAid",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "LandAid provides grants to charities tackling youth homelessness.",
+   "sent": true
+  },
+  {
+   "id": 5000,
+   "name": "The Newark Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Website states it is a grant-making charity providing financial support to organisations.",
+   "via": "recheck"
+  },
+  {
+   "id": 5017,
+   "name": "Utilita Giving",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Charity name 'Giving' and poverty relief suggest grantmaking",
+   "sent": true
+  },
+  {
+   "id": 5019,
+   "name": "Orkney Rotary Charity Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary charity fund likely makes grants to community causes",
+   "sent": true
+  },
+  {
+   "id": 5029,
+   "name": "Ma'at Environment Fund",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Fund name and environmental purpose suggest grantmaking to organisations.",
+   "sent": true
+  },
+  {
+   "id": 5030,
+   "name": "The Robertson Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation with broad charitable purposes, likely grantmaking.",
+   "sent": true
+  },
+  {
+   "id": 5042,
+   "name": "The Pets at Home Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation likely provides grants to animal welfare organisations.",
+   "sent": true
+  },
+  {
+   "id": 5054,
+   "name": "The Highland Society of London",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Society likely supports education and culture through grants.",
+   "sent": true
+  },
+  {
+   "id": 5070,
+   "name": "THE STRATHLEVEN FOUNDATION",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Foundation with broad charitable purposes likely grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 5110,
+   "name": "The Scottish Forestry Trust SCIO",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust likely funds forestry research and education grants.",
+   "sent": true
+  },
+  {
+   "id": 5114,
+   "name": "Melville College Trust",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Provides bursaries and funds projects at ESMS",
+   "via": "recheck"
+  },
+  {
+   "id": 5116,
+   "name": "The Sarafilovic Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation with broad charitable purposes likely grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 5131,
+   "name": "Granite Heart",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website states charitable grant-giving and apply for a grant.",
+   "via": "recheck"
+  },
+  {
+   "id": 5136,
+   "name": "NESCAN Hub Limited",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Offers funds like SEED Fund and LEAF to community projects",
+   "via": "recheck"
+  },
+  {
+   "id": 5172,
+   "name": "GHP",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Website lists Grant Management as a core activity.",
+   "via": "recheck"
+  },
+  {
+   "id": 5183,
+   "name": "RCSV Charity SCIO",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Runs small grants scheme for local groups and individuals",
+   "via": "recheck"
+  },
+  {
+   "id": 5189,
+   "name": "Blue Carbon Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website has 'Apply for Funding' and mentions collaborative funding.",
+   "via": "recheck"
+  },
+  {
+   "id": 5192,
+   "name": "Belladrum Festival Community Trust",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Provides grant funding to local organisations from festival proceeds",
+   "via": "recheck"
+  },
+  {
+   "id": 5216,
+   "name": "Liam Finnerty Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.6,
+   "reason": "Trust with broad charitable purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 5231,
+   "name": "Forres Rotary SCIO",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Raises and disburses funds to charities via application form",
+   "via": "recheck"
+  },
+  {
+   "id": 5256,
+   "name": "The Pat Cullinan Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Charitable trust with broad purposes likely makes grants.",
+   "sent": true
+  },
+  {
+   "id": 5257,
+   "name": "Down Masonic Widows' Fund",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Fund likely provides grants to widows in need",
+   "sent": true
+  },
+  {
+   "id": 5262,
+   "name": "InaG",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust fund provides financial support to Irish-medium schools",
+   "via": "recheck"
+  },
+  {
+   "id": 5263,
+   "name": "King George VI Northern Ireland Youth Council",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Funds youth work projects; accepts applications from groups",
+   "via": "recheck"
+  },
+  {
+   "id": 5272,
+   "name": "The Mary Peters Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust provides grants to athletes, not direct services",
+   "sent": true
+  },
+  {
+   "id": 5275,
+   "name": "Grent Trust Limited",
+   "is_grantmaker": true,
+   "confidence": 1.0,
+   "reason": "Website states it makes grants to other UK charities.",
+   "via": "recheck"
+  },
+  {
+   "id": 5282,
+   "name": "The Heart Trust Fund (Belfast Heart Centre)",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds research projects and hospital cardiac work via grants",
+   "via": "recheck"
+  },
+  {
+   "id": 5288,
+   "name": "The Royal Irish Regiment Benevolent Fund",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Benevolent fund providing grants to individuals and possibly organisations.",
+   "sent": true
+  },
+  {
+   "id": 5293,
+   "name": "NIPSA Global Solidarity and Developing World Fund",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Fund likely provides grants for global solidarity and development projects.",
+   "sent": true
+  },
+  {
+   "id": 5300,
+   "name": "THE OLD INSTONIANS BENEVOLENT FUND",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Benevolent fund likely gives grants to individuals in need",
+   "sent": true
+  },
+  {
+   "id": 5302,
+   "name": "Radio Cracker, Ballymena",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Distributes funds to other charities via project funding applications",
+   "via": "recheck"
+  },
+  {
+   "id": 5334,
+   "name": "TACA",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Raises funds and gives to Irish medium schools/projects",
+   "via": "recheck"
+  },
+  {
+   "id": 5338,
+   "name": "The Follies Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Conserves and grant aids historic structures; gives grants.",
+   "via": "recheck"
+  },
+  {
+   "id": 5339,
+   "name": "GFCF",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Global Fund for Community Foundations regrants to community foundations",
+   "sent": true
+  },
+  {
+   "id": 5358,
+   "name": "Bishops' Appeal NI Ltd",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Appeal fund likely distributes grants to partner organizations.",
+   "sent": true
+  },
+  {
+   "id": 5381,
+   "name": "ULHT",
+   "is_grantmaker": true,
+   "confidence": 0.98,
+   "reason": "Website has Grants section, grant applications, and grant awards.",
+   "via": "recheck"
+  },
+  {
+   "id": 5400,
+   "name": "Youth For Christ International Foundation for the Nations",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Provides funding to YFC projects worldwide via partner donations.",
+   "via": "recheck"
+  },
+  {
+   "id": 5404,
+   "name": "The Halifax Foundation for Northern Ireland",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Foundation name and broad purposes indicate grantmaking to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 5416,
+   "name": "NIMC",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Runs grant programmes for museum members",
+   "via": "recheck"
+  },
+  {
+   "id": 5420,
+   "name": "B.M.C.F.",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Name 'Charity Fund' and poverty relief suggest grantmaking",
+   "sent": true
+  },
+  {
+   "id": 5426,
+   "name": "Poultry Industry Education Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Education trust likely funds poultry education grants",
+   "sent": true
+  },
+  {
+   "id": 5430,
+   "name": "CWSAN",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Runs Rural Micro Capital Grants Scheme, giving grants to community groups.",
+   "via": "recheck"
+  },
+  {
+   "id": 5437,
+   "name": "The Adsum Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Foundation with broad charitable purposes likely grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 5438,
+   "name": "Victoria Homes Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Website has guidelines and how to apply sections, indicating grantmaking.",
+   "via": "recheck"
+  },
+  {
+   "id": 5462,
+   "name": "The Fermanagh Trust",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Trust distributes grants to community groups in Fermanagh.",
+   "sent": true
+  },
+  {
+   "id": 5463,
+   "name": "The Primrose Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad purposes likely makes grants",
+   "sent": true
+  },
+  {
+   "id": 5465,
+   "name": "The VSB Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation with broad charitable purposes likely grants to others",
+   "sent": true
+  },
+  {
+   "id": 5480,
+   "name": "Puffin Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Funds research projects, likely grants to researchers",
+   "via": "recheck"
+  },
+  {
+   "id": 5503,
+   "name": "DCT",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Provides and administers funding to gospel work and workers",
+   "via": "recheck"
+  },
+  {
+   "id": 5516,
+   "name": "Enkalon Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Foundation with broad charitable purposes, likely grantmaking",
+   "sent": true
+  },
+  {
+   "id": 5526,
+   "name": "Ciste Infheist\u00edochta Gaeilge",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Investment fund named 'Ciste' (fund) likely provides grants to Irish language groups.",
+   "sent": true
+  },
+  {
+   "id": 5548,
+   "name": "Belfast Boys Model Bursary Fund",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Bursary fund provides grants to individuals for education",
+   "sent": true
+  },
+  {
+   "id": 5561,
+   "name": "GIFT International",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Provides funding at grassroots level to communities",
+   "via": "recheck"
+  },
+  {
+   "id": 5578,
+   "name": "The Emmanuel Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Provides financial support to other charities and projects",
+   "via": "recheck"
+  },
+  {
+   "id": 5583,
+   "name": "The Community Foundation for Northern Ireland",
+   "is_grantmaker": true,
+   "confidence": 0.95,
+   "reason": "Community foundation name and purposes indicate grantmaking to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 5588,
+   "name": "The Rotary Club of Belfast Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Rotary club trust fund likely distributes grants to community causes.",
+   "sent": true
+  },
+  {
+   "id": 5603,
+   "name": "The Anthony Cowdy Trust Fund",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust fund likely distributes grants to beneficiaries",
+   "sent": true
+  },
+  {
+   "id": 5604,
+   "name": "DHC",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Delivers PHA funding to community organisations; has grants section.",
+   "via": "recheck"
+  },
+  {
+   "id": 5607,
+   "name": "The John Wilson Memorial Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Memorial trust with broad charitable purposes likely makes grants.",
+   "sent": true
+  },
+  {
+   "id": 5612,
+   "name": "Irish Temperance League (Incorporated 1900)",
+   "is_grantmaker": true,
+   "confidence": 0.98,
+   "reason": "Provides financial grants to other charities and projects",
+   "via": "recheck"
+  },
+  {
+   "id": 5613,
+   "name": "Community Development and Health Network CDHN",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Runs Elevate Community Mentoring and Grants Programme, giving grants.",
+   "via": "recheck"
+  },
+  {
+   "id": 5621,
+   "name": "NIE Networks Staff & Pensioners Charity Fund",
+   "is_grantmaker": true,
+   "confidence": 0.8,
+   "reason": "Staff charity fund likely distributes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 5627,
+   "name": "The Gallaher Trust",
+   "is_grantmaker": true,
+   "confidence": 0.9,
+   "reason": "Trust with broad charitable purposes likely distributes grants.",
+   "sent": true
+  },
+  {
+   "id": 5632,
+   "name": "Global Donations Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.6,
+   "reason": "Name and purpose suggest grantmaking to community organizations.",
+   "sent": true
+  },
+  {
+   "id": 5638,
+   "name": "LFT Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Trust with broad charitable purposes likely makes grants.",
+   "sent": true
+  },
+  {
+   "id": 5654,
+   "name": "Ulster Bank Group Staff Charity Fund (NI)",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Staff charity fund likely distributes grants to other organisations.",
+   "sent": true
+  },
+  {
+   "id": 5681,
+   "name": "Summerhill Foundation Limited",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation with broad charitable purposes likely grantmaking",
+   "sent": true
+  },
+  {
+   "id": 5694,
+   "name": "The Brian Conlon Foundation",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Foundation with broad charitable purposes likely provides grants.",
+   "sent": true
+  },
+  {
+   "id": 5701,
+   "name": "Porter Benevolent Fund",
+   "is_grantmaker": true,
+   "confidence": 0.6,
+   "reason": "Benevolent fund likely distributes grants to individuals or organisations.",
+   "sent": true
+  },
+  {
+   "id": 5715,
+   "name": "Magill Family Charitable Trust",
+   "is_grantmaker": true,
+   "confidence": 0.7,
+   "reason": "Family charitable trust likely makes grants to other organisations.",
+   "sent": true
+  }
+ ]
+}
