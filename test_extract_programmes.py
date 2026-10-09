@@ -25,3 +25,10 @@ def test_map_to_row_types_and_source():
     assert row["funder_id"] == 42 and row["opportunity_source"] == "devolved-crawl"
     assert row["min_amount"] == 100 and row["max_amount"] is None
     assert row["excludes_individuals"] is True and row["excludes_political"] is False
+
+
+def test_map_to_row_truncates_varchar_255_cols():
+    row = map_to_row({"opportunity_title": "T", "funding_amounts": "x" * 500,
+                      "deadlines": "y" * 500, "description": "z" * 500}, 1)
+    assert len(row["funding_amounts"]) == 250 and len(row["deadlines"]) == 250
+    assert len(row["description"]) == 500

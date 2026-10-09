@@ -1,254 +1,61 @@
+Resume: 145 queued, 140 remaining
 [FETCH]... ↓ 
 https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041238          | ✓ | ⏱: 8.71s 
+ber=SC041621          | ✓ | ⏱: 4.21s 
 [SCRAPE].. ◆ 
 https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041238          | ✓ | ⏱: 0.15s 
+ber=SC041621          | ✓ | ⏱: 0.56s 
 [COMPLETE] ● 
 https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041238          | ✓ | ⏱: 9.08s 
-[FETCH]... ↓ https://www.billmclarenfoundation.co.uk                           
-| ✓ | ⏱: 7.84s 
-[SCRAPE].. ◆ https://www.billmclarenfoundation.co.uk                           
-| ✓ | ⏱: 0.29s 
-[COMPLETE] ● https://www.billmclarenfoundation.co.uk                           
-| ✓ | ⏱: 8.31s 
-[FETCH]... ↓ https://www.billmclarenfoundation.co.uk/apply-for-a-grant         
-| ✓ | ⏱: 2.47s 
-[SCRAPE].. ◆ https://www.billmclarenfoundation.co.uk/apply-for-a-grant         
-| ✓ | ⏱: 0.13s 
-[COMPLETE] ● https://www.billmclarenfoundation.co.uk/apply-for-a-grant         
-| ✓ | ⏱: 2.66s 
-[FETCH]... ↓ https://www.billmclarenfoundation.co.uk/fundraising               
-| ✓ | ⏱: 3.07s 
-[SCRAPE].. ◆ https://www.billmclarenfoundation.co.uk/fundraising               
-| ✓ | ⏱: 0.18s 
-[COMPLETE] ● https://www.billmclarenfoundation.co.uk/fundraising               
-| ✓ | ⏱: 3.32s 
-[FETCH]... ↓ https://www.billmclarenfoundation.co.uk/grants                    
-| ✓ | ⏱: 2.84s 
-[SCRAPE].. ◆ https://www.billmclarenfoundation.co.uk/grants                    
-| ✓ | ⏱: 0.11s 
-[COMPLETE] ● https://www.billmclarenfoundation.co.uk/grants                    
-| ✓ | ⏱: 3.04s 
-[FETCH]... ↓ https://www.billmclarenfoundation.co.uk/recent-grant-awards       
-| ✓ | ⏱: 3.28s 
-[SCRAPE].. ◆ https://www.billmclarenfoundation.co.uk/recent-grant-awards       
-| ✓ | ⏱: 0.17s 
-[COMPLETE] ● https://www.billmclarenfoundation.co.uk/recent-grant-awards       
-| ✓ | ⏱: 3.53s 
-[FETCH]... ↓ https://www.billmclarenfoundation.co.uk/                          
-| ✓ | ⏱: 4.95s 
-[SCRAPE].. ◆ https://www.billmclarenfoundation.co.uk/                          
-| ✓ | ⏱: 0.24s 
-[COMPLETE] ● https://www.billmclarenfoundation.co.uk/                          
-| ✓ | ⏱: 5.26s 
-[FETCH]... ↓ https://www.billmclarenfoundation.co.uk/big-sheets                
-| ✓ | ⏱: 3.81s 
-[SCRAPE].. ◆ https://www.billmclarenfoundation.co.uk/big-sheets                
-| ✓ | ⏱: 0.25s 
-[COMPLETE] ● https://www.billmclarenfoundation.co.uk/big-sheets                
-| ✓ | ⏱: 4.19s 
-[FETCH]... ↓ https://www.billmclarenfoundation.co.uk/bmf-volunteer-award       
-| ✓ | ⏱: 5.56s 
-[SCRAPE].. ◆ https://www.billmclarenfoundation.co.uk/bmf-volunteer-award       
-| ✓ | ⏱: 0.12s 
-[COMPLETE] ● https://www.billmclarenfoundation.co.uk/bmf-volunteer-award       
-| ✓ | ⏱: 5.75s 
-[1/145] id 3332 pages=9 src=register+website opps=1 stored=1 replaced=0
-[FETCH]... ↓ 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041340          | ✓ | ⏱: 4.57s 
-[SCRAPE].. ◆ 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041340          | ✓ | ⏱: 0.14s 
-[COMPLETE] ● 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041340          | ✓ | ⏱: 4.79s 
-[FETCH]... ↓ https://www.soirbheas.org                                         
-| ✓ | ⏱: 3.75s 
-[SCRAPE].. ◆ https://www.soirbheas.org                                         
-| ✓ | ⏱: 0.19s 
-[COMPLETE] ● https://www.soirbheas.org                                         
-| ✓ | ⏱: 3.99s 
-[FETCH]... ↓ http://www.soirbheas.org/soirbheas-grant-programme/               
-| ✓ | ⏱: 1.33s 
-[SCRAPE].. ◆ http://www.soirbheas.org/soirbheas-grant-programme/               
-| ✓ | ⏱: 0.10s 
-[COMPLETE] ● http://www.soirbheas.org/soirbheas-grant-programme/               
-| ✓ | ⏱: 1.49s 
-[FETCH]... ↓ https://www.soirbheas.org/grant-connect-sessions/                 
-| ✓ | ⏱: 8.00s 
-[SCRAPE].. ◆ https://www.soirbheas.org/grant-connect-sessions/                 
-| ✓ | ⏱: 0.07s 
-[COMPLETE] ● https://www.soirbheas.org/grant-connect-sessions/                 
-| ✓ | ⏱: 8.13s 
-[FETCH]... ↓ https://www.soirbheas.org/grants-awarded/                         
-| ✓ | ⏱: 2.50s 
-[SCRAPE].. ◆ https://www.soirbheas.org/grants-awarded/                         
-| ✓ | ⏱: 0.12s 
-[COMPLETE] ● https://www.soirbheas.org/grants-awarded/                         
-| ✓ | ⏱: 2.69s 
-[FETCH]... ↓ https://www.soirbheas.org/new-community-funding-directory/        
-| ✓ | ⏱: 2.07s 
-[SCRAPE].. ◆ https://www.soirbheas.org/new-community-funding-directory/        
-| ✓ | ⏱: 0.06s 
-[COMPLETE] ● https://www.soirbheas.org/new-community-funding-directory/        
-| ✓ | ⏱: 2.19s 
-[FETCH]... ↓ https://www.soirbheas.org/other-funding/                          
-| ✓ | ⏱: 2.28s 
-[SCRAPE].. ◆ https://www.soirbheas.org/other-funding/                          
-| ✓ | ⏱: 0.10s 
-[COMPLETE] ● https://www.soirbheas.org/other-funding/                          
-| ✓ | ⏱: 2.44s 
-[FETCH]... ↓ https://www.soirbheas.org/soirbheas-grant-programme/              
-| ✓ | ⏱: 1.95s 
-[SCRAPE].. ◆ https://www.soirbheas.org/soirbheas-grant-programme/              
-| ✓ | ⏱: 0.13s 
-[COMPLETE] ● https://www.soirbheas.org/soirbheas-grant-programme/              
-| ✓ | ⏱: 2.16s 
-[FETCH]... ↓ http://www.soirbheas.org/high-speed-broadband/                    
-| ✓ | ⏱: 1.75s 
-[SCRAPE].. ◆ http://www.soirbheas.org/high-speed-broadband/                    
-| ✓ | ⏱: 0.05s 
-[COMPLETE] ● http://www.soirbheas.org/high-speed-broadband/                    
-| ✓ | ⏱: 1.97s 
-[2/145] id 3348 pages=9 src=register+website opps=4 stored=4 replaced=0
-[FETCH]... ↓ 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041421          | ✓ | ⏱: 5.51s 
-[SCRAPE].. ◆ 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041421          | ✓ | ⏱: 0.11s 
-[COMPLETE] ● 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041421          | ✓ | ⏱: 5.67s 
-[FETCH]... ↓ https://www.cashforkids.org.uk                                    
-| ✓ | ⏱: 5.78s 
-[SCRAPE].. ◆ https://www.cashforkids.org.uk                                    
-| ✓ | ⏱: 0.16s 
-[COMPLETE] ● https://www.cashforkids.org.uk                                    
-| ✓ | ⏱: 5.99s 
-[3/145] id 3361 pages=2 src=register+website opps=3 stored=3 replaced=0
-[FETCH]... ↓ 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041475          | ✓ | ⏱: 6.90s 
-[SCRAPE].. ◆ 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041475          | ✓ | ⏱: 0.14s 
-[COMPLETE] ● 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041475          | ✓ | ⏱: 7.09s 
-[FETCH]... ↓ http://www.makesomenoise.com/                                     
-| ✓ | ⏱: 4.28s 
-[SCRAPE].. ◆ http://www.makesomenoise.com/                                     
-| ✓ | ⏱: 0.05s 
-[COMPLETE] ● http://www.makesomenoise.com/                                     
-| ✓ | ⏱: 4.44s 
-[FETCH]... ↓ https://www.makesomenoise.com/                                    
-| ✓ | ⏱: 1.91s 
-[SCRAPE].. ◆ https://www.makesomenoise.com/                                    
-| ✓ | ⏱: 0.09s 
-[COMPLETE] ● https://www.makesomenoise.com/                                    
-| ✓ | ⏱: 2.15s 
-[FETCH]... ↓ https://www.makesomenoise.com/partners                            
-| ✓ | ⏱: 3.16s 
-[SCRAPE].. ◆ https://www.makesomenoise.com/partners                            
-| ✓ | ⏱: 0.22s 
-[COMPLETE] ● https://www.makesomenoise.com/partners                            
-| ✓ | ⏱: 3.54s 
-[FETCH]... ↓ https://www.makesomenoise.com/post/kemis-commando-challenge       
-| ✓ | ⏱: 3.79s 
-[SCRAPE].. ◆ https://www.makesomenoise.com/post/kemis-commando-challenge       
-| ✓ | ⏱: 0.05s 
-[COMPLETE] ● https://www.makesomenoise.com/post/kemis-commando-challenge       
-| ✓ | ⏱: 3.99s 
-[FETCH]... ↓ https://www.makesomenoise.com/post/make-some-noise-day-2026       
-| ✓ | ⏱: 2.91s 
-[SCRAPE].. ◆ https://www.makesomenoise.com/post/make-some-noise-day-2026       
-| ✓ | ⏱: 0.04s 
-[COMPLETE] ● https://www.makesomenoise.com/post/make-some-noise-day-2026       
-| ✓ | ⏱: 3.01s 
-[FETCH]... ↓ https://www.makesomenoise.com/post/runthelondonmarathon           
-| ✓ | ⏱: 2.98s 
-[SCRAPE].. ◆ https://www.makesomenoise.com/post/runthelondonmarathon           
-| ✓ | ⏱: 0.05s 
-[COMPLETE] ● https://www.makesomenoise.com/post/runthelondonmarathon           
-| ✓ | ⏱: 3.15s 
-[4/145] id 3368 pages=7 src=register+website opps=1 stored=1 replaced=0
-[FETCH]... ↓ 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041582          | ✓ | ⏱: 6.31s 
-[SCRAPE].. ◆ 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041582          | ✓ | ⏱: 0.11s 
-[COMPLETE] ● 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041582          | ✓ | ⏱: 6.50s 
-[FETCH]... ↓ https://www.blind.org.uk                                          
-| ✓ | ⏱: 5.26s 
-[SCRAPE].. ◆ https://www.blind.org.uk                                          
-| ✓ | ⏱: 0.11s 
-[COMPLETE] ● https://www.blind.org.uk                                          
-| ✓ | ⏱: 5.43s 
-[5/145] id 3385 pages=2 src=register+website opps=0 stored=0 replaced=0
-[FETCH]... ↓ 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041621          | ✓ | ⏱: 3.57s 
-[SCRAPE].. ◆ 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041621          | ✓ | ⏱: 0.12s 
-[COMPLETE] ● 
-https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC041621          | ✓ | ⏱: 3.75s 
+ber=SC041621          | ✓ | ⏱: 5.12s 
 [FETCH]... ↓ https://www.muaitheabhal.org.uk                                   
-| ✓ | ⏱: 5.37s 
+| ✓ | ⏱: 4.80s 
 [SCRAPE].. ◆ https://www.muaitheabhal.org.uk                                   
-| ✓ | ⏱: 0.30s 
+| ✓ | ⏱: 0.42s 
 [COMPLETE] ● https://www.muaitheabhal.org.uk                                   
-| ✓ | ⏱: 5.81s 
+| ✓ | ⏱: 5.34s 
 [FETCH]... ↓ https://www.muaitheabhal.org.uk/apply                             
-| ✓ | ⏱: 3.45s 
+| ✓ | ⏱: 2.74s 
 [SCRAPE].. ◆ https://www.muaitheabhal.org.uk/apply                             
-| ✓ | ⏱: 0.15s 
+| ✓ | ⏱: 0.31s 
 [COMPLETE] ● https://www.muaitheabhal.org.uk/apply                             
-| ✓ | ⏱: 3.71s 
+| ✓ | ⏱: 3.13s 
 [FETCH]... ↓ https://www.muaitheabhal.org.uk/eligibility-criteria              
-| ✓ | ⏱: 3.96s 
+| ✓ | ⏱: 3.80s 
 [SCRAPE].. ◆ https://www.muaitheabhal.org.uk/eligibility-criteria              
-| ✓ | ⏱: 0.15s 
-[COMPLETE] ● https://www.muaitheabhal.org.uk/eligibility-criteria              
-| ✓ | ⏱: 4.17s 
-[FETCH]... ↓ https://www.muaitheabhal.org.uk/large-grant-enquiry-form          
-| ✓ | ⏱: 4.56s 
-[SCRAPE].. ◆ https://www.muaitheabhal.org.uk/large-grant-enquiry-form          
 | ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://www.muaitheabhal.org.uk/eligibility-criteria              
+| ✓ | ⏱: 4.03s 
+[FETCH]... ↓ https://www.muaitheabhal.org.uk/large-grant-enquiry-form          
+| ✓ | ⏱: 11.93s 
+[SCRAPE].. ◆ https://www.muaitheabhal.org.uk/large-grant-enquiry-form          
+| ✓ | ⏱: 0.18s 
 [COMPLETE] ● https://www.muaitheabhal.org.uk/large-grant-enquiry-form          
-| ✓ | ⏱: 4.95s 
+| ✓ | ⏱: 12.19s 
 [FETCH]... ↓ 
 https://www.muaitheabhal.org.uk/news/-putting-funding-where-its-needed-most    
-| ✓ | ⏱: 4.07s 
+| ✓ | ⏱: 2.64s 
 [SCRAPE].. ◆ 
 https://www.muaitheabhal.org.uk/news/-putting-funding-where-its-needed-most    
-| ✓ | ⏱: 0.12s 
+| ✓ | ⏱: 0.09s 
 [COMPLETE] ● 
 https://www.muaitheabhal.org.uk/news/-putting-funding-where-its-needed-most    
-| ✓ | ⏱: 4.29s 
+| ✓ | ⏱: 2.79s 
 [FETCH]... ↓ https://www.muaitheabhal.org.uk/small-grant-application-form      
-| ✓ | ⏱: 3.29s 
+| ✓ | ⏱: 2.17s 
 [SCRAPE].. ◆ https://www.muaitheabhal.org.uk/small-grant-application-form      
-| ✓ | ⏱: 0.21s 
+| ✓ | ⏱: 0.08s 
 [COMPLETE] ● https://www.muaitheabhal.org.uk/small-grant-application-form      
-| ✓ | ⏱: 3.69s 
+| ✓ | ⏱: 2.32s 
 [FETCH]... ↓ https://www.muaitheabhal.org.uk/small-grant-application-form-1    
-| ✓ | ⏱: 4.05s 
+| ✓ | ⏱: 3.11s 
 [SCRAPE].. ◆ https://www.muaitheabhal.org.uk/small-grant-application-form-1    
-| ✓ | ⏱: 0.19s 
+| ✓ | ⏱: 0.17s 
 [COMPLETE] ● https://www.muaitheabhal.org.uk/small-grant-application-form-1    
-| ✓ | ⏱: 4.31s 
+| ✓ | ⏱: 3.38s 
 [FETCH]... ↓ https://www.muaitheabhal.org.uk/                                  
-| ✓ | ⏱: 3.73s 
+| ✓ | ⏱: 3.01s 
 [SCRAPE].. ◆ https://www.muaitheabhal.org.uk/                                  
 | ✓ | ⏱: 0.34s 
 [COMPLETE] ● https://www.muaitheabhal.org.uk/                                  
-| ✓ | ⏱: 4.21s 
+| ✓ | ⏱: 3.42s 

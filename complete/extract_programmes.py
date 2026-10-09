@@ -69,6 +69,10 @@ def parse_opportunities(text: str) -> list[dict]:
     return [o for o in opps if isinstance(o, dict) and o.get("opportunity_title")]
 
 
+# VARCHAR(255) legacy columns — truncate hard or Postgres rejects the row.
+SHORT_COLS = {"funding_amounts", "deadlines"}
+
+
 def map_to_row(opp: dict, funder_id: int) -> dict:
     """Project one extracted opp onto funding_opportunities columns."""
     row: dict = {"funder_id": funder_id, "opportunity_source": "devolved-crawl",
@@ -79,6 +83,8 @@ def map_to_row(opp: dict, funder_id: int) -> dict:
             row[col] = bool(val)
         elif col in ("min_amount", "max_amount"):
             row[col] = val if isinstance(val, (int, float)) else None
+        elif col in SHORT_COLS:
+            row[col] = str(val)[:250] if val is not None else None
         else:
             row[col] = str(val)[:2000] if val is not None else None
     return row

@@ -1,0 +1,28 @@
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.29 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+Traceback (most recent call last):
+  File "C:\Users\jimcr\orca\workspaces\devolved-funders-integration\Devolved-Funders-Integration\complete\crawl_dual_source.py", line 200, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "C:\Users\jimcr\orca\workspaces\devolved-funders-integration\Devolved-Funders-Integration\complete\crawl_dual_source.py", line 181, in main
+    stored = store_rows(rows) if rows else 0
+             ~~~~~~~~~~^^^^^^
+  File "C:\Users\jimcr\orca\workspaces\devolved-funders-integration\Devolved-Funders-Integration\complete\extract_programmes.py", line 218, in store_rows
+    execute_values(
+    ~~~~~~~~~~~~~~^
+        cur,
+        ^^^^
+        f"INSERT INTO funding_opportunities ({', '.join(cols)}) VALUES %s",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        [[r.get(c) for c in cols] for r in rows],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\psycopg2\extras.py", line 1299, in execute_values
+    cur.execute(b''.join(parts))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+psycopg2.errors.StringDataRightTruncation: value too long for type character varying(255)
+
