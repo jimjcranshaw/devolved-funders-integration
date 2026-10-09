@@ -1,46 +1,4285 @@
 Resume: 130 queued, 119 remaining
 [FETCH]... ↓ 
 https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC048161          | ✓ | ⏱: 10.13s 
+ber=SC048161          | ✓ | ⏱: 14.15s 
 [SCRAPE].. ◆ 
 https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC048161          | ✓ | ⏱: 0.18s 
+ber=SC048161          | ✓ | ⏱: 0.10s 
 [COMPLETE] ● 
 https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
-ber=SC048161          | ✓ | ⏱: 10.52s 
+ber=SC048161          | ✓ | ⏱: 14.30s 
 [FETCH]... ↓ https://www.neilstonlegacy.org                                    
-| ✓ | ⏱: 7.33s 
+| ✓ | ⏱: 5.36s 
 [SCRAPE].. ◆ https://www.neilstonlegacy.org                                    
-| ✓ | ⏱: 0.13s 
+| ✓ | ⏱: 0.05s 
 [COMPLETE] ● https://www.neilstonlegacy.org                                    
-| ✓ | ⏱: 7.56s 
+| ✓ | ⏱: 5.48s 
 [FETCH]... ↓ https://www.neilstonlegacy.org/applying-for-funding/              
-| ✓ | ⏱: 1.50s 
+| ✓ | ⏱: 1.61s 
 [SCRAPE].. ◆ https://www.neilstonlegacy.org/applying-for-funding/              
-| ✓ | ⏱: 0.07s 
+| ✓ | ⏱: 0.09s 
 [COMPLETE] ● https://www.neilstonlegacy.org/applying-for-funding/              
-| ✓ | ⏱: 1.63s 
+| ✓ | ⏱: 1.76s 
 [FETCH]... ↓ https://www.neilstonlegacy.org/ourgrants/                         
-| ✓ | ⏱: 1.94s 
+| ✓ | ⏱: 1.80s 
 [SCRAPE].. ◆ https://www.neilstonlegacy.org/ourgrants/                         
-| ✓ | ⏱: 0.06s 
+| ✓ | ⏱: 0.07s 
 [COMPLETE] ● https://www.neilstonlegacy.org/ourgrants/                         
-| ✓ | ⏱: 2.05s 
+| ✓ | ⏱: 1.93s 
 [FETCH]... ↓ https://www.neilstonlegacy.org/ourgrants/awards/                  
-| ✓ | ⏱: 2.38s 
+| ✓ | ⏱: 1.57s 
 [SCRAPE].. ◆ https://www.neilstonlegacy.org/ourgrants/awards/                  
-| ✓ | ⏱: 0.07s 
+| ✓ | ⏱: 0.12s 
 [COMPLETE] ● https://www.neilstonlegacy.org/ourgrants/awards/                  
-| ✓ | ⏱: 2.59s 
+| ✓ | ⏱: 1.74s 
 [FETCH]... ↓ https://www.neilstonlegacy.org/                                   
-| ✓ | ⏱: 2.38s 
+| ✓ | ⏱: 1.70s 
 [SCRAPE].. ◆ https://www.neilstonlegacy.org/                                   
-| ✓ | ⏱: 0.07s 
+| ✓ | ⏱: 0.06s 
 [COMPLETE] ● https://www.neilstonlegacy.org/                                   
-| ✓ | ⏱: 2.54s 
+| ✓ | ⏱: 1.83s 
 [FETCH]... ↓ https://www.neilstonlegacy.org/reports/                           
-| ✓ | ⏱: 1.66s 
+| ✓ | ⏱: 1.16s 
 [SCRAPE].. ◆ https://www.neilstonlegacy.org/reports/                           
 | ✓ | ⏱: 0.06s 
 [COMPLETE] ● https://www.neilstonlegacy.org/reports/                           
-| ✓ | ⏱: 1.79s 
+| ✓ | ⏱: 1.28s 
+[1/119] id 4505 pages=7 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048388          | ✓ | ⏱: 4.45s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048388          | ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048388          | ✓ | ⏱: 4.58s 
+[FETCH]... ↓ https://skiffington.org                                           
+| ✓ | ⏱: 2.94s 
+[SCRAPE].. ◆ https://skiffington.org                                           
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://skiffington.org                                           
+| ✓ | ⏱: 3.01s 
+[FETCH]... ↓ https://skiffington.org/applications/                             
+| ✓ | ⏱: 2.00s 
+[SCRAPE].. ◆ https://skiffington.org/applications/                             
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://skiffington.org/applications/                             
+| ✓ | ⏱: 2.11s 
+[FETCH]... ↓ https://skiffington.org/                                          
+| ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ https://skiffington.org/                                          
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://skiffington.org/                                          
+| ✓ | ⏱: 1.25s 
+[FETCH]... ↓ https://skiffington.org/charity-information/                      
+| ✓ | ⏱: 1.38s 
+[SCRAPE].. ◆ https://skiffington.org/charity-information/                      
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://skiffington.org/charity-information/                      
+| ✓ | ⏱: 1.47s 
+[FETCH]... ↓ https://skiffington.org/families-and-carers/                      
+| ✓ | ⏱: 2.18s 
+[SCRAPE].. ◆ https://skiffington.org/families-and-carers/                      
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://skiffington.org/families-and-carers/                      
+| ✓ | ⏱: 2.25s 
+[FETCH]... ↓ https://skiffington.org/living-with-sight-loss/                   
+| ✓ | ⏱: 2.54s 
+[SCRAPE].. ◆ https://skiffington.org/living-with-sight-loss/                   
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://skiffington.org/living-with-sight-loss/                   
+| ✓ | ⏱: 2.61s 
+[FETCH]... ↓ https://skiffington.org/losing-your-site/                         
+| ✓ | ⏱: 1.64s 
+[SCRAPE].. ◆ https://skiffington.org/losing-your-site/                         
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://skiffington.org/losing-your-site/                         
+| ✓ | ⏱: 1.71s 
+[2/119] id 4537 pages=8 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048462          | ✓ | ⏱: 3.95s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048462          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048462          | ✓ | ⏱: 4.06s 
+[FETCH]... ↓ https://www.northberwicktrust.co.uk                               
+| ✓ | ⏱: 5.60s 
+[SCRAPE].. ◆ https://www.northberwicktrust.co.uk                               
+| ✓ | ⏱: 0.24s 
+[COMPLETE] ● https://www.northberwicktrust.co.uk                               
+| ✓ | ⏱: 5.91s 
+[3/119] id 4545 pages=2 src=register+website opps=3 stored=3 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048584          | ✓ | ⏱: 4.38s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048584          | ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048584          | ✓ | ⏱: 4.51s 
+[FETCH]... ↓ https://www.atjf.org.uk                                           
+| ✓ | ⏱: 4.42s 
+[SCRAPE].. ◆ https://www.atjf.org.uk                                           
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.atjf.org.uk                                           
+| ✓ | ⏱: 4.53s 
+[FETCH]... ↓ https://www.atjf.org.uk/                                          
+| ✓ | ⏱: 2.46s 
+[SCRAPE].. ◆ https://www.atjf.org.uk/                                          
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.atjf.org.uk/                                          
+| ✓ | ⏱: 2.58s 
+[4/119] id 4563 pages=3 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048591          | ✓ | ⏱: 12.41s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048591          | ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048591          | ✓ | ⏱: 12.59s 
+[FETCH]... ↓ https://marybrowntrust.com                                        
+| ✓ | ⏱: 4.79s 
+[SCRAPE].. ◆ https://marybrowntrust.com                                        
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://marybrowntrust.com                                        
+| ✓ | ⏱: 4.86s 
+[FETCH]... ↓ http://marybrowntrust.com/application-form/                       
+| ✓ | ⏱: 2.71s 
+[SCRAPE].. ◆ http://marybrowntrust.com/application-form/                       
+| ✓ | ⏱: 0.27s 
+[COMPLETE] ● http://marybrowntrust.com/application-form/                       
+| ✓ | ⏱: 3.13s 
+[FETCH]... ↓ https://marybrowntrust.com/application-form/                      
+| ✓ | ⏱: 4.04s 
+[SCRAPE].. ◆ https://marybrowntrust.com/application-form/                      
+| ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://marybrowntrust.com/application-form/                      
+| ✓ | ⏱: 4.24s 
+[FETCH]... ↓ http://marybrowntrust.com/                                        
+| ✓ | ⏱: 2.02s 
+[SCRAPE].. ◆ http://marybrowntrust.com/                                        
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● http://marybrowntrust.com/                                        
+| ✓ | ⏱: 2.09s 
+[FETCH]... ↓ http://marybrowntrust.com/guidelines/                             
+| ✓ | ⏱: 2.47s 
+[SCRAPE].. ◆ http://marybrowntrust.com/guidelines/                             
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● http://marybrowntrust.com/guidelines/                             
+| ✓ | ⏱: 2.57s 
+[FETCH]... ↓ https://marybrowntrust.com/                                       
+| ✓ | ⏱: 2.09s 
+[SCRAPE].. ◆ https://marybrowntrust.com/                                       
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://marybrowntrust.com/                                       
+| ✓ | ⏱: 2.14s 
+[FETCH]... ↓ https://marybrowntrust.com/guidelines/                            
+| ✓ | ⏱: 1.73s 
+[SCRAPE].. ◆ https://marybrowntrust.com/guidelines/                            
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://marybrowntrust.com/guidelines/                            
+| ✓ | ⏱: 1.82s 
+[5/119] id 4565 pages=8 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048704          | ✓ | ⏱: 4.45s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048704          | ✓ | ⏱: 0.14s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048704          | ✓ | ⏱: 4.66s 
+[FETCH]... ↓ https://windsofchangecawdor.com                                   
+| ✓ | ⏱: 6.06s 
+[SCRAPE].. ◆ https://windsofchangecawdor.com                                   
+| ✓ | ⏱: 0.27s 
+[COMPLETE] ● https://windsofchangecawdor.com                                   
+| ✓ | ⏱: 6.45s 
+[FETCH]... ↓ http://windsofchangecawdor.com/apply/                             
+| ✓ | ⏱: 5.76s 
+[SCRAPE].. ◆ http://windsofchangecawdor.com/apply/                             
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● http://windsofchangecawdor.com/apply/                             
+| ✓ | ⏱: 5.89s 
+[FETCH]... ↓ http://windsofchangecawdor.com/eligibility/                       
+| ✓ | ⏱: 3.89s 
+[SCRAPE].. ◆ http://windsofchangecawdor.com/eligibility/                       
+| ✓ | ⏱: 0.30s 
+[COMPLETE] ● http://windsofchangecawdor.com/eligibility/                       
+| ✓ | ⏱: 4.25s 
+[FETCH]... ↓ https://windsofchangecawdor.com/apply/                            
+| ✓ | ⏱: 2.81s 
+[SCRAPE].. ◆ https://windsofchangecawdor.com/apply/                            
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://windsofchangecawdor.com/apply/                            
+| ✓ | ⏱: 2.93s 
+[FETCH]... ↓ https://windsofchangecawdor.com/eligibility/                      
+| ✓ | ⏱: 2.89s 
+[SCRAPE].. ◆ https://windsofchangecawdor.com/eligibility/                      
+| ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://windsofchangecawdor.com/eligibility/                      
+| ✓ | ⏱: 3.11s 
+[FETCH]... ↓ https://windsofchangecawdor.com/eligibility/environment/          
+| ✓ | ⏱: 2.06s 
+[SCRAPE].. ◆ https://windsofchangecawdor.com/eligibility/environment/          
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://windsofchangecawdor.com/eligibility/environment/          
+| ✓ | ⏱: 2.18s 
+[FETCH]... ↓ https://windsofchangecawdor.com/eligibility/events/               
+| ✓ | ⏱: 2.38s 
+[SCRAPE].. ◆ https://windsofchangecawdor.com/eligibility/events/               
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://windsofchangecawdor.com/eligibility/events/               
+| ✓ | ⏱: 2.47s 
+[FETCH]... ↓ https://windsofchangecawdor.com/eligibility/heritage/             
+| ✓ | ⏱: 1.86s 
+[SCRAPE].. ◆ https://windsofchangecawdor.com/eligibility/heritage/             
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://windsofchangecawdor.com/eligibility/heritage/             
+| ✓ | ⏱: 1.95s 
+[6/119] id 4580 pages=9 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048852          | ✓ | ⏱: 2.55s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048852          | ✓ | ⏱: 0.14s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048852          | ✓ | ⏱: 2.74s 
+[FETCH]... ↓ https://www.rsmukfoundation.com                                   
+| ✓ | ⏱: 4.28s 
+[SCRAPE].. ◆ https://www.rsmukfoundation.com                                   
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.rsmukfoundation.com                                   
+| ✓ | ⏱: 4.35s 
+[FETCH]... ↓ https://www.rsmukfoundation.com/apply-for-a-grant/                
+| ✓ | ⏱: 1.19s 
+[SCRAPE].. ◆ https://www.rsmukfoundation.com/apply-for-a-grant/                
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.rsmukfoundation.com/apply-for-a-grant/                
+| ✓ | ⏱: 1.27s 
+[FETCH]... ↓ https://www.rsmukfoundation.com/grant-making-policy/              
+| ✓ | ⏱: 1.28s 
+[SCRAPE].. ◆ https://www.rsmukfoundation.com/grant-making-policy/              
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.rsmukfoundation.com/grant-making-policy/              
+| ✓ | ⏱: 1.39s 
+[FETCH]... ↓ https://www.rsmukfoundation.com/                                  
+| ✓ | ⏱: 2.32s 
+[SCRAPE].. ◆ https://www.rsmukfoundation.com/                                  
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.rsmukfoundation.com/                                  
+| ✓ | ⏱: 2.40s 
+[FETCH]... ↓ https://www.rsmukfoundation.com/our-charity-partners/             
+| ✓ | ⏱: 0.86s 
+[SCRAPE].. ◆ https://www.rsmukfoundation.com/our-charity-partners/             
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.rsmukfoundation.com/our-charity-partners/             
+| ✓ | ⏱: 0.97s 
+[FETCH]... ↓ https://www.rsmukfoundation.com/our-trustees/                     
+| ✓ | ⏱: 0.93s 
+[SCRAPE].. ◆ https://www.rsmukfoundation.com/our-trustees/                     
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.rsmukfoundation.com/our-trustees/                     
+| ✓ | ⏱: 1.03s 
+[7/119] id 4604 pages=7 src=register+website opps=3 stored=3 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048863          | ✓ | ⏱: 4.18s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048863          | ✓ | ⏱: 0.13s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048863          | ✓ | ⏱: 4.38s 
+[FETCH]... ↓ https://www.inspire-foundation.org.uk                             
+| ✓ | ⏱: 16.91s 
+[SCRAPE].. ◆ https://www.inspire-foundation.org.uk                             
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.inspire-foundation.org.uk                             
+| ✓ | ⏱: 17.08s 
+[FETCH]... ↓ https://www.inspire-foundation.org.uk/fundraising/                
+| ✓ | ⏱: 3.08s 
+[SCRAPE].. ◆ https://www.inspire-foundation.org.uk/fundraising/                
+| ✓ | ⏱: 0.19s 
+[COMPLETE] ● https://www.inspire-foundation.org.uk/fundraising/                
+| ✓ | ⏱: 3.33s 
+[FETCH]... ↓ 
+https://www.inspire-foundation.org.uk/plymouth-half-marathon-fundraiser/       
+| ✓ | ⏱: 3.39s 
+[SCRAPE].. ◆ 
+https://www.inspire-foundation.org.uk/plymouth-half-marathon-fundraiser/       
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● 
+https://www.inspire-foundation.org.uk/plymouth-half-marathon-fundraiser/       
+| ✓ | ⏱: 3.51s 
+[FETCH]... ↓ https://www.inspire-foundation.org.uk/                            
+| ✓ | ⏱: 11.84s 
+[SCRAPE].. ◆ https://www.inspire-foundation.org.uk/                            
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.inspire-foundation.org.uk/                            
+| ✓ | ⏱: 11.99s 
+[FETCH]... ↓ 
+https://www.inspire-foundation.org.uk/a-sporty-m...r-his-climb-of-mt-kilimanjar
+o-in-his-wheelchair/  | ✓ | ⏱: 3.57s 
+[SCRAPE].. ◆ 
+https://www.inspire-foundation.org.uk/a-sporty-m...r-his-climb-of-mt-kilimanjar
+o-in-his-wheelchair/  | ✓ | ⏱: 0.04s 
+[COMPLETE] ● 
+https://www.inspire-foundation.org.uk/a-sporty-m...r-his-climb-of-mt-kilimanjar
+o-in-his-wheelchair/  | ✓ | ⏱: 3.67s 
+[FETCH]... ↓ https://www.inspire-foundation.org.uk/crp/                        
+| ✓ | ⏱: 2.31s 
+[SCRAPE].. ◆ https://www.inspire-foundation.org.uk/crp/                        
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.inspire-foundation.org.uk/crp/                        
+| ✓ | ⏱: 2.53s 
+[FETCH]... ↓ 
+https://www.inspire-foundation.org.uk/dr-mariel-purcells-spinal-therapy-success
+/                     | ✓ | ⏱: 2.55s 
+[SCRAPE].. ◆ 
+https://www.inspire-foundation.org.uk/dr-mariel-purcells-spinal-therapy-success
+/                     | ✓ | ⏱: 0.05s 
+[COMPLETE] ● 
+https://www.inspire-foundation.org.uk/dr-mariel-purcells-spinal-therapy-success
+/                     | ✓ | ⏱: 2.65s 
+[FETCH]... ↓ https://www.inspire-foundation.org.uk/find-out-more/              
+| ✓ | ⏱: 2.57s 
+[SCRAPE].. ◆ https://www.inspire-foundation.org.uk/find-out-more/              
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.inspire-foundation.org.uk/find-out-more/              
+| ✓ | ⏱: 2.67s 
+[8/119] id 4606 pages=9 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048960          | ✓ | ⏱: 8.18s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048960          | ✓ | ⏱: 0.13s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048960          | ✓ | ⏱: 8.35s 
+[FETCH]... ↓ https://humanimaltrust.org.uk                                     
+| ✓ | ⏱: 4.49s 
+[SCRAPE].. ◆ https://humanimaltrust.org.uk                                     
+| ✓ | ⏱: 0.32s 
+[COMPLETE] ● https://humanimaltrust.org.uk                                     
+| ✓ | ⏱: 4.92s 
+[FETCH]... ↓ https://humanimaltrust.org.uk/easy-fundraising/                   
+| ✓ | ⏱: 2.82s 
+[SCRAPE].. ◆ https://humanimaltrust.org.uk/easy-fundraising/                   
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://humanimaltrust.org.uk/easy-fundraising/                   
+| ✓ | ⏱: 3.09s 
+[FETCH]... ↓ https://humanimaltrust.org.uk/fundraise/                          
+| ✓ | ⏱: 5.60s 
+[SCRAPE].. ◆ https://humanimaltrust.org.uk/fundraise/                          
+| ✓ | ⏱: 0.28s 
+[COMPLETE] ● https://humanimaltrust.org.uk/fundraise/                          
+| ✓ | ⏱: 6.39s 
+[FETCH]... ↓ https://humanimaltrust.org.uk/golf-fundraising/                   
+| ✓ | ⏱: 3.93s 
+[SCRAPE].. ◆ https://humanimaltrust.org.uk/golf-fundraising/                   
+| ✓ | ⏱: 0.66s 
+[COMPLETE] ● https://humanimaltrust.org.uk/golf-fundraising/                   
+| ✓ | ⏱: 4.77s 
+[FETCH]... ↓ https://humanimaltrust.org.uk/one-medicine-funding-calls/         
+| ✓ | ⏱: 17.59s 
+[SCRAPE].. ◆ https://humanimaltrust.org.uk/one-medicine-funding-calls/         
+| ✓ | ⏱: 0.22s 
+[COMPLETE] ● https://humanimaltrust.org.uk/one-medicine-funding-calls/         
+| ✓ | ⏱: 17.92s 
+[FETCH]... ↓ https://humanimaltrust.org.uk/transferring-funds-raised-to-us/    
+| ✓ | ⏱: 2.81s 
+[SCRAPE].. ◆ https://humanimaltrust.org.uk/transferring-funds-raised-to-us/    
+| ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://humanimaltrust.org.uk/transferring-funds-raised-to-us/    
+| ✓ | ⏱: 3.04s 
+[FETCH]... ↓ https://humanimaltrust.org.uk/                                    
+| ✓ | ⏱: 1.98s 
+[SCRAPE].. ◆ https://humanimaltrust.org.uk/                                    
+| ✓ | ⏱: 0.39s 
+[COMPLETE] ● https://humanimaltrust.org.uk/                                    
+| ✓ | ⏱: 2.46s 
+[FETCH]... ↓ https://humanimaltrust.org.uk/100-club/                           
+| ✓ | ⏱: 4.50s 
+[SCRAPE].. ◆ https://humanimaltrust.org.uk/100-club/                           
+| ✓ | ⏱: 0.49s 
+[COMPLETE] ● https://humanimaltrust.org.uk/100-club/                           
+| ✓ | ⏱: 5.09s 
+[9/119] id 4628 pages=9 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048963          | ✓ | ⏱: 3.12s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048963          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048963          | ✓ | ⏱: 3.28s 
+[ANTIBOT]. ℹ https://www.rotary-ribi.../homepage.php?ClubID=97  | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at 
+https://www.rotary-ribi.org/clubs/homepage.php?ClubID=97
+Call log:
+  - navigating to "https://www.rotary-ribi.org/clubs/homepage.php?ClubID=97", 
+waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.rotary-ribi.../homepage.php?ClubID=97  | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at 
+https://www.rotary-ribi.org/clubs/homepage.php?ClubID=97
+Call log:
+  - navigating to "https://www.rotary-ribi.org/clubs/homepage.php?ClubID=97", 
+waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[10/119] id 4629 pages=1 src=register opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048981          | ✓ | ⏱: 4.49s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048981          | ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048981          | ✓ | ⏱: 4.69s 
+[ANTIBOT]. ℹ https://marchmontmakers.org/                       | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at 
+https://marchmontmakers.org/
+Call log:
+  - navigating to "https://marchmontmakers.org/", waiting until 
+"domcontentloaded"
+ 
+[ERROR]... × https://marchmontmakers.org/                       | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at 
+https://marchmontmakers.org/
+Call log:
+  - navigating to "https://marchmontmakers.org/", waiting until 
+"domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[11/119] id 4633 pages=1 src=register opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049009          | ✓ | ⏱: 4.65s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049009          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049009          | ✓ | ⏱: 4.97s 
+[FETCH]... ↓ https://www.inspiringlife.org.uk                                  
+| ✓ | ⏱: 4.51s 
+[SCRAPE].. ◆ https://www.inspiringlife.org.uk                                  
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● https://www.inspiringlife.org.uk                                  
+| ✓ | ⏱: 4.71s 
+[12/119] id 4639 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049131          | ✓ | ⏱: 2.70s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049131          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049131          | ✓ | ⏱: 2.83s 
+[ANTIBOT]. ℹ https://www.AFAAT.org.uk                           | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.afaat.org.uk/
+Call log:
+  - navigating to "https://www.afaat.org.uk/", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.AFAAT.org.uk                           | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.afaat.org.uk/
+Call log:
+  - navigating to "https://www.afaat.org.uk/", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[13/119] id 4661 pages=1 src=register opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049136          | ✓ | ⏱: 3.22s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049136          | ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049136          | ✓ | ⏱: 3.34s 
+[FETCH]... ↓ https://RAM.charity                                               
+| ✓ | ⏱: 3.53s 
+[SCRAPE].. ◆ https://RAM.charity                                               
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://RAM.charity                                               
+| ✓ | ⏱: 3.57s 
+[14/119] id 4662 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049138          | ✓ | ⏱: 3.64s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049138          | ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049138          | ✓ | ⏱: 3.81s 
+[FETCH]... ↓ https://www.eltf.org.uk                                           
+| ✓ | ⏱: 3.03s 
+[SCRAPE].. ◆ https://www.eltf.org.uk                                           
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.eltf.org.uk                                           
+| ✓ | ⏱: 3.08s 
+[FETCH]... ↓ https://www.eltf.org.uk/apply-for-grants/                         
+| ✓ | ⏱: 1.43s 
+[SCRAPE].. ◆ https://www.eltf.org.uk/apply-for-grants/                         
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.eltf.org.uk/apply-for-grants/                         
+| ✓ | ⏱: 1.48s 
+[FETCH]... ↓ https://www.eltf.org.uk/funds/                                    
+| ✓ | ⏱: 1.06s 
+[SCRAPE].. ◆ https://www.eltf.org.uk/funds/                                    
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.eltf.org.uk/funds/                                    
+| ✓ | ⏱: 1.48s 
+[FETCH]... ↓ https://www.eltf.org.uk/funds/epfc/                               
+| ✓ | ⏱: 1.54s 
+[SCRAPE].. ◆ https://www.eltf.org.uk/funds/epfc/                               
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.eltf.org.uk/funds/epfc/                               
+| ✓ | ⏱: 1.61s 
+[FETCH]... ↓ https://www.eltf.org.uk/funds/grants-for-individuals/             
+| ✓ | ⏱: 1.34s 
+[SCRAPE].. ◆ https://www.eltf.org.uk/funds/grants-for-individuals/             
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.eltf.org.uk/funds/grants-for-individuals/             
+| ✓ | ⏱: 1.39s 
+[FETCH]... ↓ https://www.eltf.org.uk/funds/grants-for-voluntary-organisations/ 
+| ✓ | ⏱: 1.20s 
+[SCRAPE].. ◆ https://www.eltf.org.uk/funds/grants-for-voluntary-organisations/ 
+| ✓ | ⏱: 0.35s 
+[COMPLETE] ● https://www.eltf.org.uk/funds/grants-for-voluntary-organisations/ 
+| ✓ | ⏱: 1.76s 
+[FETCH]... ↓ https://www.eltf.org.uk/funds/the-edinburgh-fire-fund/            
+| ✓ | ⏱: 3.72s 
+[SCRAPE].. ◆ https://www.eltf.org.uk/funds/the-edinburgh-fire-fund/            
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.eltf.org.uk/funds/the-edinburgh-fire-fund/            
+| ✓ | ⏱: 3.78s 
+[FETCH]... ↓ https://www.eltf.org.uk/                                          
+| ✓ | ⏱: 0.99s 
+[SCRAPE].. ◆ https://www.eltf.org.uk/                                          
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.eltf.org.uk/                                          
+| ✓ | ⏱: 1.04s 
+[15/119] id 4663 pages=9 src=register+website opps=4 stored=4 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049194          | ✓ | ⏱: 4.27s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049194          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049194          | ✓ | ⏱: 4.41s 
+[FETCH]... ↓ https://www.kirkmurdochcharitabletrust.com/                       
+| ✓ | ⏱: 2.38s 
+[SCRAPE].. ◆ https://www.kirkmurdochcharitabletrust.com/                       
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.kirkmurdochcharitabletrust.com/                       
+| ✓ | ⏱: 2.43s 
+[FETCH]... ↓ 
+https://www.kirkmurdochcharitabletrust.com/grant-applications-2021.html        
+| ✓ | ⏱: 0.80s 
+[SCRAPE].. ◆ 
+https://www.kirkmurdochcharitabletrust.com/grant-applications-2021.html        
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● 
+https://www.kirkmurdochcharitabletrust.com/grant-applications-2021.html        
+| ✓ | ⏱: 0.83s 
+[FETCH]... ↓ https://www.kirkmurdochcharitabletrust.com/grant-applications.html
+| ✓ | ⏱: 1.22s 
+[SCRAPE].. ◆ https://www.kirkmurdochcharitabletrust.com/grant-applications.html
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.kirkmurdochcharitabletrust.com/grant-applications.html
+| ✓ | ⏱: 1.27s 
+[FETCH]... ↓ 
+https://www.kirkmurdochcharitabletrust.com/past-grant-recipients.html          
+| ✓ | ⏱: 1.54s 
+[SCRAPE].. ◆ 
+https://www.kirkmurdochcharitabletrust.com/past-grant-recipients.html          
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● 
+https://www.kirkmurdochcharitabletrust.com/past-grant-recipients.html          
+| ✓ | ⏱: 1.60s 
+[16/119] id 4671 pages=5 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049217          | ✓ | ⏱: 4.24s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049217          | ✓ | ⏱: 0.13s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049217          | ✓ | ⏱: 4.44s 
+[FETCH]... ↓ https://www.womensfundscotland.org/                               
+| ✓ | ⏱: 10.10s 
+[SCRAPE].. ◆ https://www.womensfundscotland.org/                               
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.womensfundscotland.org/                               
+| ✓ | ⏱: 10.22s 
+[FETCH]... ↓ https://www.womensfundscotland.org/accessibility-statement/       
+| ✓ | ⏱: 1.99s 
+[SCRAPE].. ◆ https://www.womensfundscotland.org/accessibility-statement/       
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.womensfundscotland.org/accessibility-statement/       
+| ✓ | ⏱: 2.11s 
+[FETCH]... ↓ https://www.womensfundscotland.org/get-funding/                   
+| ✓ | ⏱: 4.46s 
+[SCRAPE].. ◆ https://www.womensfundscotland.org/get-funding/                   
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://www.womensfundscotland.org/get-funding/                   
+| ✓ | ⏱: 4.96s 
+[FETCH]... ↓ https://www.womensfundscotland.org/our-impact/                    
+| ✓ | ⏱: 3.52s 
+[SCRAPE].. ◆ https://www.womensfundscotland.org/our-impact/                    
+| ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://www.womensfundscotland.org/our-impact/                    
+| ✓ | ⏱: 3.76s 
+[FETCH]... ↓ https://www.womensfundscotland.org/resources/                     
+| ✓ | ⏱: 1.87s 
+[SCRAPE].. ◆ https://www.womensfundscotland.org/resources/                     
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.womensfundscotland.org/resources/                     
+| ✓ | ⏱: 2.00s 
+[17/119] id 4674 pages=6 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049353          | ✓ | ⏱: 3.30s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049353          | ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049353          | ✓ | ⏱: 3.41s 
+[FETCH]... ↓ https://www.ctclf.org                                             
+| ✓ | ⏱: 6.51s 
+[SCRAPE].. ◆ https://www.ctclf.org                                             
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.ctclf.org                                             
+| ✓ | ⏱: 6.59s 
+[18/119] id 4697 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049515          | ✓ | ⏱: 2.66s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049515          | ✓ | ⏱: 0.23s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049515          | ✓ | ⏱: 2.96s 
+[FETCH]... ↓ https://www.homeopathy-uk.org                                     
+| ✓ | ⏱: 3.37s 
+[SCRAPE].. ◆ https://www.homeopathy-uk.org                                     
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://www.homeopathy-uk.org                                     
+| ✓ | ⏱: 3.59s 
+[19/119] id 4720 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049518          | ✓ | ⏱: 3.20s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049518          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049518          | ✓ | ⏱: 3.35s 
+[FETCH]... ↓ https://www.actuaries.org.uk/about-us/ifoa-foundation             
+| ✓ | ⏱: 3.38s 
+[SCRAPE].. ◆ https://www.actuaries.org.uk/about-us/ifoa-foundation             
+| ✓ | ⏱: 0.19s 
+[COMPLETE] ● https://www.actuaries.org.uk/about-us/ifoa-foundation             
+| ✓ | ⏱: 3.62s 
+[FETCH]... ↓ 
+https://www.actuaries.org.uk/learn-and-develop/continuous-mortality-investigati
+on                    | ✓ | ⏱: 2.68s 
+[SCRAPE].. ◆ 
+https://www.actuaries.org.uk/learn-and-develop/continuous-mortality-investigati
+on                    | ✓ | ⏱: 0.04s 
+[COMPLETE] ● 
+https://www.actuaries.org.uk/learn-and-develop/continuous-mortality-investigati
+on                    | ✓ | ⏱: 2.76s 
+[20/119] id 4721 pages=3 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049617          | ✓ | ⏱: 4.99s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049617          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049617          | ✓ | ⏱: 5.14s 
+[FETCH]... ↓ https://www.frp.scot                                              
+| ✓ | ⏱: 3.64s 
+[SCRAPE].. ◆ https://www.frp.scot                                              
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.frp.scot                                              
+| ✓ | ⏱: 3.70s 
+[FETCH]... ↓ https://www.frp.scot/funding-schemes.html                         
+| ✓ | ⏱: 3.55s 
+[SCRAPE].. ◆ https://www.frp.scot/funding-schemes.html                         
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.frp.scot/funding-schemes.html                         
+| ✓ | ⏱: 3.62s 
+[FETCH]... ↓ https://www.frp.scot/                                             
+| ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ https://www.frp.scot/                                             
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.frp.scot/                                             
+| ✓ | ⏱: 1.25s 
+[FETCH]... ↓ https://www.frp.scot/cookie-notice-nopopup.html                   
+| ✓ | ⏱: 2.23s 
+[SCRAPE].. ◆ https://www.frp.scot/cookie-notice-nopopup.html                   
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.frp.scot/cookie-notice-nopopup.html                   
+| ✓ | ⏱: 2.30s 
+[FETCH]... ↓ https://www.frp.scot/cookie-notice.html                           
+| ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://www.frp.scot/cookie-notice.html                           
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.frp.scot/cookie-notice.html                           
+| ✓ | ⏱: 1.39s 
+[FETCH]... ↓ https://www.frp.scot/formartine-partnership-ltd.html              
+| ✓ | ⏱: 1.89s 
+[SCRAPE].. ◆ https://www.frp.scot/formartine-partnership-ltd.html              
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.frp.scot/formartine-partnership-ltd.html              
+| ✓ | ⏱: 2.03s 
+[FETCH]... ↓ https://www.frp.scot/index.html                                   
+| ✓ | ⏱: 1.41s 
+[SCRAPE].. ◆ https://www.frp.scot/index.html                                   
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.frp.scot/index.html                                   
+| ✓ | ⏱: 1.48s 
+[FETCH]... ↓ https://www.frp.scot/organisation.html                            
+| ✓ | ⏱: 1.43s 
+[SCRAPE].. ◆ https://www.frp.scot/organisation.html                            
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.frp.scot/organisation.html                            
+| ✓ | ⏱: 1.53s 
+[21/119] id 4731 pages=9 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049635          | ✓ | ⏱: 12.12s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049635          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049635          | ✓ | ⏱: 12.23s 
+[FETCH]... ↓ https://www.williamsysonfoundation.org.uk                         
+| ✓ | ⏱: 3.91s 
+[SCRAPE].. ◆ https://www.williamsysonfoundation.org.uk                         
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.williamsysonfoundation.org.uk                         
+| ✓ | ⏱: 4.02s 
+[FETCH]... ↓ 
+https://www.williamsysonfoundation.org.uk/reports-and-previous-grants          
+| ✓ | ⏱: 1.59s 
+[SCRAPE].. ◆ 
+https://www.williamsysonfoundation.org.uk/reports-and-previous-grants          
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.williamsysonfoundation.org.uk/reports-and-previous-grants          
+| ✓ | ⏱: 1.69s 
+[FETCH]... ↓ https://www.williamsysonfoundation.org.uk/small-grants-fund       
+| ✓ | ⏱: 1.07s 
+[SCRAPE].. ◆ https://www.williamsysonfoundation.org.uk/small-grants-fund       
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.williamsysonfoundation.org.uk/small-grants-fund       
+| ✓ | ⏱: 1.17s 
+[FETCH]... ↓ 
+https://www.williamsysonfoundation.org.uk/small-grants-fund-terms-and-condition
+s                     | ✓ | ⏱: 1.29s 
+[SCRAPE].. ◆ 
+https://www.williamsysonfoundation.org.uk/small-grants-fund-terms-and-condition
+s                     | ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.williamsysonfoundation.org.uk/small-grants-fund-terms-and-condition
+s                     | ✓ | ⏱: 1.41s 
+[FETCH]... ↓ https://www.williamsysonfoundation.org.uk/                        
+| ✓ | ⏱: 1.12s 
+[SCRAPE].. ◆ https://www.williamsysonfoundation.org.uk/                        
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.williamsysonfoundation.org.uk/                        
+| ✓ | ⏱: 1.24s 
+[FETCH]... ↓ 
+https://www.williamsysonfoundation.org.uk/beatrice-huntington-award            
+| ✓ | ⏱: 2.05s 
+[SCRAPE].. ◆ 
+https://www.williamsysonfoundation.org.uk/beatrice-huntington-award            
+| ✓ | ⏱: 0.21s 
+[COMPLETE] ● 
+https://www.williamsysonfoundation.org.uk/beatrice-huntington-award            
+| ✓ | ⏱: 2.34s 
+[FETCH]... ↓ https://www.williamsysonfoundation.org.uk/home                    
+| ✓ | ⏱: 2.47s 
+[SCRAPE].. ◆ https://www.williamsysonfoundation.org.uk/home                    
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.williamsysonfoundation.org.uk/home                    
+| ✓ | ⏱: 2.63s 
+[FETCH]... ↓ https://www.williamsysonfoundation.org.uk/safeguarding-policy     
+| ✓ | ⏱: 2.04s 
+[SCRAPE].. ◆ https://www.williamsysonfoundation.org.uk/safeguarding-policy     
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://www.williamsysonfoundation.org.uk/safeguarding-policy     
+| ✓ | ⏱: 2.22s 
+[22/119] id 4734 pages=9 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049648          | ✓ | ⏱: 3.46s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049648          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049648          | ✓ | ⏱: 3.62s 
+[FETCH]... ↓ https://www.annaburnetttrust.org.uk                               
+| ✓ | ⏱: 10.09s 
+[SCRAPE].. ◆ https://www.annaburnetttrust.org.uk                               
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.annaburnetttrust.org.uk                               
+| ✓ | ⏱: 10.22s 
+[23/119] id 4735 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049745          | ✓ | ⏱: 4.90s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049745          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049745          | ✓ | ⏱: 5.05s 
+[FETCH]... ↓ https://www.themacroberttrust.org.uk                              
+| ✓ | ⏱: 2.54s 
+[SCRAPE].. ◆ https://www.themacroberttrust.org.uk                              
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.themacroberttrust.org.uk                              
+| ✓ | ⏱: 2.73s 
+[FETCH]... ↓ https://www.themacroberttrust.org.uk/grants/                      
+| ✓ | ⏱: 1.43s 
+[SCRAPE].. ◆ https://www.themacroberttrust.org.uk/grants/                      
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.themacroberttrust.org.uk/grants/                      
+| ✓ | ⏱: 1.65s 
+[FETCH]... ↓ https://www.themacroberttrust.org.uk/                             
+| ✓ | ⏱: 2.13s 
+[SCRAPE].. ◆ https://www.themacroberttrust.org.uk/                             
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.themacroberttrust.org.uk/                             
+| ✓ | ⏱: 2.29s 
+[FETCH]... ↓ https://www.themacroberttrust.org.uk/10-goals-for-10-years/       
+| ✓ | ⏱: 5.24s 
+[SCRAPE].. ◆ https://www.themacroberttrust.org.uk/10-goals-for-10-years/       
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://www.themacroberttrust.org.uk/10-goals-for-10-years/       
+| ✓ | ⏱: 5.49s 
+[FETCH]... ↓ https://www.themacroberttrust.org.uk/awards-prizes/               
+| ✓ | ⏱: 3.20s 
+[SCRAPE].. ◆ https://www.themacroberttrust.org.uk/awards-prizes/               
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.themacroberttrust.org.uk/awards-prizes/               
+| ✓ | ⏱: 3.35s 
+[FETCH]... ↓ https://www.themacroberttrust.org.uk/douneside-house/             
+| ✓ | ⏱: 3.14s 
+[SCRAPE].. ◆ https://www.themacroberttrust.org.uk/douneside-house/             
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.themacroberttrust.org.uk/douneside-house/             
+| ✓ | ⏱: 3.27s 
+[FETCH]... ↓ https://www.themacroberttrust.org.uk/the-estate                   
+| ✓ | ⏱: 11.98s 
+[SCRAPE].. ◆ https://www.themacroberttrust.org.uk/the-estate                   
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.themacroberttrust.org.uk/the-estate                   
+| ✓ | ⏱: 12.11s 
+[FETCH]... ↓ https://www.themacroberttrust.org.uk/the-estate/                  
+| ✓ | ⏱: 11.52s 
+[SCRAPE].. ◆ https://www.themacroberttrust.org.uk/the-estate/                  
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.themacroberttrust.org.uk/the-estate/                  
+| ✓ | ⏱: 11.62s 
+[24/119] id 4746 pages=9 src=register+website opps=4 stored=4 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049833          | ✓ | ⏱: 3.90s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049833          | ✓ | ⏱: 0.24s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049833          | ✓ | ⏱: 4.19s 
+[FETCH]... ↓ https://elevategreat.co.uk                                        
+| ✓ | ⏱: 3.11s 
+[SCRAPE].. ◆ https://elevategreat.co.uk                                        
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://elevategreat.co.uk                                        
+| ✓ | ⏱: 3.18s 
+[FETCH]... ↓ https://elevategreat.co.uk/                                       
+| ✓ | ⏱: 1.54s 
+[SCRAPE].. ◆ https://elevategreat.co.uk/                                       
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://elevategreat.co.uk/                                       
+| ✓ | ⏱: 1.61s 
+[FETCH]... ↓ https://elevategreat.co.uk/get-in-touch/                          
+| ✓ | ⏱: 1.80s 
+[SCRAPE].. ◆ https://elevategreat.co.uk/get-in-touch/                          
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://elevategreat.co.uk/get-in-touch/                          
+| ✓ | ⏱: 1.86s 
+[FETCH]... ↓ https://elevategreat.co.uk/our-mission/                           
+| ✓ | ⏱: 2.24s 
+[SCRAPE].. ◆ https://elevategreat.co.uk/our-mission/                           
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://elevategreat.co.uk/our-mission/                           
+| ✓ | ⏱: 2.34s 
+[FETCH]... ↓ https://elevategreat.co.uk/our-people/                            
+| ✓ | ⏱: 1.51s 
+[SCRAPE].. ◆ https://elevategreat.co.uk/our-people/                            
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://elevategreat.co.uk/our-people/                            
+| ✓ | ⏱: 1.69s 
+[FETCH]... ↓ https://elevategreat.co.uk/our-work/                              
+| ✓ | ⏱: 1.43s 
+[SCRAPE].. ◆ https://elevategreat.co.uk/our-work/                              
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://elevategreat.co.uk/our-work/                              
+| ✓ | ⏱: 1.52s 
+[FETCH]... ↓ https://elevategreat.co.uk/partner-with-us/                       
+| ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://elevategreat.co.uk/partner-with-us/                       
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://elevategreat.co.uk/partner-with-us/                       
+| ✓ | ⏱: 1.40s 
+[FETCH]... ↓ https://elevategreat.co.uk/what-we-do/                            
+| ✓ | ⏱: 1.77s 
+[SCRAPE].. ◆ https://elevategreat.co.uk/what-we-do/                            
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://elevategreat.co.uk/what-we-do/                            
+| ✓ | ⏱: 1.84s 
+[25/119] id 4755 pages=9 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049846          | ✓ | ⏱: 3.83s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049846          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049846          | ✓ | ⏱: 4.00s 
+[FETCH]... ↓ https://nationalparks.co.uk/national-parks-charity-foundation/    
+| ✓ | ⏱: 9.98s 
+[SCRAPE].. ◆ https://nationalparks.co.uk/national-parks-charity-foundation/    
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://nationalparks.co.uk/national-parks-charity-foundation/    
+| ✓ | ⏱: 10.17s 
+[FETCH]... ↓ https://nationalparks.co.uk                                       
+| ✓ | ⏱: 4.96s 
+[SCRAPE].. ◆ https://nationalparks.co.uk                                       
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://nationalparks.co.uk                                       
+| ✓ | ⏱: 5.18s 
+[FETCH]... ↓ https://nationalparks.co.uk/                                      
+| ✓ | ⏱: 8.16s 
+[SCRAPE].. ◆ https://nationalparks.co.uk/                                      
+| ✓ | ⏱: 0.24s 
+[COMPLETE] ● https://nationalparks.co.uk/                                      
+| ✓ | ⏱: 8.48s 
+[FETCH]... ↓ https://nationalparks.co.uk/accessibility-statement/              
+| ✓ | ⏱: 3.74s 
+[SCRAPE].. ◆ https://nationalparks.co.uk/accessibility-statement/              
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://nationalparks.co.uk/accessibility-statement/              
+| ✓ | ⏱: 3.91s 
+[FETCH]... ↓ https://nationalparks.co.uk/cookie-policy/                        
+| ✓ | ⏱: 2.60s 
+[SCRAPE].. ◆ https://nationalparks.co.uk/cookie-policy/                        
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://nationalparks.co.uk/cookie-policy/                        
+| ✓ | ⏱: 2.76s 
+[FETCH]... ↓ https://nationalparks.co.uk/governance                            
+| ✓ | ⏱: 11.99s 
+[SCRAPE].. ◆ https://nationalparks.co.uk/governance                            
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://nationalparks.co.uk/governance                            
+| ✓ | ⏱: 12.15s 
+[FETCH]... ↓ https://nationalparks.co.uk/governance/agm-agendas-and-minutes/   
+| ✓ | ⏱: 8.40s 
+[SCRAPE].. ◆ https://nationalparks.co.uk/governance/agm-agendas-and-minutes/   
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://nationalparks.co.uk/governance/agm-agendas-and-minutes/   
+| ✓ | ⏱: 8.59s 
+[FETCH]... ↓ https://nationalparks.co.uk/governance/annual-reports/            
+| ✓ | ⏱: 1.91s 
+[SCRAPE].. ◆ https://nationalparks.co.uk/governance/annual-reports/            
+| ✓ | ⏱: 0.35s 
+[COMPLETE] ● https://nationalparks.co.uk/governance/annual-reports/            
+| ✓ | ⏱: 2.35s 
+[26/119] id 4759 pages=9 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049929          | ✓ | ⏱: 4.03s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049929          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC049929          | ✓ | ⏱: 4.17s 
+[FETCH]... ↓ https://thenairnfamilytrust.com                                   
+| ✓ | ⏱: 3.06s 
+[SCRAPE].. ◆ https://thenairnfamilytrust.com                                   
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://thenairnfamilytrust.com                                   
+| ✓ | ⏱: 3.13s 
+[FETCH]... ↓ https://thenairnfamilytrust.com/how-to-access-this-funding/       
+| ✓ | ⏱: 0.83s 
+[SCRAPE].. ◆ https://thenairnfamilytrust.com/how-to-access-this-funding/       
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://thenairnfamilytrust.com/how-to-access-this-funding/       
+| ✓ | ⏱: 0.91s 
+[FETCH]... ↓ https://thenairnfamilytrust.com/our-grants-2/                     
+| ✓ | ⏱: 0.68s 
+[SCRAPE].. ◆ https://thenairnfamilytrust.com/our-grants-2/                     
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://thenairnfamilytrust.com/our-grants-2/                     
+| ✓ | ⏱: 0.75s 
+[FETCH]... ↓ https://thenairnfamilytrust.com/reporting-for-grant-holders/      
+| ✓ | ⏱: 0.58s 
+[SCRAPE].. ◆ https://thenairnfamilytrust.com/reporting-for-grant-holders/      
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://thenairnfamilytrust.com/reporting-for-grant-holders/      
+| ✓ | ⏱: 0.66s 
+[FETCH]... ↓ https://thenairnfamilytrust.com/                                  
+| ✓ | ⏱: 0.76s 
+[SCRAPE].. ◆ https://thenairnfamilytrust.com/                                  
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://thenairnfamilytrust.com/                                  
+| ✓ | ⏱: 0.83s 
+[27/119] id 4765 pages=6 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050143          | ✓ | ⏱: 2.94s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050143          | ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050143          | ✓ | ⏱: 3.03s 
+[FETCH]... ↓ https://athleticstrustscotland.org.uk/                            
+| ✓ | ⏱: 6.38s 
+[SCRAPE].. ◆ https://athleticstrustscotland.org.uk/                            
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://athleticstrustscotland.org.uk/                            
+| ✓ | ⏱: 6.56s 
+[FETCH]... ↓ 
+https://athleticstrustscotland.org.uk/glasgow-2026-festival-fund-event/        
+| ✓ | ⏱: 2.51s 
+[SCRAPE].. ◆ 
+https://athleticstrustscotland.org.uk/glasgow-2026-festival-fund-event/        
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://athleticstrustscotland.org.uk/glasgow-2026-festival-fund-event/        
+| ✓ | ⏱: 2.73s 
+[FETCH]... ↓ https://athleticstrustscotland.org.uk                             
+| ✓ | ⏱: 3.12s 
+[SCRAPE].. ◆ https://athleticstrustscotland.org.uk                             
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://athleticstrustscotland.org.uk                             
+| ✓ | ⏱: 3.31s 
+[FETCH]... ↓ 
+https://athleticstrustscotland.org.uk/scottish-running-week-2026-is-back/      
+| ✓ | ⏱: 2.32s 
+[SCRAPE].. ◆ 
+https://athleticstrustscotland.org.uk/scottish-running-week-2026-is-back/      
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://athleticstrustscotland.org.uk/scottish-running-week-2026-is-back/      
+| ✓ | ⏱: 2.48s 
+[FETCH]... ↓ 
+https://athleticstrustscotland.org.uk/thats-a-wrap-for-scottish-running-week/  
+| ✓ | ⏱: 3.57s 
+[SCRAPE].. ◆ 
+https://athleticstrustscotland.org.uk/thats-a-wrap-for-scottish-running-week/  
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● 
+https://athleticstrustscotland.org.uk/thats-a-wrap-for-scottish-running-week/  
+| ✓ | ⏱: 3.78s 
+[28/119] id 4787 pages=6 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050186          | ✓ | ⏱: 2.90s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050186          | ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050186          | ✓ | ⏱: 3.09s 
+[FETCH]... ↓ https://deafscotstrust.wordpress.com/                             
+| ✓ | ⏱: 3.87s 
+[SCRAPE].. ◆ https://deafscotstrust.wordpress.com/                             
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://deafscotstrust.wordpress.com/                             
+| ✓ | ⏱: 4.05s 
+[FETCH]... ↓ https://deafscotstrust.wordpress.com/applying-to-deaf-scots-trust/
+| ✓ | ⏱: 2.42s 
+[SCRAPE].. ◆ https://deafscotstrust.wordpress.com/applying-to-deaf-scots-trust/
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://deafscotstrust.wordpress.com/applying-to-deaf-scots-trust/
+| ✓ | ⏱: 2.60s 
+[FETCH]... ↓ https://deafscotstrust.wordpress.com/easyfundraising/             
+| ✓ | ⏱: 2.56s 
+[SCRAPE].. ◆ https://deafscotstrust.wordpress.com/easyfundraising/             
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://deafscotstrust.wordpress.com/easyfundraising/             
+| ✓ | ⏱: 2.66s 
+[FETCH]... ↓ https://deafscotstrust.wordpress.com/projects-funded/             
+| ✓ | ⏱: 2.34s 
+[SCRAPE].. ◆ https://deafscotstrust.wordpress.com/projects-funded/             
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://deafscotstrust.wordpress.com/projects-funded/             
+| ✓ | ⏱: 2.46s 
+[FETCH]... ↓ https://deafscotstrust.wordpress.com                              
+| ✓ | ⏱: 2.21s 
+[SCRAPE].. ◆ https://deafscotstrust.wordpress.com                              
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://deafscotstrust.wordpress.com                              
+| ✓ | ⏱: 2.34s 
+[FETCH]... ↓ https://deafscotstrust.wordpress.com/?nb=1&share=facebook         
+| ✓ | ⏱: 2.61s 
+[SCRAPE].. ◆ https://deafscotstrust.wordpress.com/?nb=1&share=facebook         
+| ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://deafscotstrust.wordpress.com/?nb=1&share=facebook         
+| ✗ | ⏱: 2.64s 
+[FETCH]... ↓ https://deafscotstrust.wordpress.com/?nb=1&share=twitter          
+| ✓ | ⏱: 1.74s 
+[SCRAPE].. ◆ https://deafscotstrust.wordpress.com/?nb=1&share=twitter          
+| ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://deafscotstrust.wordpress.com/?nb=1&share=twitter          
+| ✗ | ⏱: 1.76s 
+[FETCH]... ↓ https://deafscotstrust.wordpress.com/who-we-are/                  
+| ✓ | ⏱: 2.50s 
+[SCRAPE].. ◆ https://deafscotstrust.wordpress.com/who-we-are/                  
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://deafscotstrust.wordpress.com/who-we-are/                  
+| ✓ | ⏱: 2.63s 
+[29/119] id 4792 pages=7 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050393          | ✓ | ⏱: 4.22s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050393          | ✓ | ⏱: 0.25s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050393          | ✓ | ⏱: 4.54s 
+[FETCH]... ↓ https://www.liamcolganmusicfund.com                               
+| ✓ | ⏱: 5.42s 
+[SCRAPE].. ◆ https://www.liamcolganmusicfund.com                               
+| ✓ | ⏱: 0.41s 
+[COMPLETE] ● https://www.liamcolganmusicfund.com                               
+| ✓ | ⏱: 6.25s 
+[FETCH]... ↓ https://www.liamcolganmusicfund.com/awards                        
+| ✓ | ⏱: 2.99s 
+[SCRAPE].. ◆ https://www.liamcolganmusicfund.com/awards                        
+| ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://www.liamcolganmusicfund.com/awards                        
+| ✓ | ⏱: 3.34s 
+[FETCH]... ↓ https://www.liamcolganmusicfund.com/copy-of-courses-training      
+| ✓ | ⏱: 2.99s 
+[SCRAPE].. ◆ https://www.liamcolganmusicfund.com/copy-of-courses-training      
+| ✓ | ⏱: 0.24s 
+[COMPLETE] ● https://www.liamcolganmusicfund.com/copy-of-courses-training      
+| ✓ | ⏱: 3.40s 
+[FETCH]... ↓ https://www.liamcolganmusicfund.com/courses-training              
+| ✓ | ⏱: 3.81s 
+[SCRAPE].. ◆ https://www.liamcolganmusicfund.com/courses-training              
+| ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://www.liamcolganmusicfund.com/courses-training              
+| ✓ | ⏱: 4.09s 
+[FETCH]... ↓ https://www.liamcolganmusicfund.com/join-us                       
+| ✓ | ⏱: 3.43s 
+[SCRAPE].. ◆ https://www.liamcolganmusicfund.com/join-us                       
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.liamcolganmusicfund.com/join-us                       
+| ✓ | ⏱: 3.78s 
+[FETCH]... ↓ https://www.liamcolganmusicfund.com/liam-s-story                  
+| ✓ | ⏱: 1.23s 
+[SCRAPE].. ◆ https://www.liamcolganmusicfund.com/liam-s-story                  
+| ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://www.liamcolganmusicfund.com/liam-s-story                  
+| ✓ | ⏱: 1.51s 
+[FETCH]... ↓ https://www.liamcolganmusicfund.com/mission-values                
+| ✓ | ⏱: 3.54s 
+[SCRAPE].. ◆ https://www.liamcolganmusicfund.com/mission-values                
+| ✓ | ⏱: 0.23s 
+[COMPLETE] ● https://www.liamcolganmusicfund.com/mission-values                
+| ✓ | ⏱: 3.94s 
+[FETCH]... ↓ https://www.liamcolganmusicfund.com/partners                      
+| ✓ | ⏱: 2.07s 
+[SCRAPE].. ◆ https://www.liamcolganmusicfund.com/partners                      
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://www.liamcolganmusicfund.com/partners                      
+| ✓ | ⏱: 2.40s 
+[30/119] id 4804 pages=9 src=register+website opps=4 stored=4 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050400          | ✓ | ⏱: 13.26s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050400          | ✓ | ⏱: 0.22s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050400          | ✓ | ⏱: 13.57s 
+[FETCH]... ↓ https://www.virginmoneyfoundation.org.uk                          
+| ✓ | ⏱: 3.34s 
+[SCRAPE].. ◆ https://www.virginmoneyfoundation.org.uk                          
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.virginmoneyfoundation.org.uk                          
+| ✓ | ⏱: 3.48s 
+[FETCH]... ↓ https://www.virginmoneyfoundation.org.uk/                         
+| ✓ | ⏱: 1.45s 
+[SCRAPE].. ◆ https://www.virginmoneyfoundation.org.uk/                         
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.virginmoneyfoundation.org.uk/                         
+| ✓ | ⏱: 1.56s 
+[FETCH]... ↓ https://www.virginmoneyfoundation.org.uk/cookies/                 
+| ✓ | ⏱: 1.52s 
+[SCRAPE].. ◆ https://www.virginmoneyfoundation.org.uk/cookies/                 
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.virginmoneyfoundation.org.uk/cookies/                 
+| ✓ | ⏱: 1.78s 
+[FETCH]... ↓ https://www.virginmoneyfoundation.org.uk/cookies/?ban=            
+| ✓ | ⏱: 2.08s 
+[SCRAPE].. ◆ https://www.virginmoneyfoundation.org.uk/cookies/?ban=            
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.virginmoneyfoundation.org.uk/cookies/?ban=            
+| ✓ | ⏱: 2.20s 
+[FETCH]... ↓ https://www.virginmoneyfoundation.org.uk/inspiring-stories/       
+| ✓ | ⏱: 2.18s 
+[SCRAPE].. ◆ https://www.virginmoneyfoundation.org.uk/inspiring-stories/       
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.virginmoneyfoundation.org.uk/inspiring-stories/       
+| ✓ | ⏱: 2.30s 
+[FETCH]... ↓ 
+https://www.virginmoneyfoundation.org.uk/our-programmes/digital-skills         
+| ✓ | ⏱: 3.79s 
+[SCRAPE].. ◆ 
+https://www.virginmoneyfoundation.org.uk/our-programmes/digital-skills         
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● 
+https://www.virginmoneyfoundation.org.uk/our-programmes/digital-skills         
+| ✓ | ⏱: 3.89s 
+[FETCH]... ↓ https://www.virginmoneyfoundation.org.uk/your-resources/          
+| ✓ | ⏱: 2.85s 
+[SCRAPE].. ◆ https://www.virginmoneyfoundation.org.uk/your-resources/          
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.virginmoneyfoundation.org.uk/your-resources/          
+| ✓ | ⏱: 3.42s 
+[31/119] id 4806 pages=8 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050502          | ✓ | ⏱: 6.72s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050502          | ✓ | ⏱: 0.11s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050502          | ✓ | ⏱: 6.89s 
+[FETCH]... ↓ https://tbftrust.org/                                             
+| ✓ | ⏱: 8.95s 
+[SCRAPE].. ◆ https://tbftrust.org/                                             
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://tbftrust.org/                                             
+| ✓ | ⏱: 9.09s 
+[32/119] id 4815 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050597          | ✓ | ⏱: 6.51s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050597          | ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050597          | ✓ | ⏱: 6.68s 
+[FETCH]... ↓ https://www.robertson.co.uk                                       
+| ✓ | ⏱: 3.55s 
+[SCRAPE].. ◆ https://www.robertson.co.uk                                       
+| ✓ | ⏱: 0.54s 
+[COMPLETE] ● https://www.robertson.co.uk                                       
+| ✓ | ⏱: 4.16s 
+[FETCH]... ↓ https://www.robertson.co.uk/careers/our-application-process       
+| ✓ | ⏱: 1.84s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/careers/our-application-process       
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://www.robertson.co.uk/careers/our-application-process       
+| ✓ | ⏱: 2.09s 
+[FETCH]... ↓ https://www.robertson.co.uk/                                      
+| ✓ | ⏱: 1.30s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/                                      
+| ✓ | ⏱: 0.26s 
+[COMPLETE] ● https://www.robertson.co.uk/                                      
+| ✓ | ⏱: 1.62s 
+[FETCH]... ↓ https://www.robertson.co.uk/affordable-housing                    
+| ✓ | ⏱: 1.67s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/affordable-housing                    
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● https://www.robertson.co.uk/affordable-housing                    
+| ✓ | ⏱: 1.88s 
+[FETCH]... ↓ https://www.robertson.co.uk/careers/internship-programme          
+| ✓ | ⏱: 1.69s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/careers/internship-programme          
+| ✓ | ⏱: 0.21s 
+[COMPLETE] ● https://www.robertson.co.uk/careers/internship-programme          
+| ✓ | ⏱: 1.97s 
+[FETCH]... ↓ https://www.robertson.co.uk/careers/trainee-programmes            
+| ✓ | ⏱: 1.91s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/careers/trainee-programmes            
+| ✓ | ⏱: 0.29s 
+[COMPLETE] ● https://www.robertson.co.uk/careers/trainee-programmes            
+| ✓ | ⏱: 2.26s 
+[FETCH]... ↓ 
+https://www.robertson.co.uk/case-study/bradford-royal-infirmary-endoscopy-unit 
+| ✓ | ⏱: 1.91s 
+[SCRAPE].. ◆ 
+https://www.robertson.co.uk/case-study/bradford-royal-infirmary-endoscopy-unit 
+| ✓ | ⏱: 0.38s 
+[COMPLETE] ● 
+https://www.robertson.co.uk/case-study/bradford-royal-infirmary-endoscopy-unit 
+| ✓ | ⏱: 2.34s 
+[FETCH]... ↓ https://www.robertson.co.uk/case-study/kings-theatre-edinburgh    
+| ✓ | ⏱: 2.02s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/case-study/kings-theatre-edinburgh    
+| ✓ | ⏱: 0.31s 
+[COMPLETE] ● https://www.robertson.co.uk/case-study/kings-theatre-edinburgh    
+| ✓ | ⏱: 2.40s 
+[33/119] id 4828 pages=9 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050660          | ✓ | ⏱: 4.45s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050660          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050660          | ✓ | ⏱: 4.58s 
+[FETCH]... ↓ https://www.essentiafoundation.org.uk/                            
+| ✓ | ⏱: 9.77s 
+[SCRAPE].. ◆ https://www.essentiafoundation.org.uk/                            
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.essentiafoundation.org.uk/                            
+| ✓ | ⏱: 10.00s 
+[FETCH]... ↓ https://www.essentiafoundation.org.uk                             
+| ✓ | ⏱: 1.89s 
+[SCRAPE].. ◆ https://www.essentiafoundation.org.uk                             
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.essentiafoundation.org.uk                             
+| ✓ | ⏱: 2.28s 
+[34/119] id 4833 pages=3 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050684          | ✓ | ⏱: 6.52s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050684          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050684          | ✓ | ⏱: 6.66s 
+[FETCH]... ↓ https://www.dalmellingtontrust.org                                
+| ✓ | ⏱: 8.96s 
+[SCRAPE].. ◆ https://www.dalmellingtontrust.org                                
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.dalmellingtontrust.org                                
+| ✓ | ⏱: 9.07s 
+[35/119] id 4835 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050716          | ✓ | ⏱: 6.07s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050716          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050716          | ✓ | ⏱: 6.21s 
+[FETCH]... ↓ https://www.nhscharitiestogether.co.uk                            
+| ✓ | ⏱: 4.21s 
+[SCRAPE].. ◆ https://www.nhscharitiestogether.co.uk                            
+| ✓ | ⏱: 0.21s 
+[COMPLETE] ● https://www.nhscharitiestogether.co.uk                            
+| ✓ | ⏱: 4.48s 
+[36/119] id 4837 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050811          | ✓ | ⏱: 4.17s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050811          | ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050811          | ✓ | ⏱: 4.31s 
+[FETCH]... ↓ https://www.agneshunter.org.uk/contact-us/                        
+| ✓ | ⏱: 5.80s 
+[SCRAPE].. ◆ https://www.agneshunter.org.uk/contact-us/                        
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.agneshunter.org.uk/contact-us/                        
+| ✓ | ⏱: 5.94s 
+[FETCH]... ↓ https://www.agneshunter.org.uk/applications/                      
+| ✓ | ⏱: 5.99s 
+[SCRAPE].. ◆ https://www.agneshunter.org.uk/applications/                      
+| ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://www.agneshunter.org.uk/applications/                      
+| ✓ | ⏱: 6.29s 
+[FETCH]... ↓ https://www.agneshunter.org.uk/recent-grants/                     
+| ✓ | ⏱: 3.14s 
+[SCRAPE].. ◆ https://www.agneshunter.org.uk/recent-grants/                     
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.agneshunter.org.uk/recent-grants/                     
+| ✓ | ⏱: 3.34s 
+[FETCH]... ↓ https://www.agneshunter.org.uk/what-we-fund/                      
+| ✓ | ⏱: 11.92s 
+[SCRAPE].. ◆ https://www.agneshunter.org.uk/what-we-fund/                      
+| ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://www.agneshunter.org.uk/what-we-fund/                      
+| ✓ | ⏱: 12.23s 
+[FETCH]... ↓ https://www.agneshunter.org.uk/                                   
+| ✓ | ⏱: 1.56s 
+[SCRAPE].. ◆ https://www.agneshunter.org.uk/                                   
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.agneshunter.org.uk/                                   
+| ✓ | ⏱: 1.69s 
+[FETCH]... ↓ https://www.agneshunter.org.uk/case-studies/                      
+| ✓ | ⏱: 2.74s 
+[SCRAPE].. ◆ https://www.agneshunter.org.uk/case-studies/                      
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.agneshunter.org.uk/case-studies/                      
+| ✓ | ⏱: 2.87s 
+[FETCH]... ↓ https://www.agneshunter.org.uk/resources/                         
+| ✓ | ⏱: 2.87s 
+[SCRAPE].. ◆ https://www.agneshunter.org.uk/resources/                         
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.agneshunter.org.uk/resources/                         
+| ✓ | ⏱: 3.55s 
+[FETCH]... ↓ https://www.agneshunter.org.uk/restrictions/                      
+| ✓ | ⏱: 4.36s 
+[SCRAPE].. ◆ https://www.agneshunter.org.uk/restrictions/                      
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.agneshunter.org.uk/restrictions/                      
+| ✓ | ⏱: 4.73s 
+[37/119] id 4844 pages=9 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050822          | ✓ | ⏱: 3.15s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050822          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050822          | ✓ | ⏱: 3.31s 
+[FETCH]... ↓ https://www.paristamen.org.uk                                     
+| ✓ | ⏱: 3.14s 
+[SCRAPE].. ◆ https://www.paristamen.org.uk                                     
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.paristamen.org.uk                                     
+| ✓ | ⏱: 3.27s 
+[FETCH]... ↓ https://www.paristamen.org.uk/40-years-of-paristamen-grantmaking/ 
+| ✓ | ⏱: 1.28s 
+[SCRAPE].. ◆ https://www.paristamen.org.uk/40-years-of-paristamen-grantmaking/ 
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.paristamen.org.uk/40-years-of-paristamen-grantmaking/ 
+| ✓ | ⏱: 1.37s 
+[FETCH]... ↓ https://www.paristamen.org.uk/grant-making/                       
+| ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ https://www.paristamen.org.uk/grant-making/                       
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.paristamen.org.uk/grant-making/                       
+| ✓ | ⏱: 1.26s 
+[FETCH]... ↓ https://www.paristamen.org.uk/grant-making/40years/               
+| ✓ | ⏱: 1.29s 
+[SCRAPE].. ◆ https://www.paristamen.org.uk/grant-making/40years/               
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.paristamen.org.uk/grant-making/40years/               
+| ✓ | ⏱: 1.39s 
+[FETCH]... ↓ https://www.paristamen.org.uk/grant-making/funds/                 
+| ✓ | ⏱: 1.16s 
+[SCRAPE].. ◆ https://www.paristamen.org.uk/grant-making/funds/                 
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.paristamen.org.uk/grant-making/funds/                 
+| ✓ | ⏱: 1.25s 
+[FETCH]... ↓ https://www.paristamen.org.uk/grant-making/large-grants/          
+| ✓ | ⏱: 1.19s 
+[SCRAPE].. ◆ https://www.paristamen.org.uk/grant-making/large-grants/          
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.paristamen.org.uk/grant-making/large-grants/          
+| ✓ | ⏱: 1.29s 
+[FETCH]... ↓ https://www.paristamen.org.uk/grant-making/planned-grant-making/  
+| ✓ | ⏱: 2.11s 
+[SCRAPE].. ◆ https://www.paristamen.org.uk/grant-making/planned-grant-making/  
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.paristamen.org.uk/grant-making/planned-grant-making/  
+| ✓ | ⏱: 2.25s 
+[FETCH]... ↓ https://www.paristamen.org.uk/how-to-apply/                       
+| ✓ | ⏱: 1.74s 
+[SCRAPE].. ◆ https://www.paristamen.org.uk/how-to-apply/                       
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.paristamen.org.uk/how-to-apply/                       
+| ✓ | ⏱: 1.87s 
+[38/119] id 4845 pages=9 src=register+website opps=3 stored=3 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050847          | ✓ | ⏱: 3.22s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050847          | ✓ | ⏱: 0.11s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC050847          | ✓ | ⏱: 3.40s 
+[FETCH]... ↓ https://www.tighsgoiletrust.org.uk                                
+| ✓ | ⏱: 3.22s 
+[SCRAPE].. ◆ https://www.tighsgoiletrust.org.uk                                
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.tighsgoiletrust.org.uk                                
+| ✓ | ⏱: 3.35s 
+[FETCH]... ↓ https://www.tighsgoiletrust.org.uk/                               
+| ✓ | ⏱: 1.17s 
+[SCRAPE].. ◆ https://www.tighsgoiletrust.org.uk/                               
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.tighsgoiletrust.org.uk/                               
+| ✓ | ⏱: 1.31s 
+[FETCH]... ↓ https://www.tighsgoiletrust.org.uk/facebook/                      
+| ✓ | ⏱: 12.72s 
+[SCRAPE].. ◆ https://www.tighsgoiletrust.org.uk/facebook/                      
+| ✓ | ⏱: 0.23s 
+[COMPLETE] ● https://www.tighsgoiletrust.org.uk/facebook/                      
+| ✓ | ⏱: 13.03s 
+[39/119] id 4849 pages=4 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051041          | ✓ | ⏱: 4.98s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051041          | ✓ | ⏱: 0.23s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051041          | ✓ | ⏱: 5.30s 
+[ANTIBOT]. ℹ https://www.kinrossrotary.org                      | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kinrossrotary.org/
+Call log:
+  - navigating to "https://www.kinrossrotary.org/", waiting until 
+"domcontentloaded"
+ 
+[ERROR]... × https://www.kinrossrotary.org                      | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kinrossrotary.org/
+Call log:
+  - navigating to "https://www.kinrossrotary.org/", waiting until 
+"domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[40/119] id 4875 pages=1 src=register opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051145          | ✓ | ⏱: 4.56s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051145          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051145          | ✓ | ⏱: 5.38s 
+[FETCH]... ↓ https://www.inverclydecommunityfund.org                           
+| ✓ | ⏱: 3.04s 
+[SCRAPE].. ◆ https://www.inverclydecommunityfund.org                           
+| ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://www.inverclydecommunityfund.org                           
+| ✓ | ⏱: 3.34s 
+[FETCH]... ↓ https://www.inverclydecommunityfund.org/1st-gourock-scouts        
+| ✓ | ⏱: 1.20s 
+[SCRAPE].. ◆ https://www.inverclydecommunityfund.org/1st-gourock-scouts        
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://www.inverclydecommunityfund.org/1st-gourock-scouts        
+| ✓ | ⏱: 1.47s 
+[FETCH]... ↓ 
+https://www.inverclydecommunityfund.org/caddlehill-allotment-gardens           
+| ✓ | ⏱: 1.58s 
+[SCRAPE].. ◆ 
+https://www.inverclydecommunityfund.org/caddlehill-allotment-gardens           
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.inverclydecommunityfund.org/caddlehill-allotment-gardens           
+| ✓ | ⏱: 1.82s 
+[FETCH]... ↓ https://www.inverclydecommunityfund.org/case-studies              
+| ✓ | ⏱: 2.12s 
+[SCRAPE].. ◆ https://www.inverclydecommunityfund.org/case-studies              
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.inverclydecommunityfund.org/case-studies              
+| ✓ | ⏱: 2.45s 
+[FETCH]... ↓ https://www.inverclydecommunityfund.org/green-tangerine-cic       
+| ✓ | ⏱: 1.34s 
+[SCRAPE].. ◆ https://www.inverclydecommunityfund.org/green-tangerine-cic       
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.inverclydecommunityfund.org/green-tangerine-cic       
+| ✓ | ⏱: 1.58s 
+[FETCH]... ↓ 
+https://www.inverclydecommunityfund.org/greenock-morton-community-trust        
+| ✓ | ⏱: 1.84s 
+[SCRAPE].. ◆ 
+https://www.inverclydecommunityfund.org/greenock-morton-community-trust        
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.inverclydecommunityfund.org/greenock-morton-community-trust        
+| ✓ | ⏱: 2.05s 
+[FETCH]... ↓ https://www.inverclydecommunityfund.org/inver-lotto               
+| ✓ | ⏱: 1.74s 
+[SCRAPE].. ◆ https://www.inverclydecommunityfund.org/inver-lotto               
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.inverclydecommunityfund.org/inver-lotto               
+| ✓ | ⏱: 1.91s 
+[FETCH]... ↓ https://www.inverclydecommunityfund.org/inverclyde-shed           
+| ✓ | ⏱: 1.57s 
+[SCRAPE].. ◆ https://www.inverclydecommunityfund.org/inverclyde-shed           
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.inverclydecommunityfund.org/inverclyde-shed           
+| ✓ | ⏱: 1.78s 
+[41/119] id 4883 pages=9 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051288          | ✓ | ⏱: 3.46s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051288          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051288          | ✓ | ⏱: 3.60s 
+[FETCH]... ↓ https://www.therobtrust.org                                       
+| ✓ | ⏱: 6.47s 
+[SCRAPE].. ◆ https://www.therobtrust.org                                       
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.therobtrust.org                                       
+| ✓ | ⏱: 6.54s 
+[42/119] id 4898 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051300          | ✓ | ⏱: 8.35s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051300          | ✓ | ⏱: 0.20s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051300          | ✓ | ⏱: 8.61s 
+[FETCH]... ↓ https://mcoe.org.uk                                               
+| ✓ | ⏱: 10.10s 
+[SCRAPE].. ◆ https://mcoe.org.uk                                               
+| ✓ | ⏱: 0.29s 
+[COMPLETE] ● https://mcoe.org.uk                                               
+| ✓ | ⏱: 10.51s 
+[43/119] id 4903 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051519          | ✓ | ⏱: 5.35s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051519          | ✓ | ⏱: 0.13s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051519          | ✓ | ⏱: 5.58s 
+[FETCH]... ↓ https://www.nmcharity.org.uk                                      
+| ✓ | ⏱: 8.47s 
+[SCRAPE].. ◆ https://www.nmcharity.org.uk                                      
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://www.nmcharity.org.uk                                      
+| ✓ | ⏱: 8.66s 
+[44/119] id 4920 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051673          | ✓ | ⏱: 3.70s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051673          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051673          | ✓ | ⏱: 3.82s 
+[FETCH]... ↓ https://www.poundlandfoundation.org.uk                            
+| ✓ | ⏱: 4.22s 
+[SCRAPE].. ◆ https://www.poundlandfoundation.org.uk                            
+| ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://www.poundlandfoundation.org.uk                            
+| ✓ | ⏱: 4.42s 
+[45/119] id 4941 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051703          | ✓ | ⏱: 9.39s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051703          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051703          | ✓ | ⏱: 9.54s 
+[FETCH]... ↓ https://www.themacleanbrothers.com/tmf/the-maclean-foundation     
+| ✓ | ⏱: 3.33s 
+[SCRAPE].. ◆ https://www.themacleanbrothers.com/tmf/the-maclean-foundation     
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.themacleanbrothers.com/tmf/the-maclean-foundation     
+| ✓ | ⏱: 3.50s 
+[FETCH]... ↓ https://www.themacleanbrothers.com/                               
+| ✓ | ⏱: 4.68s 
+[SCRAPE].. ◆ https://www.themacleanbrothers.com/                               
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.themacleanbrothers.com/                               
+| ✓ | ⏱: 4.98s 
+[FETCH]... ↓ https://www.themacleanbrothers.com/email                          
+| ✓ | ⏱: 3.36s 
+[SCRAPE].. ◆ https://www.themacleanbrothers.com/email                          
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.themacleanbrothers.com/email                          
+| ✓ | ⏱: 3.57s 
+[FETCH]... ↓ https://www.themacleanbrothers.com/shipping-returns               
+| ✓ | ⏱: 3.17s 
+[SCRAPE].. ◆ https://www.themacleanbrothers.com/shipping-returns               
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.themacleanbrothers.com/shipping-returns               
+| ✓ | ⏱: 3.31s 
+[FETCH]... ↓ https://www.themacleanbrothers.com/tmb/challenges                 
+| ✓ | ⏱: 2.04s 
+[SCRAPE].. ◆ https://www.themacleanbrothers.com/tmb/challenges                 
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://www.themacleanbrothers.com/tmb/challenges                 
+| ✓ | ⏱: 2.33s 
+[FETCH]... ↓ https://www.themacleanbrothers.com/tmb/sponsors                   
+| ✓ | ⏱: 1.44s 
+[SCRAPE].. ◆ https://www.themacleanbrothers.com/tmb/sponsors                   
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.themacleanbrothers.com/tmb/sponsors                   
+| ✓ | ⏱: 1.70s 
+[46/119] id 4943 pages=7 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051818          | ✓ | ⏱: 2.94s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051818          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC051818          | ✓ | ⏱: 3.08s 
+[FETCH]... ↓ https://www.buddhistsupportfund.org                               
+| ✓ | ⏱: 13.56s 
+[SCRAPE].. ◆ https://www.buddhistsupportfund.org                               
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://www.buddhistsupportfund.org                               
+| ✓ | ⏱: 13.85s 
+[FETCH]... ↓ https://www.buddhistsupportfund.org/                              
+| ✓ | ⏱: 5.11s 
+[SCRAPE].. ◆ https://www.buddhistsupportfund.org/                              
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.buddhistsupportfund.org/                              
+| ✓ | ⏱: 5.28s 
+[FETCH]... ↓ https://www.buddhistsupportfund.org/?page_id=548                  
+| ✓ | ⏱: 7.81s 
+[SCRAPE].. ◆ https://www.buddhistsupportfund.org/?page_id=548                  
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.buddhistsupportfund.org/?page_id=548                  
+| ✓ | ⏱: 7.95s 
+[FETCH]... ↓ https://www.buddhistsupportfund.org/author/inge/                  
+| ✓ | ⏱: 4.70s 
+[SCRAPE].. ◆ https://www.buddhistsupportfund.org/author/inge/                  
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.buddhistsupportfund.org/author/inge/                  
+| ✓ | ⏱: 4.88s 
+[FETCH]... ↓ https://www.buddhistsupportfund.org/author/senge/                 
+| ✓ | ⏱: 4.36s 
+[SCRAPE].. ◆ https://www.buddhistsupportfund.org/author/senge/                 
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.buddhistsupportfund.org/author/senge/                 
+| ✓ | ⏱: 4.52s 
+[FETCH]... ↓ https://www.buddhistsupportfund.org/category/africa/              
+| ✓ | ⏱: 4.97s 
+[SCRAPE].. ◆ https://www.buddhistsupportfund.org/category/africa/              
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.buddhistsupportfund.org/category/africa/              
+| ✓ | ⏱: 5.09s 
+[FETCH]... ↓ https://www.buddhistsupportfund.org/category/drolung-drc/         
+| ✓ | ⏱: 3.94s 
+[SCRAPE].. ◆ https://www.buddhistsupportfund.org/category/drolung-drc/         
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.buddhistsupportfund.org/category/drolung-drc/         
+| ✓ | ⏱: 4.12s 
+[FETCH]... ↓ https://www.buddhistsupportfund.org/cookie-policy/                
+| ✓ | ⏱: 4.10s 
+[SCRAPE].. ◆ https://www.buddhistsupportfund.org/cookie-policy/                
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.buddhistsupportfund.org/cookie-policy/                
+| ✓ | ⏱: 4.22s 
+[47/119] id 4957 pages=9 src=register+website opps=0 stored=0 replaced=0
+[ANTIBOT]. ℹ https://www.oscr.org.uk...details?number=SC052051  | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to 
+"https://www.oscr.org.uk/about-charities/search-the-register/charity-details?nu
+mber=SC052051", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.oscr.org.uk...details?number=SC052051  | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to 
+"https://www.oscr.org.uk/about-charities/search-the-register/charity-details?nu
+mber=SC052051", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[FETCH]... ↓ https://www.johnprestontrust.co.uk                                
+| ✓ | ⏱: 27.43s 
+[SCRAPE].. ◆ https://www.johnprestontrust.co.uk                                
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.johnprestontrust.co.uk                                
+| ✓ | ⏱: 27.54s 
+[FETCH]... ↓ https://www.johnprestontrust.co.uk/apply                          
+| ✓ | ⏱: 8.70s 
+[SCRAPE].. ◆ https://www.johnprestontrust.co.uk/apply                          
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.johnprestontrust.co.uk/apply                          
+| ✓ | ⏱: 8.78s 
+[FETCH]... ↓ https://www.johnprestontrust.co.uk/apply/                         
+| ✓ | ⏱: 2.43s 
+[SCRAPE].. ◆ https://www.johnprestontrust.co.uk/apply/                         
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.johnprestontrust.co.uk/apply/                         
+| ✓ | ⏱: 2.51s 
+[FETCH]... ↓ https://www.johnprestontrust.co.uk/grant-giving-policy            
+| ✓ | ⏱: 6.13s 
+[SCRAPE].. ◆ https://www.johnprestontrust.co.uk/grant-giving-policy            
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.johnprestontrust.co.uk/grant-giving-policy            
+| ✓ | ⏱: 6.23s 
+[FETCH]... ↓ https://www.johnprestontrust.co.uk/what-we-fund                   
+| ✓ | ⏱: 8.87s 
+[SCRAPE].. ◆ https://www.johnprestontrust.co.uk/what-we-fund                   
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.johnprestontrust.co.uk/what-we-fund                   
+| ✓ | ⏱: 8.98s 
+[FETCH]... ↓ https://www.johnprestontrust.co.uk/what-we-fund/                  
+| ✓ | ⏱: 4.85s 
+[SCRAPE].. ◆ https://www.johnprestontrust.co.uk/what-we-fund/                  
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.johnprestontrust.co.uk/what-we-fund/                  
+| ✓ | ⏱: 4.94s 
+[FETCH]... ↓ https://www.johnprestontrust.co.uk/                               
+| ✓ | ⏱: 3.45s 
+[SCRAPE].. ◆ https://www.johnprestontrust.co.uk/                               
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.johnprestontrust.co.uk/                               
+| ✓ | ⏱: 3.57s 
+[FETCH]... ↓ https://www.johnprestontrust.co.uk/home                           
+| ✓ | ⏱: 2.15s 
+[SCRAPE].. ◆ https://www.johnprestontrust.co.uk/home                           
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.johnprestontrust.co.uk/home                           
+| ✓ | ⏱: 2.25s 
+[48/119] id 4982 pages=8 src=website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052078          | ✓ | ⏱: 3.40s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052078          | ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052078          | ✓ | ⏱: 3.57s 
+[FETCH]... ↓ https://dunvegantrust.co.uk                                       
+| ✓ | ⏱: 4.14s 
+[SCRAPE].. ◆ https://dunvegantrust.co.uk                                       
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://dunvegantrust.co.uk                                       
+| ✓ | ⏱: 4.27s 
+[49/119] id 4985 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052172          | ✓ | ⏱: 3.62s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052172          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052172          | ✓ | ⏱: 3.80s 
+[FETCH]... ↓ https://www.landaid.org/                                          
+| ✓ | ⏱: 3.98s 
+[SCRAPE].. ◆ https://www.landaid.org/                                          
+| ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://www.landaid.org/                                          
+| ✓ | ⏱: 4.24s 
+[50/119] id 4992 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052225          | ✓ | ⏱: 5.00s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052225          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052225          | ✓ | ⏱: 5.15s 
+[FETCH]... ↓ https://www.thenewarktrust.org                                    
+| ✓ | ⏱: 8.91s 
+[SCRAPE].. ◆ https://www.thenewarktrust.org                                    
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://www.thenewarktrust.org                                    
+| ✓ | ⏱: 9.09s 
+[51/119] id 5000 pages=2 src=register+website opps=3 stored=3 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052406          | ✓ | ⏱: 3.99s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052406          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052406          | ✓ | ⏱: 4.13s 
+[FETCH]... ↓ https://www.utilitagiving.org                                     
+| ✓ | ⏱: 4.31s 
+[SCRAPE].. ◆ https://www.utilitagiving.org                                     
+| ✓ | ⏱: 0.22s 
+[COMPLETE] ● https://www.utilitagiving.org                                     
+| ✓ | ⏱: 4.60s 
+[FETCH]... ↓ https://www.utilitagiving.org/                                    
+| ✓ | ⏱: 1.63s 
+[SCRAPE].. ◆ https://www.utilitagiving.org/                                    
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.utilitagiving.org/                                    
+| ✓ | ⏱: 1.94s 
+[FETCH]... ↓ https://www.utilitagiving.org/bettys-story                        
+| ✓ | ⏱: 1.73s 
+[SCRAPE].. ◆ https://www.utilitagiving.org/bettys-story                        
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.utilitagiving.org/bettys-story                        
+| ✓ | ⏱: 1.87s 
+[FETCH]... ↓ https://www.utilitagiving.org/complaints-and-compliments          
+| ✓ | ⏱: 2.17s 
+[SCRAPE].. ◆ https://www.utilitagiving.org/complaints-and-compliments          
+| ✓ | ⏱: 0.28s 
+[COMPLETE] ● https://www.utilitagiving.org/complaints-and-compliments          
+| ✓ | ⏱: 2.55s 
+[FETCH]... ↓ https://www.utilitagiving.org/octa-partnerships                   
+| ✓ | ⏱: 2.66s 
+[SCRAPE].. ◆ https://www.utilitagiving.org/octa-partnerships                   
+| ✓ | ⏱: 0.32s 
+[COMPLETE] ● https://www.utilitagiving.org/octa-partnerships                   
+| ✓ | ⏱: 3.06s 
+[FETCH]... ↓ https://www.utilitagiving.org/octa-tyo                            
+| ✓ | ⏱: 2.59s 
+[SCRAPE].. ◆ https://www.utilitagiving.org/octa-tyo                            
+| ✓ | ⏱: 0.76s 
+[COMPLETE] ● https://www.utilitagiving.org/octa-tyo                            
+| ✓ | ⏱: 3.49s 
+[FETCH]... ↓ https://www.utilitagiving.org/one-call-thats-all                  
+| ✓ | ⏱: 2.63s 
+[SCRAPE].. ◆ https://www.utilitagiving.org/one-call-thats-all                  
+| ✓ | ⏱: 0.35s 
+[COMPLETE] ● https://www.utilitagiving.org/one-call-thats-all                  
+| ✓ | ⏱: 3.10s 
+[FETCH]... ↓ https://www.utilitagiving.org/one-call-thats-all-2                
+| ✓ | ⏱: 3.29s 
+[SCRAPE].. ◆ https://www.utilitagiving.org/one-call-thats-all-2                
+| ✓ | ⏱: 0.43s 
+[COMPLETE] ● https://www.utilitagiving.org/one-call-thats-all-2                
+| ✓ | ⏱: 3.82s 
+[52/119] id 5017 pages=9 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052414          | ✓ | ⏱: 3.37s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052414          | ✓ | ⏱: 0.17s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052414          | ✓ | ⏱: 3.64s 
+[ANTIBOT]. ℹ http://www.orkney.rotary1010.org/                  | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at 
+http://www.orkney.rotary1010.org/
+Call log:
+  - navigating to "http://www.orkney.rotary1010.org/", waiting until 
+"domcontentloaded"
+ 
+[ERROR]... × http://www.orkney.rotary1010.org/                  | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at 
+http://www.orkney.rotary1010.org/
+Call log:
+  - navigating to "http://www.orkney.rotary1010.org/", waiting until 
+"domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[53/119] id 5019 pages=1 src=register opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052475          | ✓ | ⏱: 2.49s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052475          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052475          | ✓ | ⏱: 2.66s 
+[FETCH]... ↓ https://maatenvironmentfund.org/                                  
+| ✓ | ⏱: 4.31s 
+[SCRAPE].. ◆ https://maatenvironmentfund.org/                                  
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://maatenvironmentfund.org/                                  
+| ✓ | ⏱: 4.42s 
+[FETCH]... ↓ https://maatenvironmentfund.org/grant-beneficiaries               
+| ✓ | ⏱: 6.67s 
+[SCRAPE].. ◆ https://maatenvironmentfund.org/grant-beneficiaries               
+| ✓ | ⏱: 0.22s 
+[COMPLETE] ● https://maatenvironmentfund.org/grant-beneficiaries               
+| ✓ | ⏱: 6.97s 
+[FETCH]... ↓ https://maatenvironmentfund.org/grant-beneficiaries/              
+| ✓ | ⏱: 3.86s 
+[SCRAPE].. ◆ https://maatenvironmentfund.org/grant-beneficiaries/              
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://maatenvironmentfund.org/grant-beneficiaries/              
+| ✓ | ⏱: 4.06s 
+[FETCH]... ↓ https://maatenvironmentfund.org/mentoring                         
+| ✓ | ⏱: 3.80s 
+[SCRAPE].. ◆ https://maatenvironmentfund.org/mentoring                         
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://maatenvironmentfund.org/mentoring                         
+| ✓ | ⏱: 3.95s 
+[FETCH]... ↓ https://maatenvironmentfund.org/mentoring/                        
+| ✓ | ⏱: 3.09s 
+[SCRAPE].. ◆ https://maatenvironmentfund.org/mentoring/                        
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://maatenvironmentfund.org/mentoring/                        
+| ✓ | ⏱: 3.17s 
+[FETCH]... ↓ https://maatenvironmentfund.org/social-impact-investments         
+| ✓ | ⏱: 4.08s 
+[SCRAPE].. ◆ https://maatenvironmentfund.org/social-impact-investments         
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://maatenvironmentfund.org/social-impact-investments         
+| ✓ | ⏱: 4.21s 
+[FETCH]... ↓ https://maatenvironmentfund.org/social-impact-investments/        
+| ✓ | ⏱: 3.76s 
+[SCRAPE].. ◆ https://maatenvironmentfund.org/social-impact-investments/        
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://maatenvironmentfund.org/social-impact-investments/        
+| ✓ | ⏱: 3.95s 
+[54/119] id 5029 pages=8 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052493          | ✓ | ⏱: 4.64s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052493          | ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052493          | ✓ | ⏱: 4.77s 
+[FETCH]... ↓ https://www.robertson.co.uk                                       
+| ✓ | ⏱: 2.85s 
+[SCRAPE].. ◆ https://www.robertson.co.uk                                       
+| ✓ | ⏱: 0.53s 
+[COMPLETE] ● https://www.robertson.co.uk                                       
+| ✓ | ⏱: 3.46s 
+[FETCH]... ↓ https://www.robertson.co.uk/careers/our-application-process       
+| ✓ | ⏱: 2.32s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/careers/our-application-process       
+| ✓ | ⏱: 0.21s 
+[COMPLETE] ● https://www.robertson.co.uk/careers/our-application-process       
+| ✓ | ⏱: 2.58s 
+[FETCH]... ↓ https://www.robertson.co.uk/                                      
+| ✓ | ⏱: 1.64s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/                                      
+| ✓ | ⏱: 0.30s 
+[COMPLETE] ● https://www.robertson.co.uk/                                      
+| ✓ | ⏱: 1.99s 
+[FETCH]... ↓ https://www.robertson.co.uk/affordable-housing                    
+| ✓ | ⏱: 1.49s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/affordable-housing                    
+| ✓ | ⏱: 0.39s 
+[COMPLETE] ● https://www.robertson.co.uk/affordable-housing                    
+| ✓ | ⏱: 1.93s 
+[FETCH]... ↓ https://www.robertson.co.uk/careers/internship-programme          
+| ✓ | ⏱: 2.01s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/careers/internship-programme          
+| ✓ | ⏱: 0.28s 
+[COMPLETE] ● https://www.robertson.co.uk/careers/internship-programme          
+| ✓ | ⏱: 2.35s 
+[FETCH]... ↓ https://www.robertson.co.uk/careers/trainee-programmes            
+| ✓ | ⏱: 1.52s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/careers/trainee-programmes            
+| ✓ | ⏱: 0.29s 
+[COMPLETE] ● https://www.robertson.co.uk/careers/trainee-programmes            
+| ✓ | ⏱: 1.86s 
+[FETCH]... ↓ 
+https://www.robertson.co.uk/case-study/bradford-royal-infirmary-endoscopy-unit 
+| ✓ | ⏱: 1.45s 
+[SCRAPE].. ◆ 
+https://www.robertson.co.uk/case-study/bradford-royal-infirmary-endoscopy-unit 
+| ✓ | ⏱: 0.26s 
+[COMPLETE] ● 
+https://www.robertson.co.uk/case-study/bradford-royal-infirmary-endoscopy-unit 
+| ✓ | ⏱: 1.76s 
+[FETCH]... ↓ https://www.robertson.co.uk/case-study/kings-theatre-edinburgh    
+| ✓ | ⏱: 1.35s 
+[SCRAPE].. ◆ https://www.robertson.co.uk/case-study/kings-theatre-edinburgh    
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.robertson.co.uk/case-study/kings-theatre-edinburgh    
+| ✓ | ⏱: 1.59s 
+[55/119] id 5030 pages=9 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052589          | ✓ | ⏱: 3.71s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052589          | ✓ | ⏱: 0.14s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052589          | ✓ | ⏱: 3.92s 
+[FETCH]... ↓ https://www.petsfoundation.co.uk/                                 
+| ✓ | ⏱: 4.42s 
+[SCRAPE].. ◆ https://www.petsfoundation.co.uk/                                 
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.petsfoundation.co.uk/                                 
+| ✓ | ⏱: 4.54s 
+[FETCH]... ↓ https://www.petsfoundation.co.uk/fundraising-complaints-procedure 
+| ✓ | ⏱: 2.65s 
+[SCRAPE].. ◆ https://www.petsfoundation.co.uk/fundraising-complaints-procedure 
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.petsfoundation.co.uk/fundraising-complaints-procedure 
+| ✓ | ⏱: 2.73s 
+[FETCH]... ↓ https://www.petsfoundation.co.uk/grant-programme                  
+| ✓ | ⏱: 4.80s 
+[SCRAPE].. ◆ https://www.petsfoundation.co.uk/grant-programme                  
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.petsfoundation.co.uk/grant-programme                  
+| ✓ | ⏱: 4.90s 
+[FETCH]... ↓ 
+https://www.petsfoundation.co.uk/grant-programme/preventing-pet-relinquishment 
+| ✓ | ⏱: 4.95s 
+[SCRAPE].. ◆ 
+https://www.petsfoundation.co.uk/grant-programme/preventing-pet-relinquishment 
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.petsfoundation.co.uk/grant-programme/preventing-pet-relinquishment 
+| ✓ | ⏱: 5.09s 
+[FETCH]... ↓ 
+https://www.petsfoundation.co.uk/grant-programme/rescue-and-rehoming           
+| ✓ | ⏱: 4.12s 
+[SCRAPE].. ◆ 
+https://www.petsfoundation.co.uk/grant-programme/rescue-and-rehoming           
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.petsfoundation.co.uk/grant-programme/rescue-and-rehoming           
+| ✓ | ⏱: 4.23s 
+[FETCH]... ↓ https://www.petsfoundation.co.uk                                  
+| ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://www.petsfoundation.co.uk                                  
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.petsfoundation.co.uk                                  
+| ✓ | ⏱: 1.43s 
+[FETCH]... ↓ https://www.petsfoundation.co.uk/adoption-centres                 
+| ✓ | ⏱: 3.61s 
+[SCRAPE].. ◆ https://www.petsfoundation.co.uk/adoption-centres                 
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● https://www.petsfoundation.co.uk/adoption-centres                 
+| ✓ | ⏱: 3.80s 
+[FETCH]... ↓ https://www.petsfoundation.co.uk/basket/                          
+| ✓ | ⏱: 6.07s 
+[SCRAPE].. ◆ https://www.petsfoundation.co.uk/basket/                          
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.petsfoundation.co.uk/basket/                          
+| ✓ | ⏱: 6.22s 
+[56/119] id 5042 pages=9 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052685          | ✓ | ⏱: 3.53s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052685          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052685          | ✓ | ⏱: 3.68s 
+[FETCH]... ↓ https://www.highlandsocietyoflondon.org                           
+| ✓ | ⏱: 7.52s 
+[SCRAPE].. ◆ https://www.highlandsocietyoflondon.org                           
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.highlandsocietyoflondon.org                           
+| ✓ | ⏱: 7.62s 
+[FETCH]... ↓ https://www.highlandsocietyoflondon.org/                          
+| ✓ | ⏱: 0.75s 
+[SCRAPE].. ◆ https://www.highlandsocietyoflondon.org/                          
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.highlandsocietyoflondon.org/                          
+| ✓ | ⏱: 0.87s 
+[FETCH]... ↓ 
+https://www.highlandsocietyoflondon.org/250th-anniversary-donations/           
+| ✓ | ⏱: 0.69s 
+[SCRAPE].. ◆ 
+https://www.highlandsocietyoflondon.org/250th-anniversary-donations/           
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● 
+https://www.highlandsocietyoflondon.org/250th-anniversary-donations/           
+| ✓ | ⏱: 0.80s 
+[FETCH]... ↓ 
+https://www.highlandsocietyoflondon.org/250th-anniversary-focus-charity/       
+| ✓ | ⏱: 2.81s 
+[SCRAPE].. ◆ 
+https://www.highlandsocietyoflondon.org/250th-anniversary-focus-charity/       
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● 
+https://www.highlandsocietyoflondon.org/250th-anniversary-focus-charity/       
+| ✓ | ⏱: 2.90s 
+[FETCH]... ↓ https://www.highlandsocietyoflondon.org/250th-anniversary/        
+| ✓ | ⏱: 0.65s 
+[SCRAPE].. ◆ https://www.highlandsocietyoflondon.org/250th-anniversary/        
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.highlandsocietyoflondon.org/250th-anniversary/        
+| ✓ | ⏱: 0.76s 
+[FETCH]... ↓ https://www.highlandsocietyoflondon.org/art-and-literature        
+| ✓ | ⏱: 1.03s 
+[SCRAPE].. ◆ https://www.highlandsocietyoflondon.org/art-and-literature        
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.highlandsocietyoflondon.org/art-and-literature        
+| ✓ | ⏱: 1.16s 
+[FETCH]... ↓ https://www.highlandsocietyoflondon.org/art-and-literature/       
+| ✓ | ⏱: 0.96s 
+[SCRAPE].. ◆ https://www.highlandsocietyoflondon.org/art-and-literature/       
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://www.highlandsocietyoflondon.org/art-and-literature/       
+| ✓ | ⏱: 1.13s 
+[FETCH]... ↓ https://www.highlandsocietyoflondon.org/committee-of-management/  
+| ✓ | ⏱: 0.63s 
+[SCRAPE].. ◆ https://www.highlandsocietyoflondon.org/committee-of-management/  
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.highlandsocietyoflondon.org/committee-of-management/  
+| ✓ | ⏱: 0.77s 
+[57/119] id 5054 pages=9 src=register+website opps=3 stored=3 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052834          | ✓ | ⏱: 1.98s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052834          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC052834          | ✓ | ⏱: 2.09s 
+[FETCH]... ↓ https://strathlevenfoundation.org.uk/                             
+| ✓ | ⏱: 4.30s 
+[SCRAPE].. ◆ https://strathlevenfoundation.org.uk/                             
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://strathlevenfoundation.org.uk/                             
+| ✓ | ⏱: 4.40s 
+[FETCH]... ↓ https://strathlevenfoundation.org.uk/education-fund               
+| ✓ | ⏱: 1.07s 
+[SCRAPE].. ◆ https://strathlevenfoundation.org.uk/education-fund               
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://strathlevenfoundation.org.uk/education-fund               
+| ✓ | ⏱: 1.19s 
+[FETCH]... ↓ https://strathlevenfoundation.org.uk/our-funds                    
+| ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://strathlevenfoundation.org.uk/our-funds                    
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://strathlevenfoundation.org.uk/our-funds                    
+| ✓ | ⏱: 1.45s 
+[FETCH]... ↓ https://strathlevenfoundation.org.uk/our-area-of-benefit          
+| ✓ | ⏱: 1.15s 
+[SCRAPE].. ◆ https://strathlevenfoundation.org.uk/our-area-of-benefit          
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://strathlevenfoundation.org.uk/our-area-of-benefit          
+| ✓ | ⏱: 1.25s 
+[58/119] id 5070 pages=5 src=register+website opps=3 stored=3 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053147          | ✓ | ⏱: 4.22s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053147          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053147          | ✓ | ⏱: 4.33s 
+[FETCH]... ↓ https://www.scottishforestrytrust.org.uk/                         
+| ✓ | ⏱: 10.47s 
+[SCRAPE].. ◆ https://www.scottishforestrytrust.org.uk/                         
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.scottishforestrytrust.org.uk/                         
+| ✓ | ⏱: 10.57s 
+[FETCH]... ↓ 
+https://www.scottishforestrytrust.org.uk/application-and-reporting-deadlines   
+| ✓ | ⏱: 1.27s 
+[SCRAPE].. ◆ 
+https://www.scottishforestrytrust.org.uk/application-and-reporting-deadlines   
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.scottishforestrytrust.org.uk/application-and-reporting-deadlines   
+| ✓ | ⏱: 1.38s 
+[FETCH]... ↓ https://www.scottishforestrytrust.org.uk/applications             
+| ✓ | ⏱: 1.07s 
+[SCRAPE].. ◆ https://www.scottishforestrytrust.org.uk/applications             
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.scottishforestrytrust.org.uk/applications             
+| ✓ | ⏱: 1.19s 
+[FETCH]... ↓ 
+https://www.scottishforestrytrust.org.uk/applications/potential-match-funders  
+| ✓ | ⏱: 1.28s 
+[SCRAPE].. ◆ 
+https://www.scottishforestrytrust.org.uk/applications/potential-match-funders  
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.scottishforestrytrust.org.uk/applications/potential-match-funders  
+| ✓ | ⏱: 1.37s 
+[FETCH]... ↓ https://www.scottishforestrytrust.org.uk/general-funding-awards   
+| ✓ | ⏱: 0.98s 
+[SCRAPE].. ◆ https://www.scottishforestrytrust.org.uk/general-funding-awards   
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.scottishforestrytrust.org.uk/general-funding-awards   
+| ✓ | ⏱: 1.09s 
+[FETCH]... ↓ 
+https://www.scottishforestrytrust.org.uk/once-your-application-is-approved     
+| ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ 
+https://www.scottishforestrytrust.org.uk/once-your-application-is-approved     
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.scottishforestrytrust.org.uk/once-your-application-is-approved     
+| ✓ | ⏱: 1.33s 
+[FETCH]... ↓ https://www.scottishforestrytrust.org.uk/annual-reports           
+| ✓ | ⏱: 1.07s 
+[SCRAPE].. ◆ https://www.scottishforestrytrust.org.uk/annual-reports           
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.scottishforestrytrust.org.uk/annual-reports           
+| ✓ | ⏱: 1.16s 
+[FETCH]... ↓ https://www.scottishforestrytrust.org.uk/awards                   
+| ✓ | ⏱: 0.98s 
+[SCRAPE].. ◆ https://www.scottishforestrytrust.org.uk/awards                   
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.scottishforestrytrust.org.uk/awards                   
+| ✓ | ⏱: 1.08s 
+[59/119] id 5110 pages=9 src=register+website opps=7 stored=7 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053233          | ✓ | ⏱: 2.69s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053233          | ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053233          | ✓ | ⏱: 2.80s 
+[FETCH]... ↓ https://melvillecollegetrust.uk/                                  
+| ✓ | ⏱: 3.75s 
+[SCRAPE].. ◆ https://melvillecollegetrust.uk/                                  
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://melvillecollegetrust.uk/                                  
+| ✓ | ⏱: 3.87s 
+[FETCH]... ↓ https://melvillecollegetrust.uk/annual-reports/                   
+| ✓ | ⏱: 1.65s 
+[SCRAPE].. ◆ https://melvillecollegetrust.uk/annual-reports/                   
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://melvillecollegetrust.uk/annual-reports/                   
+| ✓ | ⏱: 1.82s 
+[FETCH]... ↓ https://melvillecollegetrust.uk/buildings/                        
+| ✓ | ⏱: 1.46s 
+[SCRAPE].. ◆ https://melvillecollegetrust.uk/buildings/                        
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://melvillecollegetrust.uk/buildings/                        
+| ✓ | ⏱: 1.63s 
+[FETCH]... ↓ https://melvillecollegetrust.uk/capital-projects/                 
+| ✓ | ⏱: 1.82s 
+[SCRAPE].. ◆ https://melvillecollegetrust.uk/capital-projects/                 
+| ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://melvillecollegetrust.uk/capital-projects/                 
+| ✓ | ⏱: 2.09s 
+[FETCH]... ↓ https://melvillecollegetrust.uk/classes/                          
+| ✓ | ⏱: 1.85s 
+[SCRAPE].. ◆ https://melvillecollegetrust.uk/classes/                          
+| ✓ | ⏱: 0.18s 
+[COMPLETE] ● https://melvillecollegetrust.uk/classes/                          
+| ✓ | ⏱: 2.09s 
+[FETCH]... ↓ https://melvillecollegetrust.uk/cookie-policy/                    
+| ✓ | ⏱: 1.05s 
+[SCRAPE].. ◆ https://melvillecollegetrust.uk/cookie-policy/                    
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://melvillecollegetrust.uk/cookie-policy/                    
+| ✓ | ⏱: 1.17s 
+[FETCH]... ↓ https://melvillecollegetrust.uk/our-governance/                   
+| ✓ | ⏱: 0.84s 
+[SCRAPE].. ◆ https://melvillecollegetrust.uk/our-governance/                   
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://melvillecollegetrust.uk/our-governance/                   
+| ✓ | ⏱: 0.96s 
+[FETCH]... ↓ https://melvillecollegetrust.uk/our-history/                      
+| ✓ | ⏱: 0.99s 
+[SCRAPE].. ◆ https://melvillecollegetrust.uk/our-history/                      
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://melvillecollegetrust.uk/our-history/                      
+| ✓ | ⏱: 1.12s 
+[60/119] id 5114 pages=9 src=register+website opps=4 stored=4 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053243          | ✓ | ⏱: 5.84s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053243          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053243          | ✓ | ⏱: 6.01s 
+[FETCH]... ↓ https://sarafilovicfoundation.org                                 
+| ✓ | ⏱: 9.15s 
+[SCRAPE].. ◆ https://sarafilovicfoundation.org                                 
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://sarafilovicfoundation.org                                 
+| ✓ | ⏱: 9.23s 
+[FETCH]... ↓ https://sarafilovicfoundation.org/apply                           
+| ✓ | ⏱: 3.11s 
+[SCRAPE].. ◆ https://sarafilovicfoundation.org/apply                           
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://sarafilovicfoundation.org/apply                           
+| ✓ | ⏱: 3.17s 
+[FETCH]... ↓ https://sarafilovicfoundation.org/                                
+| ✓ | ⏱: 0.82s 
+[SCRAPE].. ◆ https://sarafilovicfoundation.org/                                
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://sarafilovicfoundation.org/                                
+| ✓ | ⏱: 0.90s 
+[61/119] id 5116 pages=4 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053411          | ✓ | ⏱: 2.59s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053411          | ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053411          | ✓ | ⏱: 2.95s 
+[FETCH]... ↓ https://www.graniteheart.org                                      
+| ✓ | ⏱: 4.75s 
+[SCRAPE].. ◆ https://www.graniteheart.org                                      
+| ✓ | ⏱: 0.21s 
+[COMPLETE] ● https://www.graniteheart.org                                      
+| ✓ | ⏱: 5.02s 
+[62/119] id 5131 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053435          | ✓ | ⏱: 8.12s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053435          | ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053435          | ✓ | ⏱: 8.21s 
+[ANTIBOT]. ℹ https://www.nescan.org/                            | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nescan.org/
+Call log:
+  - navigating to "https://www.nescan.org/", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://www.nescan.org/                            | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nescan.org/
+Call log:
+  - navigating to "https://www.nescan.org/", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[63/119] id 5136 pages=1 src=register opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053871          | ✓ | ⏱: 4.80s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053871          | ✓ | ⏱: 0.22s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC053871          | ✓ | ⏱: 5.09s 
+[FETCH]... ↓ https://www.thet.org                                              
+| ✓ | ⏱: 10.52s 
+[SCRAPE].. ◆ https://www.thet.org                                              
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.thet.org                                              
+| ✓ | ⏱: 10.65s 
+[64/119] id 5172 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054042          | ✓ | ⏱: 3.26s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054042          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054042          | ✓ | ⏱: 3.41s 
+[FETCH]... ↓ https://www.rotary-ribi.org/clubs/homepage.php?ClubID=55          
+| ✓ | ⏱: 2.87s 
+[SCRAPE].. ◆ https://www.rotary-ribi.org/clubs/homepage.php?ClubID=55          
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.rotary-ribi.org/clubs/homepage.php?ClubID=55          
+| ✓ | ⏱: 2.98s 
+[65/119] id 5183 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054095          | ✓ | ⏱: 2.87s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054095          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054095          | ✓ | ⏱: 3.00s 
+[FETCH]... ↓ https://www.bluecarbon.org.uk                                     
+| ✓ | ⏱: 4.92s 
+[SCRAPE].. ◆ https://www.bluecarbon.org.uk                                     
+| ✓ | ⏱: 0.33s 
+[COMPLETE] ● https://www.bluecarbon.org.uk                                     
+| ✓ | ⏱: 5.41s 
+[FETCH]... ↓ https://www.bluecarbon.org.uk/apply-for-funding                   
+| ✓ | ⏱: 2.13s 
+[SCRAPE].. ◆ https://www.bluecarbon.org.uk/apply-for-funding                   
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://www.bluecarbon.org.uk/apply-for-funding                   
+| ✓ | ⏱: 2.37s 
+[FETCH]... ↓ https://www.bluecarbon.org.uk/                                    
+| ✓ | ⏱: 2.83s 
+[SCRAPE].. ◆ https://www.bluecarbon.org.uk/                                    
+| ✓ | ⏱: 0.21s 
+[COMPLETE] ● https://www.bluecarbon.org.uk/                                    
+| ✓ | ⏱: 3.14s 
+[FETCH]... ↓ https://www.bluecarbon.org.uk/our-work                            
+| ✓ | ⏱: 2.21s 
+[SCRAPE].. ◆ https://www.bluecarbon.org.uk/our-work                            
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.bluecarbon.org.uk/our-work                            
+| ✓ | ⏱: 2.36s 
+[FETCH]... ↓ https://www.bluecarbon.org.uk/policies-page                       
+| ✓ | ⏱: 2.43s 
+[SCRAPE].. ◆ https://www.bluecarbon.org.uk/policies-page                       
+| ✓ | ⏱: 0.27s 
+[COMPLETE] ● https://www.bluecarbon.org.uk/policies-page                       
+| ✓ | ⏱: 2.81s 
+[66/119] id 5189 pages=6 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054123          | ✓ | ⏱: 2.80s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054123          | ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054123          | ✓ | ⏱: 2.90s 
+[FETCH]... ↓ https://tartanheartfestival.com/bfct                              
+| ✓ | ⏱: 6.81s 
+[SCRAPE].. ◆ https://tartanheartfestival.com/bfct                              
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● https://tartanheartfestival.com/bfct                              
+| ✓ | ⏱: 7.02s 
+[FETCH]... ↓ https://tartanheartfestival.com/trade-entertainment-applications  
+| ✓ | ⏱: 2.18s 
+[SCRAPE].. ◆ https://tartanheartfestival.com/trade-entertainment-applications  
+| ✓ | ⏱: 0.21s 
+[COMPLETE] ● https://tartanheartfestival.com/trade-entertainment-applications  
+| ✓ | ⏱: 2.46s 
+[FETCH]... ↓ https://tartanheartfestival.com/                                  
+| ✓ | ⏱: 4.02s 
+[SCRAPE].. ◆ https://tartanheartfestival.com/                                  
+| ✓ | ⏱: 0.31s 
+[COMPLETE] ● https://tartanheartfestival.com/                                  
+| ✓ | ⏱: 4.40s 
+[FETCH]... ↓ https://tartanheartfestival.com/campsites                         
+| ✓ | ⏱: 2.55s 
+[SCRAPE].. ◆ https://tartanheartfestival.com/campsites                         
+| ✓ | ⏱: 0.46s 
+[COMPLETE] ● https://tartanheartfestival.com/campsites                         
+| ✓ | ⏱: 3.11s 
+[FETCH]... ↓ https://tartanheartfestival.com/club-clan-bella                   
+| ✓ | ⏱: 2.74s 
+[SCRAPE].. ◆ https://tartanheartfestival.com/club-clan-bella                   
+| ✓ | ⏱: 0.23s 
+[COMPLETE] ● https://tartanheartfestival.com/club-clan-bella                   
+| ✓ | ⏱: 3.25s 
+[FETCH]... ↓ https://tartanheartfestival.com/community                         
+| ✓ | ⏱: 4.40s 
+[SCRAPE].. ◆ https://tartanheartfestival.com/community                         
+| ✓ | ⏱: 0.23s 
+[COMPLETE] ● https://tartanheartfestival.com/community                         
+| ✓ | ⏱: 4.74s 
+[FETCH]... ↓ https://tartanheartfestival.com/destination                       
+| ✓ | ⏱: 3.12s 
+[SCRAPE].. ◆ https://tartanheartfestival.com/destination                       
+| ✓ | ⏱: 0.26s 
+[COMPLETE] ● https://tartanheartfestival.com/destination                       
+| ✓ | ⏱: 3.46s 
+[FETCH]... ↓ https://tartanheartfestival.com/explore                           
+| ✓ | ⏱: 2.93s 
+[SCRAPE].. ◆ https://tartanheartfestival.com/explore                           
+| ✓ | ⏱: 0.21s 
+[COMPLETE] ● https://tartanheartfestival.com/explore                           
+| ✓ | ⏱: 3.25s 
+[67/119] id 5192 pages=9 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054448          | ✓ | ⏱: 2.49s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054448          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054448          | ✓ | ⏱: 2.64s 
+[ANTIBOT]. ℹ https://Park Farm                                  | Error: Proxy 
+direct failed: BrowserContext.add_cookies: Invalid URL 
+[ERROR]... × https://Park Farm                                  | Error: 
+Unexpected error in _crawl_web at line 559 in wrap_api_call 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\playwright\_impl\_c
+onnection.py):
+Error: BrowserContext.add_cookies: Invalid URL
+
+Code context:
+ 554           parsed_st = _extract_stack_trace_information_from_stack(st, 
+is_internal, title)
+ 555           self._api_zone.set(parsed_st)
+ 556           try:
+ 557               return await cb()
+ 558           except Exception as error:
+ 559 →             raise rewrite_error(error, f"{parsed_st['apiName']}: 
+{error}") from None
+ 560           finally:
+ 561               self._api_zone.set(None)
+ 562   
+ 563       def wrap_api_call_sync(
+ 564           self, cb: Callable[[], Any], is_internal: bool = False, title: 
+str = None 
+[68/119] id 5216 pages=1 src=register opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054694          | ✓ | ⏱: 4.65s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054694          | ✓ | ⏱: 0.11s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC054694          | ✓ | ⏱: 4.84s 
+[FETCH]... ↓ https://www.rotary-ribi.org/clubs/homepage.php?ClubID=31          
+| ✓ | ⏱: 5.98s 
+[SCRAPE].. ◆ https://www.rotary-ribi.org/clubs/homepage.php?ClubID=31          
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.rotary-ribi.org/clubs/homepage.php?ClubID=31          
+| ✓ | ⏱: 6.11s 
+[FETCH]... ↓ http://www.rotary-ribi.org/clubs/page.php?ClubID=31&PgID=435462   
+| ✓ | ⏱: 4.98s 
+[SCRAPE].. ◆ http://www.rotary-ribi.org/clubs/page.php?ClubID=31&PgID=435462   
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● http://www.rotary-ribi.org/clubs/page.php?ClubID=31&PgID=435462   
+| ✓ | ⏱: 5.12s 
+[69/119] id 5231 pages=3 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100068&subId=0
+| ✓ | ⏱: 3.24s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100068&subId=0
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100068&subId=0
+| ✓ | ⏱: 3.37s 
+[FETCH]... ↓ https://www.thepatcullinancharitabletrust.com                     
+| ✓ | ⏱: 4.32s 
+[SCRAPE].. ◆ https://www.thepatcullinancharitabletrust.com                     
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thepatcullinancharitabletrust.com                     
+| ✓ | ⏱: 4.36s 
+[FETCH]... ↓ https://www.thepatcullinancharitabletrust.com/how-to-apply.asp    
+| ✓ | ⏱: 0.82s 
+[SCRAPE].. ◆ https://www.thepatcullinancharitabletrust.com/how-to-apply.asp    
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thepatcullinancharitabletrust.com/how-to-apply.asp    
+| ✓ | ⏱: 0.85s 
+[FETCH]... ↓ https://www.thepatcullinancharitabletrust.com/                    
+| ✓ | ⏱: 1.19s 
+[SCRAPE].. ◆ https://www.thepatcullinancharitabletrust.com/                    
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thepatcullinancharitabletrust.com/                    
+| ✓ | ⏱: 1.22s 
+[FETCH]... ↓ https://www.thepatcullinancharitabletrust.com/public-benefits.asp 
+| ✓ | ⏱: 0.98s 
+[SCRAPE].. ◆ https://www.thepatcullinancharitabletrust.com/public-benefits.asp 
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.thepatcullinancharitabletrust.com/public-benefits.asp 
+| ✓ | ⏱: 1.01s 
+[70/119] id 5256 pages=5 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100079&subId=0
+| ✓ | ⏱: 11.18s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100079&subId=0
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100079&subId=0
+| ✓ | ⏱: 11.29s 
+[FETCH]... ↓ https://www.downwidows.org                                        
+| ✓ | ⏱: 2.05s 
+[SCRAPE].. ◆ https://www.downwidows.org                                        
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.downwidows.org                                        
+| ✓ | ⏱: 2.10s 
+[FETCH]... ↓ https://www.downwidows.org/Grant.html                             
+| ✓ | ⏱: 0.59s 
+[SCRAPE].. ◆ https://www.downwidows.org/Grant.html                             
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.downwidows.org/Grant.html                             
+| ✓ | ⏱: 0.64s 
+[FETCH]... ↓ https://www.downwidows.org/Other Funds.html                       
+| ✓ | ⏱: 0.66s 
+[SCRAPE].. ◆ https://www.downwidows.org/Other Funds.html                       
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.downwidows.org/Other Funds.html                       
+| ✓ | ⏱: 0.70s 
+[FETCH]... ↓ https://www.downwidows.org/DMWF Leaflet 2023 new.pdf              
+| ✓ | ⏱: 0.43s 
+[SCRAPE].. ◆ https://www.downwidows.org/DMWF Leaflet 2023 new.pdf              
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.downwidows.org/DMWF Leaflet 2023 new.pdf              
+| ✗ | ⏱: 0.48s 
+[FETCH]... ↓ https://www.downwidows.org/District Charities.html                
+| ✓ | ⏱: 0.44s 
+[SCRAPE].. ◆ https://www.downwidows.org/District Charities.html                
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.downwidows.org/District Charities.html                
+| ✓ | ⏱: 0.51s 
+[FETCH]... ↓ https://www.downwidows.org/Gift Aid form.pdf                      
+| ✓ | ⏱: 0.49s 
+[SCRAPE].. ◆ https://www.downwidows.org/Gift Aid form.pdf                      
+| ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.downwidows.org/Gift Aid form.pdf                      
+| ✗ | ⏱: 0.51s 
+[FETCH]... ↓ https://www.downwidows.org/Gift Aid.html                          
+| ✓ | ⏱: 0.53s 
+[SCRAPE].. ◆ https://www.downwidows.org/Gift Aid.html                          
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.downwidows.org/Gift Aid.html                          
+| ✓ | ⏱: 0.59s 
+[FETCH]... ↓ https://www.downwidows.org/Links.html                             
+| ✓ | ⏱: 0.47s 
+[SCRAPE].. ◆ https://www.downwidows.org/Links.html                             
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.downwidows.org/Links.html                             
+| ✓ | ⏱: 0.53s 
+[71/119] id 5257 pages=7 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100147&subId=0
+| ✓ | ⏱: 3.78s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100147&subId=0
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100147&subId=0
+| ✓ | ⏱: 3.93s 
+[FETCH]... ↓ https://www.iontaobhasnag.com                                     
+| ✓ | ⏱: 3.29s 
+[SCRAPE].. ◆ https://www.iontaobhasnag.com                                     
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.iontaobhasnag.com                                     
+| ✓ | ⏱: 3.43s 
+[FETCH]... ↓ https://www.iontaobhasnag.com/the-accommodation-fund/             
+| ✓ | ⏱: 3.12s 
+[SCRAPE].. ◆ https://www.iontaobhasnag.com/the-accommodation-fund/             
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.iontaobhasnag.com/the-accommodation-fund/             
+| ✓ | ⏱: 3.23s 
+[FETCH]... ↓ 
+https://www.iontaobhasnag.com/the-accommodation-fund/gaelscoil-eanna/          
+| ✓ | ⏱: 2.68s 
+[SCRAPE].. ◆ 
+https://www.iontaobhasnag.com/the-accommodation-fund/gaelscoil-eanna/          
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● 
+https://www.iontaobhasnag.com/the-accommodation-fund/gaelscoil-eanna/          
+| ✓ | ⏱: 2.78s 
+[FETCH]... ↓ https://www.iontaobhasnag.com/                                    
+| ✓ | ⏱: 2.25s 
+[SCRAPE].. ◆ https://www.iontaobhasnag.com/                                    
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.iontaobhasnag.com/                                    
+| ✓ | ⏱: 2.44s 
+[FETCH]... ↓ https://www.iontaobhasnag.com/history-of-the-sector/              
+| ✓ | ⏱: 1.47s 
+[SCRAPE].. ◆ https://www.iontaobhasnag.com/history-of-the-sector/              
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.iontaobhasnag.com/history-of-the-sector/              
+| ✓ | ⏱: 1.62s 
+[FETCH]... ↓ https://www.iontaobhasnag.com/history-of-the-sector/demand/       
+| ✓ | ⏱: 1.66s 
+[SCRAPE].. ◆ https://www.iontaobhasnag.com/history-of-the-sector/demand/       
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.iontaobhasnag.com/history-of-the-sector/demand/       
+| ✓ | ⏱: 1.75s 
+[FETCH]... ↓ 
+https://www.iontaobhasnag.com/history-of-the-sector/history-of-the-irish-langua
+ge/                   | ✓ | ⏱: 1.31s 
+[SCRAPE].. ◆ 
+https://www.iontaobhasnag.com/history-of-the-sector/history-of-the-irish-langua
+ge/                   | ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.iontaobhasnag.com/history-of-the-sector/history-of-the-irish-langua
+ge/                   | ✓ | ⏱: 1.42s 
+[FETCH]... ↓ 
+https://www.iontaobhasnag.com/history-of-the-sector/irish-language-schooling/  
+| ✓ | ⏱: 1.48s 
+[SCRAPE].. ◆ 
+https://www.iontaobhasnag.com/history-of-the-sector/irish-language-schooling/  
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● 
+https://www.iontaobhasnag.com/history-of-the-sector/irish-language-schooling/  
+| ✓ | ⏱: 1.59s 
+[72/119] id 5262 pages=9 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100178&subId=0
+| ✓ | ⏱: 4.64s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100178&subId=0
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100178&subId=0
+| ✓ | ⏱: 4.77s 
+[FETCH]... ↓ https://www.kgviyouthawards.org.uk                                
+| ✓ | ⏱: 3.46s 
+[SCRAPE].. ◆ https://www.kgviyouthawards.org.uk                                
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.kgviyouthawards.org.uk                                
+| ✓ | ⏱: 3.51s 
+[73/119] id 5263 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100236&subId=0
+| ✓ | ⏱: 4.86s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100236&subId=0
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100236&subId=0
+| ✓ | ⏱: 5.10s 
+[FETCH]... ↓ https://www.marypeterstrust.org                                   
+| ✓ | ⏱: 7.79s 
+[SCRAPE].. ◆ https://www.marypeterstrust.org                                   
+| ✓ | ⏱: 0.24s 
+[COMPLETE] ● https://www.marypeterstrust.org                                   
+| ✓ | ⏱: 8.09s 
+[74/119] id 5272 pages=2 src=register+website opps=4 stored=4 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100264&subId=0
+| ✓ | ⏱: 4.94s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100264&subId=0
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100264&subId=0
+| ✓ | ⏱: 5.10s 
+[FETCH]... ↓ https://www.grenttrust.co.uk                                      
+| ✓ | ⏱: 3.06s 
+[SCRAPE].. ◆ https://www.grenttrust.co.uk                                      
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.grenttrust.co.uk                                      
+| ✓ | ⏱: 3.11s 
+[FETCH]... ↓ https://www.grenttrust.co.uk/                                     
+| ✓ | ⏱: 0.88s 
+[SCRAPE].. ◆ https://www.grenttrust.co.uk/                                     
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.grenttrust.co.uk/                                     
+| ✓ | ⏱: 0.93s 
+[75/119] id 5275 pages=3 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100399&subId=0
+| ✓ | ⏱: 3.78s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100399&subId=0
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100399&subId=0
+| ✓ | ⏱: 3.92s 
+[FETCH]... ↓ https://www.hearttrustfund.org.uk                                 
+| ✓ | ⏱: 5.17s 
+[SCRAPE].. ◆ https://www.hearttrustfund.org.uk                                 
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.hearttrustfund.org.uk                                 
+| ✓ | ⏱: 5.28s 
+[FETCH]... ↓ https://www.hearttrustfund.org.uk/                                
+| ✓ | ⏱: 2.28s 
+[SCRAPE].. ◆ https://www.hearttrustfund.org.uk/                                
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.hearttrustfund.org.uk/                                
+| ✓ | ⏱: 2.39s 
+[FETCH]... ↓ https://www.hearttrustfund.org.uk/index.php/projects/             
+| ✓ | ⏱: 2.68s 
+[SCRAPE].. ◆ https://www.hearttrustfund.org.uk/index.php/projects/             
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://www.hearttrustfund.org.uk/index.php/projects/             
+| ✓ | ⏱: 2.86s 
+[FETCH]... ↓ https://www.hearttrustfund.org.uk/projects/                       
+| ✓ | ⏱: 1.82s 
+[SCRAPE].. ◆ https://www.hearttrustfund.org.uk/projects/                       
+| ✓ | ⏱: 0.24s 
+[COMPLETE] ● https://www.hearttrustfund.org.uk/projects/                       
+| ✓ | ⏱: 2.12s 
+[76/119] id 5282 pages=5 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100517&subId=0
+| ✓ | ⏱: 8.05s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100517&subId=0
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100517&subId=0
+| ✓ | ⏱: 8.34s 
+[FETCH]... ↓ https://www.royal-irish.com                                       
+| ✓ | ⏱: 5.36s 
+[SCRAPE].. ◆ https://www.royal-irish.com                                       
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.royal-irish.com                                       
+| ✓ | ⏱: 5.48s 
+[77/119] id 5288 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100556&subId=0
+| ✓ | ⏱: 15.69s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100556&subId=0
+| ✓ | ⏱: 0.24s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100556&subId=0
+| ✓ | ⏱: 16.68s 
+[FETCH]... ↓ https://www.nipsa.org.uk                                          
+| ✓ | ⏱: 6.91s 
+[SCRAPE].. ◆ https://www.nipsa.org.uk                                          
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.nipsa.org.uk                                          
+| ✓ | ⏱: 7.23s 
+[78/119] id 5293 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100649&subId=0
+| ✓ | ⏱: 5.69s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100649&subId=0
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100649&subId=0
+| ✓ | ⏱: 5.83s 
+[FETCH]... ↓ https://www.boia.org.uk                                           
+| ✓ | ⏱: 5.80s 
+[SCRAPE].. ◆ https://www.boia.org.uk                                           
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://www.boia.org.uk                                           
+| ✓ | ⏱: 5.98s 
+[79/119] id 5300 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100657&subId=0
+| ✓ | ⏱: 4.76s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100657&subId=0
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC100657&subId=0
+| ✓ | ⏱: 4.93s 
+[FETCH]... ↓ https://www.radiocracker.org.uk                                   
+| ✓ | ⏱: 2.81s 
+[SCRAPE].. ◆ https://www.radiocracker.org.uk                                   
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.radiocracker.org.uk                                   
+| ✓ | ⏱: 2.97s 
+[FETCH]... ↓ https://www.radiocracker.org.uk/                                  
+| ✓ | ⏱: 2.29s 
+[SCRAPE].. ◆ https://www.radiocracker.org.uk/                                  
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.radiocracker.org.uk/                                  
+| ✓ | ⏱: 2.43s 
+[FETCH]... ↓ https://www.radiocracker.org.uk/listen                            
+| ✓ | ⏱: 1.68s 
+[SCRAPE].. ◆ https://www.radiocracker.org.uk/listen                            
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://www.radiocracker.org.uk/listen                            
+| ✓ | ⏱: 1.89s 
+[FETCH]... ↓ https://www.radiocracker.org.uk/our-story                         
+| ✓ | ⏱: 3.04s 
+[SCRAPE].. ◆ https://www.radiocracker.org.uk/our-story                         
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.radiocracker.org.uk/our-story                         
+| ✓ | ⏱: 3.09s 
+[FETCH]... ↓ https://www.radiocracker.org.uk/ourstory                          
+| ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://www.radiocracker.org.uk/ourstory                          
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.radiocracker.org.uk/ourstory                          
+| ✓ | ⏱: 2.06s 
+[FETCH]... ↓ https://www.radiocracker.org.uk/projects                          
+| ✓ | ⏱: 1.60s 
+[SCRAPE].. ◆ https://www.radiocracker.org.uk/projects                          
+| ✓ | ⏱: 0.44s 
+[COMPLETE] ● https://www.radiocracker.org.uk/projects                          
+| ✓ | ⏱: 2.17s 
+[80/119] id 5302 pages=7 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101092&subId=0
+| ✓ | ⏱: 6.03s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101092&subId=0
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101092&subId=0
+| ✓ | ⏱: 6.19s 
+[FETCH]... ↓ https://www.taca.ie                                               
+| ✓ | ⏱: 7.35s 
+[SCRAPE].. ◆ https://www.taca.ie                                               
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.taca.ie                                               
+| ✓ | ⏱: 7.45s 
+[81/119] id 5334 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101116&subId=0
+| ✓ | ⏱: 3.53s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101116&subId=0
+| ✓ | ⏱: 0.21s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101116&subId=0
+| ✓ | ⏱: 4.37s 
+[FETCH]... ↓ https://www.follies-trust.org                                     
+| ✓ | ⏱: 5.09s 
+[SCRAPE].. ◆ https://www.follies-trust.org                                     
+| ✓ | ⏱: 0.19s 
+[COMPLETE] ● https://www.follies-trust.org                                     
+| ✓ | ⏱: 5.88s 
+[82/119] id 5338 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101135&subId=0
+| ✓ | ⏱: 3.01s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101135&subId=0
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101135&subId=0
+| ✓ | ⏱: 3.13s 
+[FETCH]... ↓ https://www.globalfundcf.org                                      
+| ✓ | ⏱: 3.66s 
+[SCRAPE].. ◆ https://www.globalfundcf.org                                      
+| ✓ | ⏱: 0.23s 
+[COMPLETE] ● https://www.globalfundcf.org                                      
+| ✓ | ⏱: 3.93s 
+[83/119] id 5339 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101325&subId=0
+| ✓ | ⏱: 4.55s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101325&subId=0
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101325&subId=0
+| ✓ | ⏱: 4.71s 
+[FETCH]... ↓ https://www.bishopsappeal.ireland.anglican.org                    
+| ✓ | ⏱: 7.49s 
+[SCRAPE].. ◆ https://www.bishopsappeal.ireland.anglican.org                    
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.bishopsappeal.ireland.anglican.org                    
+| ✓ | ⏱: 7.63s 
+[84/119] id 5358 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101555&subId=0
+| ✓ | ⏱: 5.84s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101555&subId=0
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101555&subId=0
+| ✓ | ⏱: 6.17s 
+[FETCH]... ↓ https://www.ulht.org.uk                                           
+| ✓ | ⏱: 2.50s 
+[SCRAPE].. ◆ https://www.ulht.org.uk                                           
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.ulht.org.uk                                           
+| ✓ | ⏱: 2.57s 
+[FETCH]... ↓ https://www.ulht.org.uk/application-form/                         
+| ✓ | ⏱: 1.76s 
+[SCRAPE].. ◆ https://www.ulht.org.uk/application-form/                         
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.ulht.org.uk/application-form/                         
+| ✓ | ⏱: 1.82s 
+[FETCH]... ↓ https://www.ulht.org.uk/grants-awarded/                           
+| ✓ | ⏱: 2.59s 
+[SCRAPE].. ◆ https://www.ulht.org.uk/grants-awarded/                           
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.ulht.org.uk/grants-awarded/                           
+| ✓ | ⏱: 2.65s 
+[FETCH]... ↓ https://www.ulht.org.uk/grants-for-indexing/                      
+| ✓ | ⏱: 1.92s 
+[SCRAPE].. ◆ https://www.ulht.org.uk/grants-for-indexing/                      
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.ulht.org.uk/grants-for-indexing/                      
+| ✓ | ⏱: 1.98s 
+[FETCH]... ↓ https://www.ulht.org.uk/grants-re-opening-soon/                   
+| ✓ | ⏱: 0.92s 
+[SCRAPE].. ◆ https://www.ulht.org.uk/grants-re-opening-soon/                   
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.ulht.org.uk/grants-re-opening-soon/                   
+| ✓ | ⏱: 0.98s 
+[FETCH]... ↓ https://www.ulht.org.uk/other-funders/                            
+| ✓ | ⏱: 0.75s 
+[SCRAPE].. ◆ https://www.ulht.org.uk/other-funders/                            
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.ulht.org.uk/other-funders/                            
+| ✓ | ⏱: 0.82s 
+[FETCH]... ↓ https://www.ulht.org.uk/the-local-history-fund/                   
+| ✓ | ⏱: 1.53s 
+[SCRAPE].. ◆ https://www.ulht.org.uk/the-local-history-fund/                   
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.ulht.org.uk/the-local-history-fund/                   
+| ✓ | ⏱: 1.58s 
+[FETCH]... ↓ https://www.ulht.org.uk/                                          
+| ✓ | ⏱: 0.95s 
+[SCRAPE].. ◆ https://www.ulht.org.uk/                                          
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.ulht.org.uk/                                          
+| ✓ | ⏱: 1.04s 
+[85/119] id 5381 pages=9 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101716&subId=0
+| ✓ | ⏱: 4.50s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101716&subId=0
+| ✓ | ⏱: 0.19s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101716&subId=0
+| ✓ | ⏱: 4.76s 
+[FETCH]... ↓ https://www.fftn.org                                              
+| ✓ | ⏱: 5.16s 
+[SCRAPE].. ◆ https://www.fftn.org                                              
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.fftn.org                                              
+| ✓ | ⏱: 5.31s 
+[86/119] id 5400 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101763&subId=0
+| ✓ | ⏱: 5.04s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101763&subId=0
+| ✓ | ⏱: 0.16s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101763&subId=0
+| ✓ | ⏱: 5.26s 
+[FETCH]... ↓ https://www.halifaxfoundationni.org                               
+| ✓ | ⏱: 12.09s 
+[SCRAPE].. ◆ https://www.halifaxfoundationni.org                               
+| ✓ | ⏱: 0.22s 
+[COMPLETE] ● https://www.halifaxfoundationni.org                               
+| ✓ | ⏱: 12.39s 
+[FETCH]... ↓ https://www.halifaxfoundationni.org/grantee-support/              
+| ✓ | ⏱: 2.21s 
+[SCRAPE].. ◆ https://www.halifaxfoundationni.org/grantee-support/              
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.halifaxfoundationni.org/grantee-support/              
+| ✓ | ⏱: 2.51s 
+[FETCH]... ↓ 
+https://www.halifaxfoundationni.org/news/new-suit-of-grant-programmes/         
+| ✓ | ⏱: 4.21s 
+[SCRAPE].. ◆ 
+https://www.halifaxfoundationni.org/news/new-suit-of-grant-programmes/         
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.halifaxfoundationni.org/news/new-suit-of-grant-programmes/         
+| ✓ | ⏱: 4.65s 
+[FETCH]... ↓ https://www.halifaxfoundationni.org/plan-your-funding/            
+| ✓ | ⏱: 4.02s 
+[SCRAPE].. ◆ https://www.halifaxfoundationni.org/plan-your-funding/            
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.halifaxfoundationni.org/plan-your-funding/            
+| ✓ | ⏱: 4.53s 
+[FETCH]... ↓ https://www.halifaxfoundationni.org/                              
+| ✓ | ⏱: 2.42s 
+[SCRAPE].. ◆ https://www.halifaxfoundationni.org/                              
+| ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://www.halifaxfoundationni.org/                              
+| ✓ | ⏱: 3.11s 
+[FETCH]... ↓ https://www.halifaxfoundationni.org/40-invest/                    
+| ✓ | ⏱: 2.42s 
+[SCRAPE].. ◆ https://www.halifaxfoundationni.org/40-invest/                    
+| ✓ | ⏱: 0.29s 
+[COMPLETE] ● https://www.halifaxfoundationni.org/40-invest/                    
+| ✓ | ⏱: 2.82s 
+[FETCH]... ↓ https://www.halifaxfoundationni.org/collaborate/                  
+| ✓ | ⏱: 2.04s 
+[SCRAPE].. ◆ https://www.halifaxfoundationni.org/collaborate/                  
+| ✓ | ⏱: 0.29s 
+[COMPLETE] ● https://www.halifaxfoundationni.org/collaborate/                  
+| ✓ | ⏱: 2.43s 
+[FETCH]... ↓ https://www.halifaxfoundationni.org/community-flex/               
+| ✓ | ⏱: 1.73s 
+[SCRAPE].. ◆ https://www.halifaxfoundationni.org/community-flex/               
+| ✓ | ⏱: 0.24s 
+[COMPLETE] ● https://www.halifaxfoundationni.org/community-flex/               
+| ✓ | ⏱: 2.06s 
+[87/119] id 5404 pages=9 src=register+website opps=6 stored=6 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101873&subId=0
+| ✓ | ⏱: 6.24s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101873&subId=0
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101873&subId=0
+| ✓ | ⏱: 6.39s 
+[FETCH]... ↓ https://www.nimc.co.uk                                            
+| ✓ | ⏱: 7.65s 
+[SCRAPE].. ◆ https://www.nimc.co.uk                                            
+| ✓ | ⏱: 0.18s 
+[COMPLETE] ● https://www.nimc.co.uk                                            
+| ✓ | ⏱: 7.89s 
+[88/119] id 5416 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101945&subId=0
+| ✓ | ⏱: 8.09s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101945&subId=0
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC101945&subId=0
+| ✓ | ⏱: 8.26s 
+[FETCH]... ↓ https://bmcharityfund.co.uk                                       
+| ✓ | ⏱: 5.21s 
+[SCRAPE].. ◆ https://bmcharityfund.co.uk                                       
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://bmcharityfund.co.uk                                       
+| ✓ | ⏱: 5.30s 
+[FETCH]... ↓ https://bmcharityfund.co.uk/                                      
+| ✓ | ⏱: 3.47s 
+[SCRAPE].. ◆ https://bmcharityfund.co.uk/                                      
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://bmcharityfund.co.uk/                                      
+| ✓ | ⏱: 3.55s 
+[FETCH]... ↓ https://bmcharityfund.co.uk/MeetingDates                          
+| ✓ | ⏱: 5.33s 
+[SCRAPE].. ◆ https://bmcharityfund.co.uk/MeetingDates                          
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://bmcharityfund.co.uk/MeetingDates                          
+| ✓ | ⏱: 5.41s 
+[FETCH]... ↓ https://bmcharityfund.co.uk/applications                          
+| ✓ | ⏱: 2.60s 
+[SCRAPE].. ◆ https://bmcharityfund.co.uk/applications                          
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://bmcharityfund.co.uk/applications                          
+| ✓ | ⏱: 2.68s 
+[FETCH]... ↓ https://bmcharityfund.co.uk/belfast-masonic-widows-fund           
+| ✓ | ⏱: 2.89s 
+[SCRAPE].. ◆ https://bmcharityfund.co.uk/belfast-masonic-widows-fund           
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://bmcharityfund.co.uk/belfast-masonic-widows-fund           
+| ✓ | ⏱: 3.00s 
+[FETCH]... ↓ https://bmcharityfund.co.uk/donations/gift-aid                    
+| ✓ | ⏱: 1.98s 
+[SCRAPE].. ◆ https://bmcharityfund.co.uk/donations/gift-aid                    
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://bmcharityfund.co.uk/donations/gift-aid                    
+| ✓ | ⏱: 2.19s 
+[FETCH]... ↓ https://bmcharityfund.co.uk/mowc                                  
+| ✓ | ⏱: 1.49s 
+[SCRAPE].. ◆ https://bmcharityfund.co.uk/mowc                                  
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://bmcharityfund.co.uk/mowc                                  
+| ✓ | ⏱: 1.57s 
+[FETCH]... ↓ https://bmcharityfund.co.uk/useful-links/benefits                 
+| ✓ | ⏱: 1.47s 
+[SCRAPE].. ◆ https://bmcharityfund.co.uk/useful-links/benefits                 
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://bmcharityfund.co.uk/useful-links/benefits                 
+| ✓ | ⏱: 1.57s 
+[89/119] id 5420 pages=9 src=register+website opps=3 stored=3 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102080&subId=0
+| ✓ | ⏱: 6.38s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102080&subId=0
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102080&subId=0
+| ✓ | ⏱: 6.60s 
+[FETCH]... ↓ https://www.poultrytrust.com                                      
+| ✓ | ⏱: 9.53s 
+[SCRAPE].. ◆ https://www.poultrytrust.com                                      
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.poultrytrust.com                                      
+| ✓ | ⏱: 9.79s 
+[90/119] id 5426 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102147&subId=0
+| ✓ | ⏱: 6.08s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102147&subId=0
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102147&subId=0
+| ✓ | ⏱: 6.28s 
+[FETCH]... ↓ https://www.cwsan.org                                             
+| ✓ | ⏱: 4.83s 
+[SCRAPE].. ◆ https://www.cwsan.org                                             
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.cwsan.org                                             
+| ✓ | ⏱: 4.93s 
+[91/119] id 5430 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102284&subId=0
+| ✓ | ⏱: 4.59s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102284&subId=0
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102284&subId=0
+| ✓ | ⏱: 4.95s 
+[FETCH]... ↓ https://www.adsumfoundation.org                                   
+| ✓ | ⏱: 3.02s 
+[SCRAPE].. ◆ https://www.adsumfoundation.org                                   
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.adsumfoundation.org                                   
+| ✓ | ⏱: 3.15s 
+[92/119] id 5437 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102292&subId=0
+| ✓ | ⏱: 7.49s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102292&subId=0
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102292&subId=0
+| ✓ | ⏱: 7.69s 
+[FETCH]... ↓ https://www.victoriahomestrust.com                                
+| ✓ | ⏱: 4.66s 
+[SCRAPE].. ◆ https://www.victoriahomestrust.com                                
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.victoriahomestrust.com                                
+| ✓ | ⏱: 4.82s 
+[FETCH]... ↓ https://www.victoriahomestrust.com/how-to-apply                   
+| ✓ | ⏱: 2.18s 
+[SCRAPE].. ◆ https://www.victoriahomestrust.com/how-to-apply                   
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.victoriahomestrust.com/how-to-apply                   
+| ✓ | ⏱: 2.46s 
+[FETCH]... ↓ https://www.victoriahomestrust.com/guidelines                     
+| ✓ | ⏱: 2.44s 
+[SCRAPE].. ◆ https://www.victoriahomestrust.com/guidelines                     
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.victoriahomestrust.com/guidelines                     
+| ✓ | ⏱: 2.68s 
+[FETCH]... ↓ https://www.victoriahomestrust.com/history                        
+| ✓ | ⏱: 2.96s 
+[SCRAPE].. ◆ https://www.victoriahomestrust.com/history                        
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.victoriahomestrust.com/history                        
+| ✓ | ⏱: 3.09s 
+[93/119] id 5438 pages=5 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102726&subId=0
+| ✓ | ⏱: 4.46s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102726&subId=0
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102726&subId=0
+| ✓ | ⏱: 4.61s 
+[FETCH]... ↓ https://www.fermanaghtrust.org                                    
+| ✓ | ⏱: 7.50s 
+[SCRAPE].. ◆ https://www.fermanaghtrust.org                                    
+| ✓ | ⏱: 0.22s 
+[COMPLETE] ● https://www.fermanaghtrust.org                                    
+| ✓ | ⏱: 7.82s 
+[FETCH]... ↓ 
+https://www.fermanaghtrust.org/funding-available-for-community-groups-in-drumqu
+in-and-killen/        | ✓ | ⏱: 2.99s 
+[SCRAPE].. ◆ 
+https://www.fermanaghtrust.org/funding-available-for-community-groups-in-drumqu
+in-and-killen/        | ✓ | ⏱: 0.30s 
+[COMPLETE] ● 
+https://www.fermanaghtrust.org/funding-available-for-community-groups-in-drumqu
+in-and-killen/        | ✓ | ⏱: 3.49s 
+[FETCH]... ↓ 
+https://www.fermanaghtrust.org/joan-trimble-burs...young-talent-as-application-
+deadline-approaches/  | ✓ | ⏱: 3.47s 
+[SCRAPE].. ◆ 
+https://www.fermanaghtrust.org/joan-trimble-burs...young-talent-as-application-
+deadline-approaches/  | ✓ | ⏱: 0.19s 
+[COMPLETE] ● 
+https://www.fermanaghtrust.org/joan-trimble-burs...young-talent-as-application-
+deadline-approaches/  | ✓ | ⏱: 3.82s 
+[FETCH]... ↓ https://www.fermanaghtrust.org/our-grants/                        
+| ✓ | ⏱: 2.75s 
+[SCRAPE].. ◆ https://www.fermanaghtrust.org/our-grants/                        
+| ✓ | ⏱: 0.23s 
+[COMPLETE] ● https://www.fermanaghtrust.org/our-grants/                        
+| ✓ | ⏱: 3.09s 
+[FETCH]... ↓ 
+https://www.fermanaghtrust.org/our-grants/callagheen-community-wind-farm-fund/ 
+| ✓ | ⏱: 2.84s 
+[SCRAPE].. ◆ 
+https://www.fermanaghtrust.org/our-grants/callagheen-community-wind-farm-fund/ 
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● 
+https://www.fermanaghtrust.org/our-grants/callagheen-community-wind-farm-fund/ 
+| ✓ | ⏱: 3.09s 
+[FETCH]... ↓ 
+https://www.fermanaghtrust.org/our-grants/cornav...-slieveglass-wind-farms-comm
+unity-benefit-funds/  | ✓ | ⏱: 3.44s 
+[SCRAPE].. ◆ 
+https://www.fermanaghtrust.org/our-grants/cornav...-slieveglass-wind-farms-comm
+unity-benefit-funds/  | ✓ | ⏱: 0.25s 
+[COMPLETE] ● 
+https://www.fermanaghtrust.org/our-grants/cornav...-slieveglass-wind-farms-comm
+unity-benefit-funds/  | ✓ | ⏱: 3.84s 
+[FETCH]... ↓ 
+https://www.fermanaghtrust.org/our-grants/fermanagh-recreational-trust/        
+| ✓ | ⏱: 3.02s 
+[SCRAPE].. ◆ 
+https://www.fermanaghtrust.org/our-grants/fermanagh-recreational-trust/        
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● 
+https://www.fermanaghtrust.org/our-grants/fermanagh-recreational-trust/        
+| ✓ | ⏱: 3.32s 
+[FETCH]... ↓ 
+https://www.fermanaghtrust.org/our-grants/fermanagh-trust-grants-programme/    
+| ✓ | ⏱: 2.80s 
+[SCRAPE].. ◆ 
+https://www.fermanaghtrust.org/our-grants/fermanagh-trust-grants-programme/    
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● 
+https://www.fermanaghtrust.org/our-grants/fermanagh-trust-grants-programme/    
+| ✓ | ⏱: 3.13s 
+[94/119] id 5462 pages=9 src=register+website opps=12 stored=12 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102734&subId=0
+| ✓ | ⏱: 5.61s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102734&subId=0
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102734&subId=0
+| ✓ | ⏱: 5.80s 
+[ANTIBOT]. ℹ https://www.primrosetrust.org.uk                   | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.primrosetrust.org.uk/
+Call log:
+  - navigating to "https://www.primrosetrust.org.uk/", waiting until 
+"domcontentloaded"
+ 
+[ERROR]... × https://www.primrosetrust.org.uk                   | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.primrosetrust.org.uk/
+Call log:
+  - navigating to "https://www.primrosetrust.org.uk/", waiting until 
+"domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[95/119] id 5463 pages=1 src=register opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102757&subId=0
+| ✓ | ⏱: 4.42s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102757&subId=0
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC102757&subId=0
+| ✓ | ⏱: 4.61s 
+[FETCH]... ↓ https://www.vsb.org.uk                                            
+| ✓ | ⏱: 6.36s 
+[SCRAPE].. ◆ https://www.vsb.org.uk                                            
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.vsb.org.uk                                            
+| ✓ | ⏱: 6.44s 
+[96/119] id 5465 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103021&subId=0
+| ✓ | ⏱: 4.13s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103021&subId=0
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103021&subId=0
+| ✓ | ⏱: 4.28s 
+[FETCH]... ↓ https://www.puffintrust.org.uk                                    
+| ✓ | ⏱: 4.36s 
+[SCRAPE].. ◆ https://www.puffintrust.org.uk                                    
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.puffintrust.org.uk                                    
+| ✓ | ⏱: 4.51s 
+[97/119] id 5480 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103349&subId=0
+| ✓ | ⏱: 8.54s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103349&subId=0
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103349&subId=0
+| ✓ | ⏱: 8.71s 
+[FETCH]... ↓ https://www.dundonaldchristiantrust.org.uk                        
+| ✓ | ⏱: 4.54s 
+[SCRAPE].. ◆ https://www.dundonaldchristiantrust.org.uk                        
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.dundonaldchristiantrust.org.uk                        
+| ✓ | ⏱: 5.13s 
+[FETCH]... ↓ https://www.dundonaldchristiantrust.org.uk/                       
+| ✓ | ⏱: 2.24s 
+[SCRAPE].. ◆ https://www.dundonaldchristiantrust.org.uk/                       
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dundonaldchristiantrust.org.uk/                       
+| ✓ | ⏱: 2.30s 
+[98/119] id 5503 pages=3 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103528&subId=0
+| ✓ | ⏱: 6.14s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103528&subId=0
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103528&subId=0
+| ✓ | ⏱: 6.32s 
+[FETCH]... ↓ https://www.enkalonfoundation.org                                 
+| ✓ | ⏱: 4.75s 
+[SCRAPE].. ◆ https://www.enkalonfoundation.org                                 
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.enkalonfoundation.org                                 
+| ✓ | ⏱: 4.85s 
+[FETCH]... ↓ https://www.enkalonfoundation.org/                                
+| ✓ | ⏱: 1.75s 
+[SCRAPE].. ◆ https://www.enkalonfoundation.org/                                
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.enkalonfoundation.org/                                
+| ✓ | ⏱: 1.85s 
+[FETCH]... ↓ https://www.enkalonfoundation.org/annual-reports                  
+| ✓ | ⏱: 1.89s 
+[SCRAPE].. ◆ https://www.enkalonfoundation.org/annual-reports                  
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.enkalonfoundation.org/annual-reports                  
+| ✓ | ⏱: 2.01s 
+[FETCH]... ↓ https://www.enkalonfoundation.org/gallery                         
+| ✓ | ⏱: 2.11s 
+[SCRAPE].. ◆ https://www.enkalonfoundation.org/gallery                         
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.enkalonfoundation.org/gallery                         
+| ✓ | ⏱: 2.21s 
+[99/119] id 5516 pages=5 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103641&subId=0
+| ✓ | ⏱: 5.01s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103641&subId=0
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC103641&subId=0
+| ✓ | ⏱: 5.16s 
+[FETCH]... ↓ https://www.ciste.ie                                              
+| ✓ | ⏱: 14.75s 
+[SCRAPE].. ◆ https://www.ciste.ie                                              
+| ✓ | ⏱: 0.65s 
+[COMPLETE] ● https://www.ciste.ie                                              
+| ✓ | ⏱: 16.23s 
+[100/119] id 5526 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC104052&subId=0
+| ✓ | ⏱: 9.68s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC104052&subId=0
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC104052&subId=0
+| ✓ | ⏱: 9.81s 
+[FETCH]... ↓ https://www.boysmodelbursary.com                                  
+| ✓ | ⏱: 15.60s 
+[SCRAPE].. ◆ https://www.boysmodelbursary.com                                  
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.boysmodelbursary.com                                  
+| ✓ | ⏱: 15.64s 
+[101/119] id 5548 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC104617&subId=0
+| ✓ | ⏱: 6.42s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC104617&subId=0
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC104617&subId=0
+| ✓ | ⏱: 6.56s 
+[FETCH]... ↓ https://www.giftinternational.org                                 
+| ✓ | ⏱: 4.11s 
+[SCRAPE].. ◆ https://www.giftinternational.org                                 
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.giftinternational.org                                 
+| ✓ | ⏱: 4.20s 
+[FETCH]... ↓ https://www.giftinternational.org/                                
+| ✓ | ⏱: 2.11s 
+[SCRAPE].. ◆ https://www.giftinternational.org/                                
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.giftinternational.org/                                
+| ✓ | ⏱: 2.17s 
+[FETCH]... ↓ https://www.giftinternational.org/gallery.html                    
+| ✓ | ⏱: 2.35s 
+[SCRAPE].. ◆ https://www.giftinternational.org/gallery.html                    
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.giftinternational.org/gallery.html                    
+| ✓ | ⏱: 2.48s 
+[FETCH]... ↓ https://www.giftinternational.org/projects.html                   
+| ✓ | ⏱: 4.33s 
+[SCRAPE].. ◆ https://www.giftinternational.org/projects.html                   
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.giftinternational.org/projects.html                   
+| ✓ | ⏱: 4.54s 
+[102/119] id 5561 pages=5 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC104950&subId=0
+| ✓ | ⏱: 4.81s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC104950&subId=0
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC104950&subId=0
+| ✓ | ⏱: 4.94s 
+[FETCH]... ↓ https://theemmanueltrust.com                                      
+| ✓ | ⏱: 3.87s 
+[SCRAPE].. ◆ https://theemmanueltrust.com                                      
+| ✓ | ⏱: 0.23s 
+[COMPLETE] ● https://theemmanueltrust.com                                      
+| ✓ | ⏱: 4.33s 
+[103/119] id 5578 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105105&subId=0
+| ✓ | ⏱: 4.98s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105105&subId=0
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105105&subId=0
+| ✓ | ⏱: 5.27s 
+[FETCH]... ↓ https://www.communityfoundationni.org                             
+| ✓ | ⏱: 7.61s 
+[SCRAPE].. ◆ https://www.communityfoundationni.org                             
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.communityfoundationni.org                             
+| ✓ | ⏱: 7.91s 
+[104/119] id 5583 pages=2 src=register+website opps=4 stored=4 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105280&subId=0
+| ✓ | ⏱: 3.77s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105280&subId=0
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105280&subId=0
+| ✓ | ⏱: 3.93s 
+[FETCH]... ↓ https://www.belfastrotaryclub.com                                 
+| ✓ | ⏱: 2.32s 
+[SCRAPE].. ◆ https://www.belfastrotaryclub.com                                 
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.belfastrotaryclub.com                                 
+| ✓ | ⏱: 2.34s 
+[FETCH]... ↓ https://www.belfastrotaryclub.com/cpanel                          
+| ✓ | ⏱: 1.54s 
+[SCRAPE].. ◆ https://www.belfastrotaryclub.com/cpanel                          
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.belfastrotaryclub.com/cpanel                          
+| ✓ | ⏱: 1.64s 
+[105/119] id 5588 pages=3 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105776&subId=0
+| ✓ | ⏱: 3.35s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105776&subId=0
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105776&subId=0
+| ✓ | ⏱: 3.53s 
+[ANTIBOT]. ℹ https://n/a                                        | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/a
+Call log:
+  - navigating to "https://n/a", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://n/a                                        | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/a
+Call log:
+  - navigating to "https://n/a", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[106/119] id 5603 pages=1 src=register opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105780&subId=0
+| ✓ | ⏱: 4.58s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105780&subId=0
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105780&subId=0
+| ✓ | ⏱: 4.87s 
+[FETCH]... ↓ https://www.dhcni.com                                             
+| ✓ | ⏱: 4.62s 
+[SCRAPE].. ◆ https://www.dhcni.com                                             
+| ✓ | ⏱: 0.18s 
+[COMPLETE] ● https://www.dhcni.com                                             
+| ✓ | ⏱: 4.87s 
+[107/119] id 5604 pages=2 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105836&subId=0
+| ✓ | ⏱: 4.28s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105836&subId=0
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC105836&subId=0
+| ✓ | ⏱: 4.42s 
+[FETCH]... ↓ https://www.ulstercarpets.com                                     
+| ✓ | ⏱: 4.09s 
+[SCRAPE].. ◆ https://www.ulstercarpets.com                                     
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.ulstercarpets.com                                     
+| ✓ | ⏱: 4.21s 
+[108/119] id 5607 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106075&subId=0
+| ✓ | ⏱: 4.63s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106075&subId=0
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106075&subId=0
+| ✓ | ⏱: 4.81s 
+[FETCH]... ↓ https://www.irishtemperanceleague.com                             
+| ✓ | ⏱: 7.46s 
+[SCRAPE].. ◆ https://www.irishtemperanceleague.com                             
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://www.irishtemperanceleague.com                             
+| ✓ | ⏱: 7.82s 
+[109/119] id 5612 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106078&subId=0
+| ✓ | ⏱: 10.89s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106078&subId=0
+| ✓ | ⏱: 0.18s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106078&subId=0
+| ✓ | ⏱: 11.14s 
+[FETCH]... ↓ https://www.cdhn.org                                              
+| ✓ | ⏱: 7.11s 
+[SCRAPE].. ◆ https://www.cdhn.org                                              
+| ✓ | ⏱: 0.54s 
+[COMPLETE] ● https://www.cdhn.org                                              
+| ✓ | ⏱: 7.81s 
+[110/119] id 5613 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106323&subId=0
+| ✓ | ⏱: 5.54s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106323&subId=0
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106323&subId=0
+| ✓ | ⏱: 5.79s 
+[FETCH]... ↓ https://www.nienetworks.co.uk/about-nie/charities-fund            
+| ✓ | ⏱: 4.87s 
+[SCRAPE].. ◆ https://www.nienetworks.co.uk/about-nie/charities-fund            
+| ✓ | ⏱: 0.21s 
+[COMPLETE] ● https://www.nienetworks.co.uk/about-nie/charities-fund            
+| ✓ | ⏱: 5.16s 
+[FETCH]... ↓ https://www.nienetworks.co.uk/                                    
+| ✓ | ⏱: 4.71s 
+[SCRAPE].. ◆ https://www.nienetworks.co.uk/                                    
+| ✓ | ⏱: 0.33s 
+[COMPLETE] ● https://www.nienetworks.co.uk/                                    
+| ✓ | ⏱: 5.30s 
+[FETCH]... ↓ https://www.nienetworks.co.uk/accessibility                       
+| ✓ | ⏱: 4.72s 
+[SCRAPE].. ◆ https://www.nienetworks.co.uk/accessibility                       
+| ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://www.nienetworks.co.uk/accessibility                       
+| ✓ | ⏱: 4.96s 
+[FETCH]... ↓ https://www.nienetworks.co.uk/connections                         
+| ✓ | ⏱: 2.93s 
+[SCRAPE].. ◆ https://www.nienetworks.co.uk/connections                         
+| ✓ | ⏱: 0.32s 
+[COMPLETE] ● https://www.nienetworks.co.uk/connections                         
+| ✓ | ⏱: 3.47s 
+[FETCH]... ↓ https://www.nienetworks.co.uk/cookie-policy                       
+| ✓ | ⏱: 3.16s 
+[SCRAPE].. ◆ https://www.nienetworks.co.uk/cookie-policy                       
+| ✓ | ⏱: 0.34s 
+[COMPLETE] ● https://www.nienetworks.co.uk/cookie-policy                       
+| ✓ | ⏱: 3.61s 
+[FETCH]... ↓ https://www.nienetworks.co.uk/disclaimer                          
+| ✓ | ⏱: 3.74s 
+[SCRAPE].. ◆ https://www.nienetworks.co.uk/disclaimer                          
+| ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://www.nienetworks.co.uk/disclaimer                          
+| ✓ | ⏱: 3.95s 
+[FETCH]... ↓ https://www.nienetworks.co.uk/future-networks                     
+| ✓ | ⏱: 2.37s 
+[SCRAPE].. ◆ https://www.nienetworks.co.uk/future-networks                     
+| ✓ | ⏱: 0.18s 
+[COMPLETE] ● https://www.nienetworks.co.uk/future-networks                     
+| ✓ | ⏱: 2.67s 
+[FETCH]... ↓ https://www.nienetworks.co.uk/icp                                 
+| ✓ | ⏱: 2.27s 
+[SCRAPE].. ◆ https://www.nienetworks.co.uk/icp                                 
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://www.nienetworks.co.uk/icp                                 
+| ✓ | ⏱: 2.42s 
+[111/119] id 5621 pages=9 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106498&subId=0
+| ✓ | ⏱: 5.75s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106498&subId=0
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC106498&subId=0
+| ✓ | ⏱: 5.90s 
+[ANTIBOT]. ℹ https://as per page 7 o...017" the gallaher trust  | Error: Proxy 
+direct failed: BrowserContext.add_cookies: Invalid URL 
+[ERROR]... × https://as per page 7 o...017" the gallaher trust  | Error: 
+Unexpected error in _crawl_web at line 559 in wrap_api_call 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\playwright\_impl\_c
+onnection.py):
+Error: BrowserContext.add_cookies: Invalid URL
+
+Code context:
+ 554           parsed_st = _extract_stack_trace_information_from_stack(st, 
+is_internal, title)
+ 555           self._api_zone.set(parsed_st)
+ 556           try:
+ 557               return await cb()
+ 558           except Exception as error:
+ 559 →             raise rewrite_error(error, f"{parsed_st['apiName']}: 
+{error}") from None
+ 560           finally:
+ 561               self._api_zone.set(None)
+ 562   
+ 563       def wrap_api_call_sync(
+ 564           self, cb: Callable[[], Any], is_internal: bool = False, title: 
+str = None 
+[112/119] id 5627 pages=1 src=register opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC107188&subId=0
+| ✓ | ⏱: 4.23s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC107188&subId=0
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC107188&subId=0
+| ✓ | ⏱: 4.36s 
+[FETCH]... ↓ https://www.globaldonations.ie                                    
+| ✓ | ⏱: 3.59s 
+[SCRAPE].. ◆ https://www.globaldonations.ie                                    
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.globaldonations.ie                                    
+| ✓ | ⏱: 3.64s 
+[FETCH]... ↓ https://www.globaldonations.ie/                                   
+| ✓ | ⏱: 4.65s 
+[SCRAPE].. ◆ https://www.globaldonations.ie/                                   
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.globaldonations.ie/                                   
+| ✓ | ⏱: 4.70s 
+[113/119] id 5632 pages=3 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC107373&subId=0
+| ✓ | ⏱: 4.85s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC107373&subId=0
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC107373&subId=0
+| ✓ | ⏱: 5.07s 
+[FETCH]... ↓ https://www.lftcharitabletrust.com                                
+| ✓ | ⏱: 3.57s 
+[SCRAPE].. ◆ https://www.lftcharitabletrust.com                                
+| ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.lftcharitabletrust.com                                
+| ✓ | ⏱: 3.83s 
+[114/119] id 5638 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC107814&subId=0
+| ✓ | ⏱: 4.71s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC107814&subId=0
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC107814&subId=0
+| ✓ | ⏱: 4.93s 
+[ANTIBOT]. ℹ https://n/a                                        | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/a
+Call log:
+  - navigating to "https://n/a", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://n/a                                        | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/a
+Call log:
+  - navigating to "https://n/a", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[115/119] id 5654 pages=1 src=register opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC108509&subId=0
+| ✓ | ⏱: 10.41s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC108509&subId=0
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC108509&subId=0
+| ✓ | ⏱: 10.57s 
+[FETCH]... ↓ https://www.summerhillfoundation.com                              
+| ✓ | ⏱: 4.70s 
+[SCRAPE].. ◆ https://www.summerhillfoundation.com                              
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.summerhillfoundation.com                              
+| ✓ | ⏱: 4.78s 
+[FETCH]... ↓ https://www.summerhillfoundation.com/application-guidelines/      
+| ✓ | ⏱: 1.99s 
+[SCRAPE].. ◆ https://www.summerhillfoundation.com/application-guidelines/      
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.summerhillfoundation.com/application-guidelines/      
+| ✓ | ⏱: 2.09s 
+[FETCH]... ↓ https://www.summerhillfoundation.com/apply/                       
+| ✓ | ⏱: 1.93s 
+[SCRAPE].. ◆ https://www.summerhillfoundation.com/apply/                       
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.summerhillfoundation.com/apply/                       
+| ✓ | ⏱: 2.08s 
+[FETCH]... ↓ https://www.summerhillfoundation.com/                             
+| ✓ | ⏱: 2.78s 
+[SCRAPE].. ◆ https://www.summerhillfoundation.com/                             
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.summerhillfoundation.com/                             
+| ✓ | ⏱: 2.87s 
+[FETCH]... ↓ https://www.summerhillfoundation.com/early-years/                 
+| ✓ | ⏱: 4.09s 
+[SCRAPE].. ◆ https://www.summerhillfoundation.com/early-years/                 
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.summerhillfoundation.com/early-years/                 
+| ✓ | ⏱: 4.17s 
+[FETCH]... ↓ https://www.summerhillfoundation.com/family/                      
+| ✓ | ⏱: 2.59s 
+[SCRAPE].. ◆ https://www.summerhillfoundation.com/family/                      
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.summerhillfoundation.com/family/                      
+| ✓ | ⏱: 2.76s 
+[FETCH]... ↓ https://www.summerhillfoundation.com/meet/                        
+| ✓ | ⏱: 2.67s 
+[SCRAPE].. ◆ https://www.summerhillfoundation.com/meet/                        
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.summerhillfoundation.com/meet/                        
+| ✓ | ⏱: 2.75s 
+[FETCH]... ↓ https://www.summerhillfoundation.com/scholarships/                
+| ✓ | ⏱: 2.21s 
+[SCRAPE].. ◆ https://www.summerhillfoundation.com/scholarships/                
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.summerhillfoundation.com/scholarships/                
+| ✓ | ⏱: 2.28s 
+[116/119] id 5681 pages=9 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC108771&subId=0
+| ✓ | ⏱: 5.65s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC108771&subId=0
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC108771&subId=0
+| ✓ | ⏱: 5.79s 
+[FETCH]... ↓ https://www.brianconlonfoundation.com                             
+| ✓ | ⏱: 18.57s 
+[SCRAPE].. ◆ https://www.brianconlonfoundation.com                             
+| ✓ | ⏱: 0.28s 
+[COMPLETE] ● https://www.brianconlonfoundation.com                             
+| ✓ | ⏱: 19.10s 
+[117/119] id 5694 pages=2 src=register+website opps=5 stored=5 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC108909&subId=0
+| ✓ | ⏱: 4.54s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC108909&subId=0
+| ✓ | ⏱: 0.14s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC108909&subId=0
+| ✓ | ⏱: 4.74s 
+[ANTIBOT]. ℹ https://none                                       | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://none/
+Call log:
+  - navigating to "https://none/", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://none                                       | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://none/
+Call log:
+  - navigating to "https://none/", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[118/119] id 5701 pages=1 src=register opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC109328&subId=0
+| ✓ | ⏱: 3.00s 
+[SCRAPE].. ◆ 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC109328&subId=0
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.charitycommissionni.org.uk/charity-details/?regId=NIC109328&subId=0
+| ✓ | ⏱: 3.18s 
+[ANTIBOT]. ℹ https://n/a                                        | Error: Proxy 
+direct failed: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/a
+Call log:
+  - navigating to "https://n/a", waiting until "domcontentloaded"
+ 
+[ERROR]... × https://n/a                                        | Error: 
+Unexpected error in _crawl_web at line 778 in _crawl_web 
+(..\..\..\..\AppData\Roaming\Python\Python313\site-packages\crawl4ai\async_craw
+ler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://n/a
+Call log:
+  - navigating to "https://n/a", waiting until "domcontentloaded"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating 
+ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # 
+──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only 
+the last
+ 782                       # hop, so we trace the `request.redirected_from` 
+links until the
+ 783                       # first response that differs from the final one and
+surface its 
+[119/119] id 5715 pages=1 src=register opps=0 stored=0 replaced=0
+Wrote complete/dual_crawl_3.json: 119 funders

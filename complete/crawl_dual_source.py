@@ -123,11 +123,19 @@ def main() -> int:
     ap.add_argument("--review-dir", default="review")
     ap.add_argument("--resume", action="store_true",
                     help="Skip funders that already have a review pack in --review-dir")
+    ap.add_argument("--llm", default="deepseek", choices=["deepseek", "router"],
+                    help="deepseek: v3 analyzer (DeepSeek-only). router: DeepSeek-first "
+                         "with OpenRouter-free fallback + combined-page prompt.")
     args = ap.parse_args()
 
     from complete.crawl_websites import crawl_site, is_own_website, normalize_url
-    from complete.extract_programmes import enrich_from_db, map_to_row, store_rows
-    from regular_website_pipeline import analyze_foundation_content
+    from complete.extract_programmes import (
+        build_extraction_prompt,
+        enrich_from_db,
+        map_to_row,
+        parse_opportunities,
+        store_rows,
+    )
 
     data = json.loads(Path(args.from_file).read_text())
     grantmakers = [r for r in data.get("results", []) if r.get("is_grantmaker")]
@@ -172,8 +180,24 @@ def main() -> int:
             continue
         used = sorted({p.get("source", "website") for p in pages})
         sources = "+".join(used)
-        analysis = asyncio.run(analyze_foundation_content(pages, t["name"]))
-        opps = [o for o in analysis.get("opportunities", []) if isinstance(o, dict)]
+        provider = "deepseek"
+        if args.llm == "router":
+            from llm.router import evaluate_text as routed
+
+            combined = "\n\n".join(f"[SOURCE {p.get('source', 'website')}] {p.get('url', '')}\n"
+                                   f"{p.get('content', '')[:8000]}" for p in pages)
+            raw, provider = routed(build_extraction_prompt(
+                {"name": t.get("name", ""), "charity_number": t.get("charity_number", "")},
+                combined[:15000]))
+            try:
+                opps = parse_opportunities(raw["choices"][0]["message"]["content"])
+            except (KeyError, IndexError, TypeError):
+                opps = []
+        else:
+            from regular_website_pipeline import analyze_foundation_content
+
+            analysis = asyncio.run(analyze_foundation_content(pages, t["name"]))
+            opps = [o for o in analysis.get("opportunities", []) if isinstance(o, dict)]
         rows = [map_to_row(o, t["id"]) for o in opps if o.get("opportunity_title")]
         for r in rows:
             r["opportunity_source"] = f"dual-{sources}" if len(used) > 1 else f"single-{sources}"
@@ -183,9 +207,9 @@ def main() -> int:
         (review_dir / f"{t['id']}.md").write_text(build_review_pack(t, pages, opps, sources))
         summary.append({"id": t["id"], "name": t["name"], "pages": len(pages),
                         "sources": sources, "opps_found": len(opps),
-                        "replaced": replaced, "stored": stored})
+                        "replaced": replaced, "stored": stored, "llm": provider})
         print(f"[{n}/{total}] id {t['id']} pages={len(pages)} src={sources} "
-              f"opps={len(opps)} stored={stored} replaced={replaced}", flush=True)
+              f"opps={len(opps)} stored={stored} replaced={replaced} llm={provider}", flush=True)
     out = {"sampled": len(grantmakers), "dry_run": args.dry_run, "funders": summary}
     text = json.dumps(out, indent=2)
     if args.out:

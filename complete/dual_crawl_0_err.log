@@ -1,13 +1,13 @@
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.22 seconds
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.53 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-INFO:regular_website_pipeline:  ✓ Analysis complete. Found 4 opportunities.
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 0.87 seconds
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.47 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
 ERROR:asyncio:Task exception was never retrieved
 future: <Task finished name='Task-55' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
@@ -41,83 +41,11 @@ Traceback (most recent call last):
 RuntimeError: Event loop is closed
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 0.93 seconds
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 2.19 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 2 opportunities.
 ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-78' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
-Traceback (most recent call last):
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
-    await self._transport.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
-    await self._pool.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
-    await self._close_connections(closing_connections)
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
-    await connection.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
-    await self._connection.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
-    await self._network_stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
-    await self._stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
-    await self.transport_stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
-    self._transport.close()
-    ~~~~~~~~~~~~~~~~~~~~~^^
-  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
-    self._loop.call_soon(self._call_connection_lost, None)
-    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
-    self._check_closed()
-    ~~~~~~~~~~~~~~~~~~^^
-  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
-    raise RuntimeError('Event loop is closed')
-RuntimeError: Event loop is closed
-INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
-INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.40 seconds
-INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
-ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-109' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
-Traceback (most recent call last):
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
-    await self._transport.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
-    await self._pool.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
-    await self._close_connections(closing_connections)
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
-    await connection.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
-    await self._connection.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
-    await self._network_stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
-    await self._stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
-    await self.transport_stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
-    self._transport.close()
-    ~~~~~~~~~~~~~~~~~~~~~^^
-  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
-    self._loop.call_soon(self._call_connection_lost, None)
-    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
-    self._check_closed()
-    ~~~~~~~~~~~~~~~~~~^^
-  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
-    raise RuntimeError('Event loop is closed')
-RuntimeError: Event loop is closed
-INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
-INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.71 seconds
-INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
-ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-132' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+future: <Task finished name='Task-86' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
   File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
     await self._transport.aclose()
@@ -153,38 +81,7 @@ INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.18 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
 INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
 ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-155' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
-Traceback (most recent call last):
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
-    await self._transport.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
-    await self._pool.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
-    await self._close_connections(closing_connections)
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
-    await connection.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
-    await self._connection.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
-    await self._network_stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
-    await self._stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
-    await self.transport_stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
-    self._transport.close()
-    ~~~~~~~~~~~~~~~~~~~~~^^
-  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
-    self._loop.call_soon(self._call_connection_lost, None)
-    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
-    self._check_closed()
-    ~~~~~~~~~~~~~~~~~~^^
-  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
-    raise RuntimeError('Event loop is closed')
-RuntimeError: Event loop is closed
-ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-166' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+future: <Task finished name='Task-127' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
   File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
     await self._transport.aclose()
@@ -216,11 +113,78 @@ Traceback (most recent call last):
 RuntimeError: Event loop is closed
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.48 seconds
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 2.34 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 3 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-148' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-149' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.45 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
 INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
 ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-192' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+future: <Task finished name='Task-173' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
   File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
     await self._transport.aclose()
@@ -252,11 +216,11 @@ Traceback (most recent call last):
 RuntimeError: Event loop is closed
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 0.92 seconds
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.36 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 2 opportunities.
 ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-205' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+future: <Task finished name='Task-197' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
   File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
     await self._transport.aclose()
@@ -288,9 +252,9 @@ Traceback (most recent call last):
 RuntimeError: Event loop is closed
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.29 seconds
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.26 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 2 opportunities.
 ERROR:asyncio:Task exception was never retrieved
 future: <Task finished name='Task-228' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
@@ -324,11 +288,11 @@ Traceback (most recent call last):
 RuntimeError: Event loop is closed
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.97 seconds
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.39 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
 INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
 ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-259' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+future: <Task finished name='Task-254' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
   File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
     await self._transport.aclose()
@@ -360,11 +324,11 @@ Traceback (most recent call last):
 RuntimeError: Event loop is closed
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.55 seconds
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.83 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
 INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
 ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-290' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+future: <Task finished name='Task-284' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
   File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
     await self._transport.aclose()
@@ -396,11 +360,11 @@ Traceback (most recent call last):
 RuntimeError: Event loop is closed
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.67 seconds
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 0.99 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 3 opportunities.
 ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-313' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+future: <Task finished name='Task-308' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
   File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
     await self._transport.aclose()
@@ -432,11 +396,479 @@ Traceback (most recent call last):
 RuntimeError: Event loop is closed
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.95 seconds
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.51 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
 INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
 ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-344' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+future: <Task finished name='Task-332' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.51 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-358' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.42 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-382' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.38 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-405' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.18 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-428' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 2.20 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 2 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-457' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.23 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-480' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.69 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 5 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-504' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 0.95 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 2 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-528' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.94 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-552' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.79 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-583' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.19 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-607' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.57 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-631' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 2.31 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-655' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
   File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
     await self._transport.aclose()
@@ -472,7 +904,7 @@ INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.58 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
 INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
 ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-368' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+future: <Task finished name='Task-686' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
   File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
     await self._transport.aclose()
@@ -504,47 +936,11 @@ Traceback (most recent call last):
 RuntimeError: Event loop is closed
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.64 seconds
-INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-INFO:regular_website_pipeline:  ✓ Analysis complete. Found 2 opportunities.
-ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-392' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
-Traceback (most recent call last):
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
-    await self._transport.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
-    await self._pool.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
-    await self._close_connections(closing_connections)
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
-    await connection.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
-    await self._connection.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
-    await self._network_stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
-    await self._stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
-    await self.transport_stream.aclose()
-  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
-    self._transport.close()
-    ~~~~~~~~~~~~~~~~~~~~~^^
-  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
-    self._loop.call_soon(self._call_connection_lost, None)
-    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
-    self._check_closed()
-    ~~~~~~~~~~~~~~~~~~^^
-  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
-    raise RuntimeError('Event loop is closed')
-RuntimeError: Event loop is closed
-INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
-INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
-INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.03 seconds
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.85 seconds
 INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
 INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
 ERROR:asyncio:Task exception was never retrieved
-future: <Task finished name='Task-415' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+future: <Task finished name='Task-709' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
 Traceback (most recent call last):
   File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
     await self._transport.aclose()
@@ -576,3 +972,618 @@ Traceback (most recent call last):
 RuntimeError: Event loop is closed
 INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
 INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.50 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-733' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.94 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-764' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.84 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-795' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.26 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 2 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-826' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.57 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-857' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.61 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-884' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.72 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-908' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.54 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-939' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.28 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 2 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-967' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.40 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 3 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-998' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 0.98 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1021' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.00 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1052' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.58 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 1 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1075' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.89 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1106' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.57 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1154' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.51 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1185' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.70 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1208' coro=<AsyncClient.aclose() done, defined at C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py:1996> exception=RuntimeError('Event loop is closed')>
+Traceback (most recent call last):
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 2003, in aclose
+    await self._transport.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 383, in aclose
+    await self._pool.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 353, in aclose
+    await self._close_connections(closing_connections)
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection_pool.py", line 345, in _close_connections
+    await connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\connection.py", line 173, in aclose
+    await self._connection.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_async\http11.py", line 258, in aclose
+    await self._network_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\anyio.py", line 53, in aclose
+    await self._stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\streams\tls.py", line 236, in aclose
+    await self.transport_stream.aclose()
+  File "C:\Users\jimcr\AppData\Roaming\Python\Python313\site-packages\anyio\_backends\_asyncio.py", line 1344, in aclose
+    self._transport.close()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\proactor_events.py", line 109, in close
+    self._loop.call_soon(self._call_connection_lost, None)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 828, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\asyncio\base_events.py", line 551, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+INFO:regular_website_pipeline:  🤖 Starting DeepSeek analysis...
+INFO:simple_llm_analysis:  ⏳ Initializing DeepSeek client...
+INFO:simple_llm_analysis:  ⏱️ DeepSeek client initialized in 1.83 seconds
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:regular_website_pipeline:  ✓ Analysis complete. Found 0 opportunities.
