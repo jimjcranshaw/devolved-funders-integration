@@ -91,6 +91,30 @@ def replace_machine_rows(funder_id: int) -> int:
         conn.close()
 
 
+def replace_placeholders(funder_id: int) -> int:
+    """Delete old DEFAULT_TEMPLATE placeholder rows once real ones land."""
+    import psycopg2
+
+    conn = psycopg2.connect(
+        host=os.getenv("DB_HOST", "psql-grantsai-db.postgres.database.azure.com"),
+        user=os.getenv("DB_USER", "grantsadmin"),
+        password=os.getenv("DB_PASSWORD", ""),
+        database=os.getenv("DEVOLVED_DB_NAME", "grantseeker_devolved"),
+        port=int(os.getenv("DB_PORT", "5432")),
+        sslmode="require",
+    )
+    try:
+        with conn.cursor() as cur:
+            cur.execute("DELETE FROM funding_opportunities WHERE funder_id = %s "
+                        "AND opportunity_source = 'DEFAULT_TEMPLATE'",
+                        (funder_id,))
+            n = cur.rowcount
+        conn.commit()
+        return n
+    finally:
+        conn.close()
+
+
 def build_review_pack(funder: dict, pages: list[dict], opps: list[dict],
                       sources: str) -> str:
     """Human review markdown: what was read, what was extracted. Pure."""
@@ -202,14 +226,16 @@ def main() -> int:
         for r in rows:
             r["opportunity_source"] = f"dual-{sources}" if len(used) > 1 else f"single-{sources}"
         replaced = replace_machine_rows(t["id"]) if rows else 0
+        placeholders = replace_placeholders(t["id"]) if rows else 0
         stored = store_rows(rows) if rows else 0
         review_dir.mkdir(exist_ok=True)
         (review_dir / f"{t['id']}.md").write_text(build_review_pack(t, pages, opps, sources))
         summary.append({"id": t["id"], "name": t["name"], "pages": len(pages),
                         "sources": sources, "opps_found": len(opps),
-                        "replaced": replaced, "stored": stored, "llm": provider})
+                        "replaced": replaced, "placeholders": placeholders,
+                        "stored": stored, "llm": provider})
         print(f"[{n}/{total}] id {t['id']} pages={len(pages)} src={sources} "
-              f"opps={len(opps)} stored={stored} replaced={replaced} llm={provider}", flush=True)
+              f"opps={len(opps)} stored={stored} replaced={replaced}+{placeholders} llm={provider}", flush=True)
     out = {"sampled": len(grantmakers), "dry_run": args.dry_run, "funders": summary}
     text = json.dumps(out, indent=2)
     if args.out:

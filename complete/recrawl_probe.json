@@ -1,0 +1,16 @@
+{
+  "sampled": 1,
+  "dry_run": false,
+  "funders": [
+    {
+      "id": 13,
+      "name": "Peebles Congregation Of Jehovahs Witnesses",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 0,
+      "replaced": 0,
+      "stored": 0,
+      "llm": "deepseek"
+    }
+  ]
+}
