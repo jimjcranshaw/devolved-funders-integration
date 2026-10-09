@@ -1,0 +1,22 @@
+Resume: 411 queued, 2 remaining
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC007745          | ✓ | ⏱: 1.77s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC007745          | ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC007745          | ✓ | ⏱: 1.88s 
+[1/2] id 630 pages=1 src=register opps=0 stored=0 replaced=0+0 llm=deepseek
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC007870          | ✓ | ⏱: 1.87s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC007870          | ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC007870          | ✓ | ⏱: 1.98s 
+[2/2] id 639 pages=1 src=register opps=0 stored=0 replaced=0+0 llm=deepseek
+Wrote complete/recrawl_0.json: 2 funders

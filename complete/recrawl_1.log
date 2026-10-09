@@ -1,0 +1,12 @@
+Resume: 411 queued, 1 remaining
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC023325          | ✓ | ⏱: 2.20s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC023325          | ✓ | ⏱: 0.04s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC023325          | ✓ | ⏱: 2.29s 
+[1/1] id 1780 pages=1 src=register opps=0 stored=0 replaced=0+0 llm=deepseek
+Wrote complete/recrawl_1.json: 1 funders

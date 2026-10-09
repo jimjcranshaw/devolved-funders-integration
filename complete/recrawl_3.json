@@ -1,0 +1,39 @@
+{
+  "sampled": 3,
+  "dry_run": false,
+  "funders": [
+    {
+      "id": 4619,
+      "name": "Glenbarr Community Development Association",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 0,
+      "replaced": 0,
+      "placeholders": 0,
+      "stored": 0,
+      "llm": "deepseek"
+    },
+    {
+      "id": 4630,
+      "name": "The HFD Charitable Foundation",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 0,
+      "replaced": 0,
+      "placeholders": 0,
+      "stored": 0,
+      "llm": "deepseek"
+    },
+    {
+      "id": 4632,
+      "name": "The Life Church in Irvine",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 0,
+      "replaced": 0,
+      "placeholders": 0,
+      "stored": 0,
+      "llm": "deepseek"
+    }
+  ]
+}

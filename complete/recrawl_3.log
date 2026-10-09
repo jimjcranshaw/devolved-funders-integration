@@ -1,0 +1,32 @@
+Resume: 409 queued, 3 remaining
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048909          | ✓ | ⏱: 1.65s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048909          | ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048909          | ✓ | ⏱: 1.75s 
+[1/3] id 4619 pages=1 src=register opps=0 stored=0 replaced=0+0 llm=deepseek
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048966          | ✓ | ⏱: 1.78s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048966          | ✓ | ⏱: 0.04s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048966          | ✓ | ⏱: 1.87s 
+[2/3] id 4630 pages=1 src=register opps=0 stored=0 replaced=0+0 llm=deepseek
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048975          | ✓ | ⏱: 1.96s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048975          | ✓ | ⏱: 0.04s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048975          | ✓ | ⏱: 2.03s 
+[3/3] id 4632 pages=1 src=register opps=0 stored=0 replaced=0+0 llm=deepseek
+Wrote complete/recrawl_3.json: 3 funders

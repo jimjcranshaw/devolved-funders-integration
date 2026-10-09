@@ -1,0 +1,17 @@
+{
+  "sampled": 1,
+  "dry_run": false,
+  "funders": [
+    {
+      "id": 1780,
+      "name": "St Margaret Of Scotland Episcopal Church: Isle Of Arran",
+      "pages": 1,
+      "sources": "register",
+      "opps_found": 0,
+      "replaced": 0,
+      "placeholders": 0,
+      "stored": 0,
+      "llm": "deepseek"
+    }
+  ]
+}
