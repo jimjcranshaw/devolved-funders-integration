@@ -121,6 +121,8 @@ def main() -> int:
     ap.add_argument("--ids", default="")
     ap.add_argument("--out", default="")
     ap.add_argument("--review-dir", default="review")
+    ap.add_argument("--resume", action="store_true",
+                    help="Skip funders that already have a review pack in --review-dir")
     args = ap.parse_args()
 
     from complete.crawl_websites import crawl_site, is_own_website, normalize_url
@@ -139,6 +141,11 @@ def main() -> int:
         print(f"Warning: DB enrich failed ({e}).")
 
     review_dir = Path(args.review_dir)
+    review_dir.mkdir(exist_ok=True)
+    if args.resume:
+        before = len(grantmakers)
+        grantmakers = [g for g in grantmakers if not (review_dir / f"{g['id']}.md").exists()]
+        print(f"Resume: {before} queued, {len(grantmakers)} remaining", flush=True)
     summary: list[dict] = []
     total = len(grantmakers)
     for n, t in enumerate(grantmakers, start=1):

@@ -1,0 +1,219 @@
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026072          | ✓ | ⏱: 7.53s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026072          | ✓ | ⏱: 0.28s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026072          | ✓ | ⏱: 8.01s 
+[FETCH]... ↓ https://www.borderschildrenscharity.org.uk                        
+| ✓ | ⏱: 9.31s 
+[SCRAPE].. ◆ https://www.borderschildrenscharity.org.uk                        
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.borderschildrenscharity.org.uk                        
+| ✓ | ⏱: 9.46s 
+[1/145] id 1939 pages=2 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026095          | ✓ | ⏱: 8.05s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026095          | ✓ | ⏱: 0.16s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026095          | ✓ | ⏱: 8.28s 
+[FETCH]... ↓ https://www.levenseattrust.org.uk                                 
+| ✓ | ⏱: 3.83s 
+[SCRAPE].. ◆ https://www.levenseattrust.org.uk                                 
+| ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.levenseattrust.org.uk                                 
+| ✓ | ⏱: 3.85s 
+[2/145] id 1943 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026105          | ✓ | ⏱: 8.52s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026105          | ✓ | ⏱: 0.17s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026105          | ✓ | ⏱: 8.90s 
+[FETCH]... ↓ https://www.rotary-ribi.org/clubs/homepage.php?ClubID=18          
+| ✓ | ⏱: 4.86s 
+[SCRAPE].. ◆ https://www.rotary-ribi.org/clubs/homepage.php?ClubID=18          
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.rotary-ribi.org/clubs/homepage.php?ClubID=18          
+| ✓ | ⏱: 4.98s 
+[3/145] id 1945 pages=2 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026679          | ✓ | ⏱: 3.82s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026679          | ✓ | ⏱: 0.11s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC026679          | ✓ | ⏱: 4.00s 
+[FETCH]... ↓ https://www.highlandcross.co.uk                                   
+| ✓ | ⏱: 2.56s 
+[SCRAPE].. ◆ https://www.highlandcross.co.uk                                   
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://www.highlandcross.co.uk                                   
+| ✓ | ⏱: 2.71s 
+[FETCH]... ↓ https://www.highlandcross.co.uk/Charity.htm                       
+| ✓ | ⏱: 1.17s 
+[SCRAPE].. ◆ https://www.highlandcross.co.uk/Charity.htm                       
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.highlandcross.co.uk/Charity.htm                       
+| ✓ | ⏱: 1.28s 
+[FETCH]... ↓ https://www.highlandcross.co.uk/Donations.htm                     
+| ✓ | ⏱: 2.87s 
+[SCRAPE].. ◆ https://www.highlandcross.co.uk/Donations.htm                     
+| ✓ | ⏱: 0.74s 
+[COMPLETE] ● https://www.highlandcross.co.uk/Donations.htm                     
+| ✓ | ⏱: 3.68s 
+[FETCH]... ↓ https://www.highlandcross.co.uk/History.htm                       
+| ✓ | ⏱: 1.83s 
+[SCRAPE].. ◆ https://www.highlandcross.co.uk/History.htm                       
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● https://www.highlandcross.co.uk/History.htm                       
+| ✓ | ⏱: 2.03s 
+[FETCH]... ↓ https://www.highlandcross.co.uk/RecentWinners.htm                 
+| ✓ | ⏱: 2.63s 
+[SCRAPE].. ◆ https://www.highlandcross.co.uk/RecentWinners.htm                 
+| ✓ | ⏱: 1.15s 
+[COMPLETE] ● https://www.highlandcross.co.uk/RecentWinners.htm                 
+| ✓ | ⏱: 4.12s 
+[FETCH]... ↓ https://www.highlandcross.co.uk/Results.htm                       
+| ✓ | ⏱: 1.58s 
+[SCRAPE].. ◆ https://www.highlandcross.co.uk/Results.htm                       
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://www.highlandcross.co.uk/Results.htm                       
+| ✓ | ⏱: 1.75s 
+[FETCH]... ↓ https://www.highlandcross.co.uk/Safety Advice.htm                 
+| ✓ | ⏱: 1.36s 
+[SCRAPE].. ◆ https://www.highlandcross.co.uk/Safety Advice.htm                 
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.highlandcross.co.uk/Safety Advice.htm                 
+| ✓ | ⏱: 1.52s 
+[FETCH]... ↓ https://www.highlandcross.co.uk/Sponsors.htm                      
+| ✓ | ⏱: 0.88s 
+[SCRAPE].. ◆ https://www.highlandcross.co.uk/Sponsors.htm                      
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.highlandcross.co.uk/Sponsors.htm                      
+| ✓ | ⏱: 0.96s 
+[4/145] id 1959 pages=9 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC027004          | ✓ | ⏱: 5.83s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC027004          | ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC027004          | ✓ | ⏱: 6.00s 
+[FETCH]... ↓ https://www.rotary-ribi.org/clubs/homepage.php?ClubID=47          
+| ✓ | ⏱: 5.42s 
+[SCRAPE].. ◆ https://www.rotary-ribi.org/clubs/homepage.php?ClubID=47          
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.rotary-ribi.org/clubs/homepage.php?ClubID=47          
+| ✓ | ⏱: 5.57s 
+[FETCH]... ↓ http://www.rotary-ribi.org/districts/homepage.php?DistrictNo=1010 
+| ✓ | ⏱: 13.62s 
+[SCRAPE].. ◆ http://www.rotary-ribi.org/districts/homepage.php?DistrictNo=1010 
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● http://www.rotary-ribi.org/districts/homepage.php?DistrictNo=1010 
+| ✓ | ⏱: 13.77s 
+[5/145] id 1975 pages=3 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC027025          | ✓ | ⏱: 4.25s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC027025          | ✓ | ⏱: 0.17s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC027025          | ✓ | ⏱: 4.49s 
+[FETCH]... ↓ https://www.shetlandcharitabletrust.co.uk                         
+| ✓ | ⏱: 5.09s 
+[SCRAPE].. ◆ https://www.shetlandcharitabletrust.co.uk                         
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● https://www.shetlandcharitabletrust.co.uk                         
+| ✓ | ⏱: 5.31s 
+[FETCH]... ↓ https://www.shetlandcharitabletrust.co.uk/apply-for-funding       
+| ✓ | ⏱: 3.40s 
+[SCRAPE].. ◆ https://www.shetlandcharitabletrust.co.uk/apply-for-funding       
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.shetlandcharitabletrust.co.uk/apply-for-funding       
+| ✓ | ⏱: 3.56s 
+[FETCH]... ↓ https://www.shetlandcharitabletrust.co.uk/what-we-do/who-we-fund  
+| ✓ | ⏱: 3.15s 
+[SCRAPE].. ◆ https://www.shetlandcharitabletrust.co.uk/what-we-do/who-we-fund  
+| ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://www.shetlandcharitabletrust.co.uk/what-we-do/who-we-fund  
+| ✓ | ⏱: 3.37s 
+[FETCH]... ↓ https://www.shetlandcharitabletrust.co.uk/                        
+| ✓ | ⏱: 3.32s 
+[SCRAPE].. ◆ https://www.shetlandcharitabletrust.co.uk/                        
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.shetlandcharitabletrust.co.uk/                        
+| ✓ | ⏱: 3.54s 
+[FETCH]... ↓ https://www.shetlandcharitabletrust.co.uk/disclaimer              
+| ✓ | ⏱: 3.89s 
+[SCRAPE].. ◆ https://www.shetlandcharitabletrust.co.uk/disclaimer              
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.shetlandcharitabletrust.co.uk/disclaimer              
+| ✓ | ⏱: 4.01s 
+[FETCH]... ↓ https://www.shetlandcharitabletrust.co.uk/documents               
+| ✓ | ⏱: 2.98s 
+[SCRAPE].. ◆ https://www.shetlandcharitabletrust.co.uk/documents               
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.shetlandcharitabletrust.co.uk/documents               
+| ✓ | ⏱: 3.15s 
+[FETCH]... ↓ https://www.shetlandcharitabletrust.co.uk/success-stories         
+| ✓ | ⏱: 3.06s 
+[SCRAPE].. ◆ https://www.shetlandcharitabletrust.co.uk/success-stories         
+| ✓ | ⏱: 0.31s 
+[COMPLETE] ● https://www.shetlandcharitabletrust.co.uk/success-stories         
+| ✓ | ⏱: 3.43s 
+[FETCH]... ↓ https://www.shetlandcharitabletrust.co.uk/what-we-do              
+| ✓ | ⏱: 3.65s 
+[SCRAPE].. ◆ https://www.shetlandcharitabletrust.co.uk/what-we-do              
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.shetlandcharitabletrust.co.uk/what-we-do              
+| ✓ | ⏱: 3.78s 
+[6/145] id 1977 pages=9 src=register+website opps=4 stored=4 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC027243          | ✓ | ⏱: 4.73s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC027243          | ✓ | ⏱: 0.15s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC027243          | ✓ | ⏱: 4.99s 
+[FETCH]... ↓ http://www.shect.org/                                             
+| ✓ | ⏱: 2.71s 
+[SCRAPE].. ◆ http://www.shect.org/                                             
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● http://www.shect.org/                                             
+| ✓ | ⏱: 2.75s 
+[FETCH]... ↓ https://www.shect.org/applicationform.php                         
+| ✓ | ⏱: 0.90s 
+[SCRAPE].. ◆ https://www.shect.org/applicationform.php                         
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.shect.org/applicationform.php                         
+| ✓ | ⏱: 0.92s 
+[FETCH]... ↓ https://www.shect.org/how-to-apply.php                            
+| ✓ | ⏱: 1.08s 
+[SCRAPE].. ◆ https://www.shect.org/how-to-apply.php                            
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.shect.org/how-to-apply.php                            
+| ✓ | ⏱: 1.13s 
+[FETCH]... ↓ https://www.shect.org/index.php                                   
+| ✓ | ⏱: 1.04s 
+[SCRAPE].. ◆ https://www.shect.org/index.php                                   
+| ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://www.shect.org/index.php                                   
+| ✓ | ⏱: 1.07s 

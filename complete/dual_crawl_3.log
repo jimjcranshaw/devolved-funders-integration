@@ -1,0 +1,560 @@
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047634          | ✓ | ⏱: 8.13s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047634          | ✓ | ⏱: 0.16s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047634          | ✓ | ⏱: 8.55s 
+[FETCH]... ↓ https://www.littlesherpafoundation.com                            
+| ✓ | ⏱: 8.20s 
+[SCRAPE].. ◆ https://www.littlesherpafoundation.com                            
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://www.littlesherpafoundation.com                            
+| ✓ | ⏱: 8.87s 
+[FETCH]... ↓ https://www.littlesherpafoundation.com/photos-videos              
+| ✓ | ⏱: 1.73s 
+[SCRAPE].. ◆ https://www.littlesherpafoundation.com/photos-videos              
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.littlesherpafoundation.com/photos-videos              
+| ✓ | ⏱: 2.10s 
+[FETCH]... ↓ https://www.littlesherpafoundation.com/sherpa-culture             
+| ✓ | ⏱: 2.70s 
+[SCRAPE].. ◆ https://www.littlesherpafoundation.com/sherpa-culture             
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.littlesherpafoundation.com/sherpa-culture             
+| ✓ | ⏱: 2.88s 
+[1/130] id 4429 pages=4 src=register+website opps=0 stored=0 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047645          | ✓ | ⏱: 7.08s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047645          | ✓ | ⏱: 0.11s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047645          | ✓ | ⏱: 7.25s 
+[FETCH]... ↓ https://www.cameronfund.org.uk                                    
+| ✓ | ⏱: 5.68s 
+[SCRAPE].. ◆ https://www.cameronfund.org.uk                                    
+| ✓ | ⏱: 0.31s 
+[COMPLETE] ● https://www.cameronfund.org.uk                                    
+| ✓ | ⏱: 6.08s 
+[FETCH]... ↓ https://www.cameronfund.org.uk/                                   
+| ✓ | ⏱: 2.37s 
+[SCRAPE].. ◆ https://www.cameronfund.org.uk/                                   
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.cameronfund.org.uk/                                   
+| ✓ | ⏱: 2.66s 
+[FETCH]... ↓ https://www.cameronfund.org.uk/annual-reviews                     
+| ✓ | ⏱: 4.46s 
+[SCRAPE].. ◆ https://www.cameronfund.org.uk/annual-reviews                     
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://www.cameronfund.org.uk/annual-reviews                     
+| ✓ | ⏱: 4.73s 
+[FETCH]... ↓ https://www.cameronfund.org.uk/apply-help                         
+| ✓ | ⏱: 3.26s 
+[SCRAPE].. ◆ https://www.cameronfund.org.uk/apply-help                         
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://www.cameronfund.org.uk/apply-help                         
+| ✓ | ⏱: 3.47s 
+[FETCH]... ↓ https://www.cameronfund.org.uk/case-studies                       
+| ✓ | ⏱: 3.39s 
+[SCRAPE].. ◆ https://www.cameronfund.org.uk/case-studies                       
+| ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://www.cameronfund.org.uk/case-studies                       
+| ✓ | ⏱: 3.66s 
+[FETCH]... ↓ https://www.cameronfund.org.uk/forms-and-policies                 
+| ✓ | ⏱: 3.04s 
+[SCRAPE].. ◆ https://www.cameronfund.org.uk/forms-and-policies                 
+| ✓ | ⏱: 0.18s 
+[COMPLETE] ● https://www.cameronfund.org.uk/forms-and-policies                 
+| ✓ | ⏱: 3.33s 
+[FETCH]... ↓ https://www.cameronfund.org.uk/get-involved                       
+| ✓ | ⏱: 3.72s 
+[SCRAPE].. ◆ https://www.cameronfund.org.uk/get-involved                       
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.cameronfund.org.uk/get-involved                       
+| ✓ | ⏱: 4.01s 
+[FETCH]... ↓ https://www.cameronfund.org.uk/gp-mentoring                       
+| ✓ | ⏱: 3.11s 
+[SCRAPE].. ◆ https://www.cameronfund.org.uk/gp-mentoring                       
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://www.cameronfund.org.uk/gp-mentoring                       
+| ✓ | ⏱: 3.31s 
+[2/130] id 4430 pages=9 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047733          | ✓ | ⏱: 4.74s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047733          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047733          | ✓ | ⏱: 4.93s 
+[FETCH]... ↓ https://www.cinnamonnetwork.co.uk                                 
+| ✓ | ⏱: 7.40s 
+[SCRAPE].. ◆ https://www.cinnamonnetwork.co.uk                                 
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● https://www.cinnamonnetwork.co.uk                                 
+| ✓ | ⏱: 7.64s 
+[3/130] id 4448 pages=2 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047871          | ✓ | ⏱: 6.17s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047871          | ✓ | ⏱: 0.39s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047871          | ✓ | ⏱: 6.65s 
+[FETCH]... ↓ https://www.myname5doddie.co.uk/                                  
+| ✓ | ⏱: 5.80s 
+[SCRAPE].. ◆ https://www.myname5doddie.co.uk/                                  
+| ✓ | ⏱: 0.31s 
+[COMPLETE] ● https://www.myname5doddie.co.uk/                                  
+| ✓ | ⏱: 6.23s 
+[FETCH]... ↓ https://www.myname5doddie.co.uk/for-researchers/apply-for-funding/
+| ✓ | ⏱: 4.20s 
+[SCRAPE].. ◆ https://www.myname5doddie.co.uk/for-researchers/apply-for-funding/
+| ✓ | ⏱: 0.18s 
+[COMPLETE] ● https://www.myname5doddie.co.uk/for-researchers/apply-for-funding/
+| ✓ | ⏱: 4.47s 
+[FETCH]... ↓ https://www.myname5doddie.co.uk/take-action/plan-a-fundraiser/    
+| ✓ | ⏱: 4.03s 
+[SCRAPE].. ◆ https://www.myname5doddie.co.uk/take-action/plan-a-fundraiser/    
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://www.myname5doddie.co.uk/take-action/plan-a-fundraiser/    
+| ✓ | ⏱: 4.31s 
+[FETCH]... ↓ https://www.myname5doddie.co.uk/info/copyright-notice/            
+| ✓ | ⏱: 3.86s 
+[SCRAPE].. ◆ https://www.myname5doddie.co.uk/info/copyright-notice/            
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.myname5doddie.co.uk/info/copyright-notice/            
+| ✓ | ⏱: 4.10s 
+[FETCH]... ↓ https://www.myname5doddie.co.uk/merchandise/                      
+| ✓ | ⏱: 3.14s 
+[SCRAPE].. ◆ https://www.myname5doddie.co.uk/merchandise/                      
+| ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://www.myname5doddie.co.uk/merchandise/                      
+| ✓ | ⏱: 3.37s 
+[FETCH]... ↓ 
+https://www.myname5doddie.co.uk/news-and-stories...ew-training-programme-to-spe
+ed-up-mnd-diagnosis/  | ✓ | ⏱: 3.20s 
+[SCRAPE].. ◆ 
+https://www.myname5doddie.co.uk/news-and-stories...ew-training-programme-to-spe
+ed-up-mnd-diagnosis/  | ✓ | ⏱: 0.13s 
+[COMPLETE] ● 
+https://www.myname5doddie.co.uk/news-and-stories...ew-training-programme-to-spe
+ed-up-mnd-diagnosis/  | ✓ | ⏱: 3.43s 
+[FETCH]... ↓ https://www.myname5doddie.co.uk/take-action/                      
+| ✓ | ⏱: 2.14s 
+[SCRAPE].. ◆ https://www.myname5doddie.co.uk/take-action/                      
+| ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://www.myname5doddie.co.uk/take-action/                      
+| ✓ | ⏱: 2.39s 
+[FETCH]... ↓ https://www.myname5doddie.co.uk/take-action/doddie-aid/           
+| ✓ | ⏱: 2.88s 
+[SCRAPE].. ◆ https://www.myname5doddie.co.uk/take-action/doddie-aid/           
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.myname5doddie.co.uk/take-action/doddie-aid/           
+| ✓ | ⏱: 3.18s 
+[4/130] id 4459 pages=9 src=register+website opps=3 stored=3 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047873          | ✓ | ⏱: 5.48s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047873          | ✓ | ⏱: 0.11s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047873          | ✓ | ⏱: 5.83s 
+[FETCH]... ↓ https://www.pilgrimfoundation.org                                 
+| ✓ | ⏱: 3.94s 
+[SCRAPE].. ◆ https://www.pilgrimfoundation.org                                 
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.pilgrimfoundation.org                                 
+| ✓ | ⏱: 4.02s 
+[FETCH]... ↓ https://www.pilgrimfoundation.org/auctions.html                   
+| ✓ | ⏱: 4.06s 
+[SCRAPE].. ◆ https://www.pilgrimfoundation.org/auctions.html                   
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.pilgrimfoundation.org/auctions.html                   
+| ✓ | ⏱: 4.11s 
+[FETCH]... ↓ https://www.pilgrimfoundation.org/index.html                      
+| ✓ | ⏱: 1.37s 
+[SCRAPE].. ◆ https://www.pilgrimfoundation.org/index.html                      
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.pilgrimfoundation.org/index.html                      
+| ✓ | ⏱: 1.46s 
+[FETCH]... ↓ https://www.pilgrimfoundation.org/projects.html                   
+| ✓ | ⏱: 1.56s 
+[SCRAPE].. ◆ https://www.pilgrimfoundation.org/projects.html                   
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.pilgrimfoundation.org/projects.html                   
+| ✓ | ⏱: 1.62s 
+[FETCH]... ↓ https://www.pilgrimfoundation.org/stapfpp.pdf                     
+| ✓ | ⏱: 1.28s 
+[SCRAPE].. ◆ https://www.pilgrimfoundation.org/stapfpp.pdf                     
+| ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://www.pilgrimfoundation.org/stapfpp.pdf                     
+| ✗ | ⏱: 1.30s 
+[5/130] id 4460 pages=5 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047979          | ✓ | ⏱: 8.90s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047979          | ✓ | ⏱: 0.36s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047979          | ✓ | ⏱: 9.32s 
+[FETCH]... ↓ https://www.dunlossit.org                                         
+| ✓ | ⏱: 2.94s 
+[SCRAPE].. ◆ https://www.dunlossit.org                                         
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.dunlossit.org                                         
+| ✓ | ⏱: 3.07s 
+[FETCH]... ↓ https://www.dunlossit.org/                                        
+| ✓ | ⏱: 1.32s 
+[SCRAPE].. ◆ https://www.dunlossit.org/                                        
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.dunlossit.org/                                        
+| ✓ | ⏱: 1.44s 
+[FETCH]... ↓ https://www.dunlossit.org/data-policy                             
+| ✓ | ⏱: 1.24s 
+[SCRAPE].. ◆ https://www.dunlossit.org/data-policy                             
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.dunlossit.org/data-policy                             
+| ✓ | ⏱: 1.31s 
+[FETCH]... ↓ https://www.dunlossit.org/enquiries                               
+| ✓ | ⏱: 1.30s 
+[SCRAPE].. ◆ https://www.dunlossit.org/enquiries                               
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.dunlossit.org/enquiries                               
+| ✓ | ⏱: 1.38s 
+[6/130] id 4474 pages=5 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047983          | ✓ | ⏱: 3.39s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047983          | ✓ | ⏱: 0.15s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC047983          | ✓ | ⏱: 4.45s 
+[FETCH]... ↓ https://www.aret.scot                                             
+| ✓ | ⏱: 3.00s 
+[SCRAPE].. ◆ https://www.aret.scot                                             
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● https://www.aret.scot                                             
+| ✓ | ⏱: 3.34s 
+[FETCH]... ↓ https://www.aret.scot/applications/                               
+| ✓ | ⏱: 1.93s 
+[SCRAPE].. ◆ https://www.aret.scot/applications/                               
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.aret.scot/applications/                               
+| ✓ | ⏱: 2.00s 
+[FETCH]... ↓ https://www.aret.scot/                                            
+| ✓ | ⏱: 2.07s 
+[SCRAPE].. ◆ https://www.aret.scot/                                            
+| ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://www.aret.scot/                                            
+| ✓ | ⏱: 2.16s 
+[FETCH]... ↓ https://www.aret.scot/sierra-leone-an-introduction/               
+| ✓ | ⏱: 1.47s 
+[SCRAPE].. ◆ https://www.aret.scot/sierra-leone-an-introduction/               
+| ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.aret.scot/sierra-leone-an-introduction/               
+| ✓ | ⏱: 1.54s 
+[FETCH]... ↓ https://www.aret.scot/thank-you/                                  
+| ✓ | ⏱: 2.13s 
+[SCRAPE].. ◆ https://www.aret.scot/thank-you/                                  
+| ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://www.aret.scot/thank-you/                                  
+| ✓ | ⏱: 2.19s 
+[7/130] id 4475 pages=6 src=register+website opps=2 stored=2 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048051          | ✓ | ⏱: 3.47s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048051          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048051          | ✓ | ⏱: 3.64s 
+[FETCH]... ↓ https://www.thecareworkerscharity.org.uk                          
+| ✓ | ⏱: 3.01s 
+[SCRAPE].. ◆ https://www.thecareworkerscharity.org.uk                          
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://www.thecareworkerscharity.org.uk                          
+| ✓ | ⏱: 3.23s 
+[FETCH]... ↓ https://www.thecareworkerscharity.org.uk/berkley-hardship-grants/ 
+| ✓ | ⏱: 4.19s 
+[SCRAPE].. ◆ https://www.thecareworkerscharity.org.uk/berkley-hardship-grants/ 
+| ✓ | ⏱: 0.15s 
+[COMPLETE] ● https://www.thecareworkerscharity.org.uk/berkley-hardship-grants/ 
+| ✓ | ⏱: 4.39s 
+[FETCH]... ↓ https://www.thecareworkerscharity.org.uk/crisis-grant/            
+| ✓ | ⏱: 2.01s 
+[SCRAPE].. ◆ https://www.thecareworkerscharity.org.uk/crisis-grant/            
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://www.thecareworkerscharity.org.uk/crisis-grant/            
+| ✓ | ⏱: 2.26s 
+[FETCH]... ↓ https://www.thecareworkerscharity.org.uk/employee-grant-giving/   
+| ✓ | ⏱: 2.96s 
+[SCRAPE].. ◆ https://www.thecareworkerscharity.org.uk/employee-grant-giving/   
+| ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://www.thecareworkerscharity.org.uk/employee-grant-giving/   
+| ✓ | ⏱: 3.16s 
+[FETCH]... ↓ https://www.thecareworkerscharity.org.uk/funding/                 
+| ✓ | ⏱: 3.60s 
+[SCRAPE].. ◆ https://www.thecareworkerscharity.org.uk/funding/                 
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.thecareworkerscharity.org.uk/funding/                 
+| ✓ | ⏱: 3.74s 
+[FETCH]... ↓ https://www.thecareworkerscharity.org.uk/fundraising/             
+| ✓ | ⏱: 2.69s 
+[SCRAPE].. ◆ https://www.thecareworkerscharity.org.uk/fundraising/             
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://www.thecareworkerscharity.org.uk/fundraising/             
+| ✓ | ⏱: 2.87s 
+[FETCH]... ↓ https://www.thecareworkerscharity.org.uk/oxfordshire-grants/      
+| ✓ | ⏱: 2.77s 
+[SCRAPE].. ◆ https://www.thecareworkerscharity.org.uk/oxfordshire-grants/      
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://www.thecareworkerscharity.org.uk/oxfordshire-grants/      
+| ✓ | ⏱: 2.97s 
+[FETCH]... ↓ https://www.thecareworkerscharity.org.uk/solihull-fund/           
+| ✓ | ⏱: 3.43s 
+[SCRAPE].. ◆ https://www.thecareworkerscharity.org.uk/solihull-fund/           
+| ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://www.thecareworkerscharity.org.uk/solihull-fund/           
+| ✓ | ⏱: 3.65s 
+[8/130] id 4489 pages=9 src=register+website opps=7 stored=7 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048055          | ✓ | ⏱: 3.63s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048055          | ✓ | ⏱: 0.14s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048055          | ✓ | ⏱: 3.83s 
+[FETCH]... ↓ https://www.royalcountrysidefund.org.uk                           
+| ✓ | ⏱: 6.04s 
+[SCRAPE].. ◆ https://www.royalcountrysidefund.org.uk                           
+| ✓ | ⏱: 0.28s 
+[COMPLETE] ● https://www.royalcountrysidefund.org.uk                           
+| ✓ | ⏱: 6.41s 
+[FETCH]... ↓ https://www.royalcountrysidefund.org.uk/                          
+| ✓ | ⏱: 5.71s 
+[SCRAPE].. ◆ https://www.royalcountrysidefund.org.uk/                          
+| ✓ | ⏱: 0.35s 
+[COMPLETE] ● https://www.royalcountrysidefund.org.uk/                          
+| ✓ | ⏱: 6.14s 
+[FETCH]... ↓ 
+https://www.royalcountrysidefund.org.uk/emergency-funding-for-drought-and-bluet
+ongue/                | ✓ | ⏱: 4.45s 
+[SCRAPE].. ◆ 
+https://www.royalcountrysidefund.org.uk/emergency-funding-for-drought-and-bluet
+ongue/                | ✓ | ⏱: 0.22s 
+[COMPLETE] ● 
+https://www.royalcountrysidefund.org.uk/emergency-funding-for-drought-and-bluet
+ongue/                | ✓ | ⏱: 4.74s 
+[FETCH]... ↓ 
+https://www.royalcountrysidefund.org.uk/rcf-awards-10000-rural-champion-prize-a
+t-scottish-awards/    | ✓ | ⏱: 10.39s 
+[SCRAPE].. ◆ 
+https://www.royalcountrysidefund.org.uk/rcf-awards-10000-rural-champion-prize-a
+t-scottish-awards/    | ✓ | ⏱: 0.19s 
+[COMPLETE] ● 
+https://www.royalcountrysidefund.org.uk/rcf-awards-10000-rural-champion-prize-a
+t-scottish-awards/    | ✓ | ⏱: 10.67s 
+[FETCH]... ↓ https://www.royalcountrysidefund.org.uk/safeguarding-policy/      
+| ✓ | ⏱: 3.46s 
+[SCRAPE].. ◆ https://www.royalcountrysidefund.org.uk/safeguarding-policy/      
+| ✓ | ⏱: 0.19s 
+[COMPLETE] ● https://www.royalcountrysidefund.org.uk/safeguarding-policy/      
+| ✓ | ⏱: 3.71s 
+[9/130] id 4491 pages=6 src=register+website opps=3 stored=3 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048102          | ✓ | ⏱: 4.60s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048102          | ✓ | ⏱: 0.26s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048102          | ✓ | ⏱: 4.94s 
+[FETCH]... ↓ https://www.coopfoundation.org.uk                                 
+| ✓ | ⏱: 1.93s 
+[SCRAPE].. ◆ https://www.coopfoundation.org.uk                                 
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.coopfoundation.org.uk                                 
+| ✓ | ⏱: 2.06s 
+[FETCH]... ↓ 
+https://www.coopfoundation.org.uk/about-us/open-and-trusting-grant-making/     
+| ✓ | ⏱: 1.28s 
+[SCRAPE].. ◆ 
+https://www.coopfoundation.org.uk/about-us/open-and-trusting-grant-making/     
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● 
+https://www.coopfoundation.org.uk/about-us/open-and-trusting-grant-making/     
+| ✓ | ⏱: 1.37s 
+[FETCH]... ↓ 
+https://www.coopfoundation.org.uk/blog/meet-our-green-opportunities-fund-partne
+rs/                   | ✓ | ⏱: 1.62s 
+[SCRAPE].. ◆ 
+https://www.coopfoundation.org.uk/blog/meet-our-green-opportunities-fund-partne
+rs/                   | ✓ | ⏱: 0.08s 
+[COMPLETE] ● 
+https://www.coopfoundation.org.uk/blog/meet-our-green-opportunities-fund-partne
+rs/                   | ✓ | ⏱: 1.75s 
+[FETCH]... ↓ 
+https://www.coopfoundation.org.uk/blog/why-youth-voice-matters-in-grant-making/
+| ✓ | ⏱: 2.70s 
+[SCRAPE].. ◆ 
+https://www.coopfoundation.org.uk/blog/why-youth-voice-matters-in-grant-making/
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● 
+https://www.coopfoundation.org.uk/blog/why-youth-voice-matters-in-grant-making/
+| ✓ | ⏱: 2.83s 
+[FETCH]... ↓ https://www.coopfoundation.org.uk/how-we-fund/                    
+| ✓ | ⏱: 1.57s 
+[SCRAPE].. ◆ https://www.coopfoundation.org.uk/how-we-fund/                    
+| ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://www.coopfoundation.org.uk/how-we-fund/                    
+| ✓ | ⏱: 1.72s 
+[FETCH]... ↓ 
+https://www.coopfoundation.org.uk/how-we-fund/carbon-innovation-fund-2/        
+| ✓ | ⏱: 2.33s 
+[SCRAPE].. ◆ 
+https://www.coopfoundation.org.uk/how-we-fund/carbon-innovation-fund-2/        
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● 
+https://www.coopfoundation.org.uk/how-we-fund/carbon-innovation-fund-2/        
+| ✓ | ⏱: 2.46s 
+[FETCH]... ↓ https://www.coopfoundation.org.uk/how-we-fund/funding-futures/    
+| ✓ | ⏱: 1.38s 
+[SCRAPE].. ◆ https://www.coopfoundation.org.uk/how-we-fund/funding-futures/    
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.coopfoundation.org.uk/how-we-fund/funding-futures/    
+| ✓ | ⏱: 1.49s 
+[FETCH]... ↓ 
+https://www.coopfoundation.org.uk/how-we-fund/future-communities-fund/         
+| ✓ | ⏱: 1.66s 
+[SCRAPE].. ◆ 
+https://www.coopfoundation.org.uk/how-we-fund/future-communities-fund/         
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.coopfoundation.org.uk/how-we-fund/future-communities-fund/         
+| ✓ | ⏱: 1.80s 
+[10/130] id 4496 pages=9 src=register+website opps=7 stored=7 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048148          | ✓ | ⏱: 3.24s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048148          | ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048148          | ✓ | ⏱: 3.37s 
+[FETCH]... ↓ https://www.locktoncharity.org.uk                                 
+| ✓ | ⏱: 2.39s 
+[SCRAPE].. ◆ https://www.locktoncharity.org.uk                                 
+| ✓ | ⏱: 0.20s 
+[COMPLETE] ● https://www.locktoncharity.org.uk                                 
+| ✓ | ⏱: 2.74s 
+[FETCH]... ↓ https://www.locktoncharity.org.uk/articles                        
+| ✓ | ⏱: 1.56s 
+[SCRAPE].. ◆ https://www.locktoncharity.org.uk/articles                        
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://www.locktoncharity.org.uk/articles                        
+| ✓ | ⏱: 1.86s 
+[FETCH]... ↓ https://www.locktoncharity.org.uk/complaints                      
+| ✓ | ⏱: 2.34s 
+[SCRAPE].. ◆ https://www.locktoncharity.org.uk/complaints                      
+| ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://www.locktoncharity.org.uk/complaints                      
+| ✓ | ⏱: 2.63s 
+[FETCH]... ↓ https://www.locktoncharity.org.uk/cookies-notice                  
+| ✓ | ⏱: 1.73s 
+[SCRAPE].. ◆ https://www.locktoncharity.org.uk/cookies-notice                  
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://www.locktoncharity.org.uk/cookies-notice                  
+| ✓ | ⏱: 1.95s 
+[FETCH]... ↓ https://www.locktoncharity.org.uk/get-involved                    
+| ✓ | ⏱: 2.40s 
+[SCRAPE].. ◆ https://www.locktoncharity.org.uk/get-involved                    
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://www.locktoncharity.org.uk/get-involved                    
+| ✓ | ⏱: 2.61s 
+[FETCH]... ↓ https://www.locktoncharity.org.uk/history                         
+| ✓ | ⏱: 2.02s 
+[SCRAPE].. ◆ https://www.locktoncharity.org.uk/history                         
+| ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://www.locktoncharity.org.uk/history                         
+| ✓ | ⏱: 2.33s 
+[FETCH]... ↓ https://www.locktoncharity.org.uk/lottery                         
+| ✓ | ⏱: 1.36s 
+[SCRAPE].. ◆ https://www.locktoncharity.org.uk/lottery                         
+| ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://www.locktoncharity.org.uk/lottery                         
+| ✓ | ⏱: 1.64s 
+[FETCH]... ↓ 
+https://www.locktoncharity.org.uk/post/2023-grand-national-sweepstake          
+| ✓ | ⏱: 1.30s 
+[SCRAPE].. ◆ 
+https://www.locktoncharity.org.uk/post/2023-grand-national-sweepstake          
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● 
+https://www.locktoncharity.org.uk/post/2023-grand-national-sweepstake          
+| ✓ | ⏱: 1.50s 
+[11/130] id 4502 pages=9 src=register+website opps=1 stored=1 replaced=0
+[FETCH]... ↓ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048161          | ✓ | ⏱: 3.38s 
+[SCRAPE].. ◆ 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048161          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● 
+https://www.oscr.org.uk/about-charities/search-the-register/charity-details?num
+ber=SC048161          | ✓ | ⏱: 3.54s 
+[FETCH]... ↓ https://www.neilstonlegacy.org                                    
+| ✓ | ⏱: 5.14s 
+[SCRAPE].. ◆ https://www.neilstonlegacy.org                                    
+| ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://www.neilstonlegacy.org                                    
+| ✓ | ⏱: 5.24s 
+[FETCH]... ↓ https://www.neilstonlegacy.org/applying-for-funding/              
+| ✓ | ⏱: 1.49s 
+[SCRAPE].. ◆ https://www.neilstonlegacy.org/applying-for-funding/              
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://www.neilstonlegacy.org/applying-for-funding/              
+| ✓ | ⏱: 1.63s 
+[FETCH]... ↓ https://www.neilstonlegacy.org/ourgrants/                         
+| ✓ | ⏱: 1.63s 
+[SCRAPE].. ◆ https://www.neilstonlegacy.org/ourgrants/                         
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.neilstonlegacy.org/ourgrants/                         
+| ✓ | ⏱: 1.75s 
+[FETCH]... ↓ https://www.neilstonlegacy.org/ourgrants/awards/                  
+| ✓ | ⏱: 1.51s 
+[SCRAPE].. ◆ https://www.neilstonlegacy.org/ourgrants/awards/                  
+| ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://www.neilstonlegacy.org/ourgrants/awards/                  
+| ✓ | ⏱: 1.65s 
+[FETCH]... ↓ https://www.neilstonlegacy.org/                                   
+| ✓ | ⏱: 1.62s 
+[SCRAPE].. ◆ https://www.neilstonlegacy.org/                                   
+| ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://www.neilstonlegacy.org/                                   
+| ✓ | ⏱: 1.73s 
+[FETCH]... ↓ https://www.neilstonlegacy.org/reports/                           
+| ✓ | ⏱: 1.51s 
+[SCRAPE].. ◆ https://www.neilstonlegacy.org/reports/                           
+| ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://www.neilstonlegacy.org/reports/                           
+| ✓ | ⏱: 1.61s 
