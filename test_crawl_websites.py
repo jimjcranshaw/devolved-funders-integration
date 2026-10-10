@@ -10,6 +10,7 @@ def test_own_website_accepted():
 def test_register_profiles_skipped():
     assert is_own_website("https://www.oscr.org.uk/about-charities/search-the-register/charity-details?number=SC123") is False
     assert is_own_website("https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/123") is False
+    assert is_own_website("https://www.charitycommissionni.org.uk/charity-details/?regId=NIC123&subId=0") is False
 
 
 def test_empty_or_bare():

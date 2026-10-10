@@ -38,7 +38,8 @@ V2_CODEBASE_PATH = os.path.join(
 )
 sys.path.insert(0, V2_CODEBASE_PATH)
 
-REGISTER_PROFILE_HOSTS = ("oscr.org.uk", "charitycommission.gov.uk", "charity-commission")
+REGISTER_PROFILE_HOSTS = ("oscr.org.uk", "charitycommission.gov.uk", "charity-commission",
+                            "charitycommissionni.org.uk")
 
 
 def is_own_website(url: str) -> bool:
